@@ -30,14 +30,11 @@ body {
     background-color: lightblue;
 }
 
-.calendar .assignment
+.calendar .assignment,
+.calendar .milestone,
+.calendar .exercise
 {
     background-color: lightgreen;
-}
-
-.calendar .milestone
-{
-    background-color: palegreen;
 }
 
 .calendar .exam,
