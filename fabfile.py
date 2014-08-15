@@ -10,6 +10,7 @@ def build():
 
 
 def deploy():
+    pass
 '''
     # Locally build the website
     fabric.api.local('jekyll build --config _config.yml')
