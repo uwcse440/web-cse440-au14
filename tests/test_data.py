@@ -4,6 +4,7 @@ import yaml
 
 # should test that calendar dates are all strings
 # should test that calendar date strings are all XXXX-XX-XX
+# should test calendar entries are in order, makes human edits easier
 # should test other calendar properties
 
 class TestData(unittest.TestCase):

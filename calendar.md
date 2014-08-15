@@ -40,7 +40,7 @@ title: Calendar
       <table width="100%">
         {% for currentholiday in site.data.calendar.holidays %}
           {% if currentdate == currentholiday.date %}
-            <tr class="holiday">
+            <tr class="holiday table-condensed">
               <td>
                 {{ currentholiday.name }}
               </td>
@@ -53,6 +53,26 @@ title: Calendar
             <tr class="away table-condensed">
               <td>
                 {{ currentaway.name }}
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+
+        {% for currentassignment in site.data.calendar.assignments %}
+          {% if currentdate == currentassignment.date %}
+            <tr class="assignment">
+              <td>
+                {{ currentassignment.name }}<br>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+
+        {% for currentmilestone in site.data.calendar.milestones %}
+          {% if currentdate == currentmilestone.date %}
+            <tr class="milestone">
+              <td>
+                {{ currentmilestone.name }}<br>
               </td>
             </tr>
           {% endif %}
@@ -116,6 +136,16 @@ title: Calendar
           {% endif %}
         {% endfor %}
   
+        {% for currentexercise in site.data.calendar.exercises %}
+          {% if currentdate == currentexercise.date %}
+            <tr class="exercise">
+              <td>
+                {{ currentexercise.name }}<br>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+
         {% for currentexam in site.data.calendar.exams %}
           {% if currentdate == currentexam.date %}
             <tr class="exam">
@@ -134,27 +164,7 @@ title: Calendar
               </td>
             </tr>
           {% endif %}
-        {% endfor %}
-  
-        {% for currentassignment in site.data.calendar.assignments %}
-          {% if currentdate == currentassignment.date %}
-            <tr class="assignment">
-              <td>
-                {{ currentassignment.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-  
-        {% for currentmilestone in site.data.calendar.milestones %}
-          {% if currentdate == currentmilestone.date %}
-            <tr class="milestone">
-              <td>
-                {{ currentmilestone.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
+        {% endfor %}  
       </table>
     </td>
     {% when 'Sat' %}
