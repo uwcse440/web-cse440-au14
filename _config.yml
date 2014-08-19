@@ -1,6 +1,10 @@
 name:       James Fogarty
 baseurl:    /~jfogarty
 
+collections:
+  assignments:
+    output: true
+
 exclude:
   - env27
   - env34
