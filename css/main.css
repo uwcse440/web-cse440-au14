@@ -42,3 +42,13 @@ body {
 {
     background-color: mediumpurple;
 }
+
+/* make calendar go to single column at smallest width */
+@media (max-width: 767px) {
+  .calendar, .calendar table, .calendar tr, .calendar td, .calendar th, .calendar tbody, .calendar thead {
+    display: block;
+  }
+  .calendar > tbody > tr > td {
+    width: auto;
+  }
+}
