@@ -10,3 +10,9 @@ env34
 
 # Compiled Python
 *.pyc
+
+# Eclipse project stuff
+.project
+
+# Temp/backup files
+*~
