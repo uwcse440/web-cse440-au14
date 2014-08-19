@@ -15,9 +15,7 @@ This proposal is an individual assignment, consisting of three milestones.
 
 * Assignment 1a: Proposal Brainstorm
 
-  `due night before`
-  
-  Due: Uploaded before section Friday, September 26, 2014
+  Due: Uploaded the night before section Friday, September 26, 2014
   
 * Assignment 1b: Project Proposal
 
@@ -25,12 +23,15 @@ This proposal is an individual assignment, consisting of three milestones.
   
 * Assignment 1c: Project Bid
 
-  Due: Uploaded before class Thursday, October 2, 2014
+  Due: Uploaded the night before class Thursday, October 2, 2014
 
 # Project Description
-The theme for projects in this course is __personal informatics__. 
+The theme for projects in this course is __personal informatics__. Personal informatics systems are systems that _help people 
+collect personally relevant information for the purpose of self-reflection and gaining self-knowledge_ \([Li _et al._, 2010](http://www.personalinformatics.org/lab/model/)\).
+Examples include systems like FitBit and Moves (for tracking physical activity), Mint (for tracking finances), or Last.fm (for 
+tracking music listening). 
 
-`Li et al definition`
+`these examples good? others? need links? -Matt`
 
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their day to day lives, how we can approach those problems, and the role for interactive computing.
