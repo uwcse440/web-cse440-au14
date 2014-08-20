@@ -15,9 +15,7 @@ This proposal is an individual assignment, consisting of three milestones.
 
 * Assignment 1a: Proposal Brainstorm
 
-  `due night before`
-  
-  Due: Uploaded before section Friday, September 26, 2014
+  Due: Uploaded the night before section Friday, September 26, 2014
   
 * Assignment 1b: Project Proposal
 
@@ -25,12 +23,20 @@ This proposal is an individual assignment, consisting of three milestones.
   
 * Assignment 1c: Project Bid
 
-  Due: Uploaded before class Thursday, October 2, 2014
+  Due: Uploaded the night before class Thursday, October 2, 2014
 
 # Project Description
-The theme for projects in this course is __personal informatics__. 
+The theme for projects in this course is __personal informatics__:
 
-`Li et al definition`
+> Personal informatics systems are systems that _help people collect personally relevant information for the purpose of 
+> self-reflection and gaining self-knowledge._
+>
+> [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
+
+Examples include systems like FitBit and Moves (for tracking physical activity), Mint (for tracking finances), or Last.fm (for 
+tracking music listening). 
+
+`these examples good? others? need links? -Matt`
 
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their day to day lives, how we can approach those problems, and the role for interactive computing.
@@ -74,34 +80,40 @@ Due: Uploaded before section Friday, September 26, 2014
 
 Propose three ideas as starting points for brainstorming. Each idea should be a single sentence. 
 
-Be prepared to your initial ideas to other students.
+Be prepared to talk about your initial ideas with other students.
 
 ### Submission
 Submit via Catalyst here: `link to Catalyst`
 
-Print your ideas and bring them with you to section. `finalize what to say here`
+Bring your proposal ideas to section (on your laptop or on paper) so that you can use them as a starting point 
+in the brainstorm.
 
 ### Grading
-`decide on grading`
-One point for each unique proposed idea (i.e. don’t submit small variations on the same idea). (3 pts)
+`decide on grading -James; I'm fine with this as-is -Matt`
+One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)
 
 ## 1b: Project Proposal
 Due: Uploaded the night before class Tuesday, September 30, 2014
 
-* `what's the problem`
-* `why is it important`
-* `scenario illustrating the problem and the opportunity`
-
 You will submit a two-paragraph proposal of at most 500 words of text. Any images are free, but the final document must 
-fit on a single page. The points your essay should address are discussed next.
+fit on a single page. The points your essay should address are:
 
-The problem description should convince the reader that this is a difficult and interesting problem to solve, and worth 
-spending a quarter considering. It states what the problem is and why it is a problem or describes a new idea and why it 
-will enhance an existing application or work practice.
+1. Problem and Motivation (3 pts)
 
-The analysis section should give more background for the problem or new idea. It does not just focus on the negative 
-aspects of the current situation, but also identifies some positive aspects that may be beneficial to retain. A few 
-salient examples from existing systems or work practices should be used to support those claims.
+   * `what's the problem`
+   * `why is it important`
+
+   The problem description should convince the reader that this is a difficult and interesting problem to solve, and worth 
+   spending a quarter considering. It states what the problem is and why it is a problem or describes a new idea and why it 
+   will enhance an existing application or work practice.
+
+2. Analysis of Problem (3 pts)
+
+   * `change this to scenario illustrating the problem and the opportunity?`
+
+   The analysis section should give more background for the problem or new idea. It does not just focus on the negative 
+   aspects of the current situation, but also identifies some positive aspects that may be beneficial to retain. A few 
+   salient examples from existing systems or work practices should be used to support those claims.
 
 ## Submission
 Your submission must be in PDF format. 
@@ -109,15 +121,7 @@ Your submission must be in PDF format.
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
-Your proposal should consist of two paragraphs:
-
-1. Problem and Motivation (3 pts)
-
-   `blah dee blah`
-
-2. Analysis of Problem (3 pts)
-
-   `blah dee blah`
+Your proposal should consist of the two paragraphs outlined above (6 pts). You will additionally be graded on:
 
 3. Creativity (3 pts)
 

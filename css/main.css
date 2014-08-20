@@ -43,6 +43,11 @@ body {
     background-color: mediumpurple;
 }
 
+blockquote p {
+	font-size: 1em;
+	font-weight: normal;
+}
+
 /* make calendar go to single column at smallest width */
 @media (max-width: 767px) {
   .calendar, .calendar table, .calendar tr, .calendar td, .calendar th, .calendar tbody, .calendar thead {
