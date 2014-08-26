@@ -7,6 +7,11 @@ title: "Assignment 2: Getting the Right Design"
 
 Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through contextual inquiry, task development, and finally selecting a design from multiple options.
 
+# Milestones
+This is a group assignment, consisting of `X` milestones.
+
+# Project Description
+
 In this assignment, you will use ideation (2a) to brainstorm a large set of possible tasks and design ideas for your project. You will then use contextual inquiry (2b/c/d) to learn more about the practices of your target users/customers. You will draw upon the ideas you developed in 2a and the observations you made in 2b/c/d will help you to develop a set of potential tasks (2e) you would like your design to support. Finally, you will sketch initial designs (2f/g) supporting your proposed tasks and summarize it in a final report (2h).
 
 # Requirements
@@ -46,8 +51,10 @@ In one paragraph, describe your target user group and other stakeholders for you
 In another paragraph, describe how you will interact with these target users, and your role as the “apprentice”. Will you be observing their current behaviors? Will you be asking them questions about their desired technological needs? Please be as specific as possible, providing potential interview questions or things you will be observing for.
 
 ###Submission
+
 Two paragraphs of text uploaded on Canvas. Be prepared to discuss the plan with other teams and the course staff during lecture.
-Grading
+
+### Grading
 Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)
 
 ## 2c: Contextual inquiry checkin
@@ -59,10 +66,11 @@ Describe your first interview(s)--who you interviewed, their background, and the
 
 What remains unaddressed from your first interview(s)? We fully expect that changes will be necessary--interviews are difficult to get right, and often times important topics are left unresolved. How do you plan on changing your interview protocol and observation setup in light of your first interview(s)?
 
-
 ###Submission
+
 No more than one page of text uploaded on Canvas. At recitation, one member of your group is going to be asked to give a short (<=1 minute) summary of your Contextual Inquiry thus far.
-Grading
+
+### Grading
 A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).
 
 ## 2d: Contextual inquiry review
@@ -92,7 +100,8 @@ In your submission, include brief answers to the following questions. These shou
 No more than three pages of text uploaded on Canvas: Contextual Inquiry themes (<=1 page) and task analysis questions (<=2 pages).
 
 Be prepared to discuss your Contextual Inquiry findings with other teams and the course staff during lecture.
-Grading
+
+### Grading
 A total of 6 points, split between the description of the user group and quality of the themes developed (3 points) and answers to the task analysis questions (3 points).
 
 ## 2e: Task review
@@ -109,6 +118,7 @@ Each task should be described in text. Be sure that your task conveys a problem 
 1 point for each task described (6 points total).
 
 ## 2f: Design checkin ("3x4")
+
 Due: Uploaded the night before class Tuesday Oct 21, 2014
 
 By this point, you have identified and described six important tasks to your design problem. For this checkin, you will now brainstorm and sketch three very different initial designs for your interface. These illustrations do not need to detail the entire interface, but should instead emphasize key aspects needed to illustrate the functionality. These should be rough sketches on paper (not digital mockups), including illustrations of their relations (e.g., arrows showing relationships between screens). Each design should support four tasks. Each design does not need to support the same four tasks as the other designs. The purpose of these sketches is to explore the design space before you lock yourself into a single design, so we will be looking for variety in designs and tasks.
@@ -161,5 +171,6 @@ A single document in PDF format, uploaded to Canvas.
 
 ### Grading
 This report is worth a total of 39.324242434242 points, with the point split described above for each section. Additional points pertaining to the entire report are described below:
-Report clarity (3 points)
+
+### Report clarity (3 points)
 Make sure your writing is easy to read: ensure it is clear and concise, use section headings, make liberal use of whitespace, include images in the body of the write-up with appropriate figure numbers and captions, refer to the figures in the body of your text, and check for grammar errors.
