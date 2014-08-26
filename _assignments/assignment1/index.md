@@ -3,25 +3,23 @@ layout: default
 title: "Assignment 1: Project Proposal"
 ---
 
-`link milestones to anchors near headers`
-
 # Overview
 Your assignment is to propose a __problem__ and an __approach__ that could form the basis of a project for this course.
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
-analyze the challenges of supporting effective interaction, explore potential designs, and propose a compelling solution. 
+analyze the challenges of supporting effective interaction, explore potential designs, and propose a compelling solution.
 
 # Milestones
 This proposal is an individual assignment, consisting of three milestones.
 
-* Assignment 1a: Proposal Brainstorm
+* [Assignment 1a: Proposal Brainstorm](#proposal_brainstorm)
 
-  Due: Uploaded the night before section Friday, September 26, 2014
+  Due: Uploaded the night before section and bring to section Friday, September 26, 2014
   
-* Assignment 1b: Project Proposal
+* [Assignment 1b: Project Proposal](#project_proposal)
 
   Due: Uploaded the night before class Tuesday, September 30, 2014
   
-* Assignment 1c: Project Bid
+* [Assignment 1c: Project Bid](#project_bid)
 
   Due: Uploaded the night before class Thursday, October 2, 2014
 
@@ -33,30 +31,22 @@ The theme for projects in this course is __personal informatics__:
 >
 > [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
 
-Examples include systems like FitBit and Moves (for tracking physical activity), Mint (for tracking finances), or Last.fm (for 
-tracking music listening). 
+Examples include systems like [FitBit](http://www.fitbit.com/) and [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity), [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake), [Mint](http://www.mint.com/) (for tracking finances), [Moves](http://www.moves-app.com/) (for tracking location), or [Last.fm](http://www.last.fm) (for 
+tracking music listening).
 
-`these examples good? others? need links? -Matt`
-
-Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
+Your proposal must go _beyond_ a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their day to day lives, how we can approach those problems, and the role for interactive computing.
 This first assignment is your opportunity to think broadly about a problem. Subsequent assignments will provide 
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
 You should identify and consider problems in activities that are important to people. Potential examples include:
 
-`I feel like this list could use a lot of help`
-
 * living a healthy life
-* staying in touch with family,
+* helping people remember to track
 * managing time or finances effectively
-* learning new skills
-* achieving greater personal understanding
-* reducing environmental impact
-* enabling effective citizen participation in government
-* improving the lives of underserved populations
-
-`I feel like these other opportunities could be better` 
+* identifying behavioral patterns
+* sharing accomplishments with friends and family
+* plans for starting to track
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). Instead identify problems in 
 long-lived activities that span many different social or technological contexts. For example, if you want to help people 
@@ -75,8 +65,10 @@ convince both the instructors and your classmates that a problem is interesting,
 
 # Deliverables
 
+<a name="proposal_brainstorm"></a>
+
 ## 1a: Proposal Brainstorm
-Due: Uploaded before section Friday, September 26, 2014
+Due: Uploaded the night before section and brought to section Friday, September 26, 2014
 
 Propose three ideas as starting points for brainstorming. Each idea should be a single sentence. 
 
@@ -92,6 +84,8 @@ in the brainstorm.
 `decide on grading -James; I'm fine with this as-is -Matt`
 One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)
 
+<a name="project_proposal"></a>
+
 ## 1b: Project Proposal
 Due: Uploaded the night before class Tuesday, September 30, 2014
 
@@ -100,20 +94,17 @@ fit on a single page. The points your essay should address are:
 
 1. Problem and Motivation (3 pts)
 
-   * `what's the problem`
-   * `why is it important`
-
-   The problem description should convince the reader that this is a difficult and interesting problem to solve, and worth 
+   Describe the problem. This description should convince the reader that this is a difficult and interesting problem, and worth 
    spending a quarter considering. It states what the problem is and why it is a problem or describes a new idea and why it 
    will enhance an existing application or work practice.
 
 2. Analysis of Problem (3 pts)
 
-   * `change this to scenario illustrating the problem and the opportunity?`
-
    The analysis section should give more background for the problem or new idea. It does not just focus on the negative 
    aspects of the current situation, but also identifies some positive aspects that may be beneficial to retain. A few 
    salient examples from existing systems or work practices should be used to support those claims.
+   
+   If appropriate, you may conduct this analysis by describing a scenario that illustrates how someone might encounter and resolve the problem.
 
 ## Submission
 Your submission must be in PDF format. 
@@ -121,6 +112,8 @@ Your submission must be in PDF format.
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+`Random grading is random`
+
 Your proposal should consist of the two paragraphs outlined above (6 pts). You will additionally be graded on:
 
 3. Creativity (3 pts)
@@ -131,10 +124,14 @@ Your proposal should consist of the two paragraphs outlined above (6 pts). You w
 
    Make sure your writing is easy to read: ensure it is clear and concise and check for grammar errors.
 
+<a name="project_bid"></a>
+
 ## 1c: Project Bid
-Due: Uploaded before class Thursday, October 2, 2014
+Due: Uploaded the night before class Thursday, October 2, 2014
 
 Review the sponsored projects and course instructor comments regarding those projects.
+
+`Are there any more instructions for bidding?`
 
 Then bid on projects and potential partners. Course instructors will use your bids to assign projects and groups. 
 
