@@ -13,6 +13,7 @@ env34
 
 # Eclipse project stuff
 .project
+.settings
 
 # Temp/backup files
 *~
