@@ -104,7 +104,7 @@ http://www.cs.washington.edu/education/courses/cse440/11sp/readings/SamplePoster
 
 Feel free to use the design as is, modify it, or not use it at all. There are
 additional examples of prior posters here:
-http://www.cs.washington.edu/education/courses/cse440/11sp/readings/previousposters/ `move to repo and make a link to there`
+http://www.cs.washington.edu/education/courses/cse440/11sp/readings/previousposters/ `curate, move to repo, make ppts pdfs, and make a link to there`
 
 Your poster may be in PPT, PPTX, or PDF format. We have a color plotter that
 can print posters this size. Your source file is due as stated above. We will
@@ -192,6 +192,8 @@ should be appropriately edited and paced (neither too slow to keep a viewer’s
 interest nor too fast to follow).
 
 #### Video peer reviews (1 pts)
+
+`decide if we're doing peer reviews`
 
 It is important for video prototypes to be accessible and appeal to a large
 audience. To measure how well your prototype succeeds at this, we will have each
