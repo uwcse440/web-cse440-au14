@@ -90,7 +90,9 @@ In another paragraph, describe how you will interact with these target users, an
 
 ###Submission
 
-Two paragraphs of text uploaded on Catalyst `(link)`. Be prepared to discuss the plan with other teams and the course staff during lecture.
+Two paragraphs of text. Submit via Catalyst here: `link to Catalyst` 
+
+Be prepared to discuss the plan with other teams and the course staff during lecture.
 
 ### Grading
 Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)
@@ -108,7 +110,9 @@ What remains unaddressed from your first interview(s)? We fully expect that chan
 
 ###Submission
 
-No more than one page of text uploaded on Catalyst `(link)`. At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your contextual inquiry thus far.
+No more than one page of text. Submit via Catalyst here: `link to Catalyst`
+
+At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your contextual inquiry thus far.
 
 ### Grading
 A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).
@@ -143,7 +147,7 @@ In your submission, include brief answers to the following questions. These shou
 11. What happens when things go wrong?
 
 ### Submission
-No more than three pages of text uploaded on Catalyst `(link)`: contextual inquiry themes (&le;1 page) and task analysis questions (&le;2 pages).
+No more than three pages of text: contextual inquiry themes (&le;1 page) and task analysis questions (&le;2 pages). Submit via Catalyst here: `link to Catalyst`
 
 Be prepared to discuss your Contextual Inquiry findings with other teams and the course staff during lecture.
 
@@ -160,7 +164,9 @@ Taking what you learned in your contextual inquiry, you will now design six task
 Each task should be described in text. Be sure that your task conveys a problem rather than a step-by-step walkthrough of a particular design.
 
 ### Submission
-6 task descriptions (one paragraph each). At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your tasks thus far.
+6 task descriptions (one paragraph each). Submit via Catalyst here: `link to Catalyst`
+
+At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your tasks thus far.
 
 ### Grading
 1 point for each task described (6 points total).
@@ -176,6 +182,8 @@ By this point, you have identified and described six important tasks to your des
 ### Submission
 A single document including scanned images of your three initial designs (again, these designs should not be digital mockups). For each design, provide a bulleted list (one sentence for each of the four tasks) detailing how a user might complete that task. Additionally, provide an updated list of tasks for reference within this document.
 
+Submit via Catalyst here: `link to Catalyst`
+
 ### Grading
 2 points for each design (6 points total). We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).
 
@@ -190,6 +198,8 @@ Include in your writeup a single paragraph describing why you selected the desig
 
 ### Submission
 A single document including scanned images of your storyboards and a one-paragraph motivation (half a page) explaining why you chose that design and those tasks.
+
+Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 2 points on the rationale behind choosing the particular design, 2 points on the storyboard for each task (6 points total).
@@ -223,7 +233,9 @@ Turn the task descriptions for the two tasks you chose for your selected design 
 See [assignment 2g](#design_review). Include updated storyboards of the design you have selected.
 
 ### Submission
-A single document in PDF format, uploaded to Catalyst `(link)`.
+A single document in PDF format.
+
+Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 This report is worth a total of `39.324242434242` points, with the point split described above for each section. Additional points pertaining to the entire report are described below:
