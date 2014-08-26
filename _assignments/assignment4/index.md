@@ -16,22 +16,22 @@ website, a poster, and an elevator pitch.
 
 This is a group assignment, consisting of four milestones.
 
-* Assignment 4a: Website and video prototype checkin
+* [Assignment 4a: Website and video prototype checkin](#website_video_checkin)
 
-  Due: Uploaded the night before class Tuesday Nov 25, 2014
+  Due: Uploaded the night before class Tuesday, November 25, 2014
 
-* Assignment 4b: Poster critique and elevator pitch
+* [Assignment 4b: Poster critique and elevator pitch](#poster_elevator)
 
-  Due: Uploaded the night before class Thursday Dec 4, 2014
+  Due: Uploaded the night before class Thursday, December 4, 2014
 
-* Assignment 4c: Poster / website / video / pitch critique
+* [Assignment 4c: Poster / website / video / pitch critique](#poster_website_video_pitch_critique)
 
-  Due: Completed in section on Friday Dec 5, 2014
+  Due: Completed in section on Friday, December 5, 2014
 
-* Assignment 4d: Poster session, final video, and final website
+* [Assignment 4d: Poster session, final video, and final website](#final_everything)
 
   Due: Website/video uploaded the night before the final exam block. Attend
-  during the final exam block on Monday Dec 8, 2014.
+  during the final exam block on Monday, December 8, 2014.
 
 # Requirements
 
@@ -48,7 +48,7 @@ This is a group assignment, consisting of four milestones.
 2. __Website__: You will create a project website that provides an overview of the
    project, presents your concept video, presents your design prototypes,
    introduces team members (with pictures) and provides a link to your final
-   write-ups from __assignment 2__ and __assignment 3__.
+   write-ups from [assignment 2](../assignment2/) and [assignment 3](../assignment3).
 
 3. __Poster__: The goal of the poster is to learn how to present your work in a
    visual form to interested parties from industry and across campus and how to
@@ -63,9 +63,11 @@ This is a group assignment, consisting of four milestones.
 
 # Deliverables
 
+<a name="website_video_checkin"></a>
+
 ## 4a: Website and video prototype checkin
 
-Due: Uploaded the night before class Tuesday Nov 25, 2014
+Due: Uploaded the night before class Tuesday, November 25, 2014
 
 It is important to summarize your design to convey your ideas to others, which
 you will do through a website and a video prototype. __We are going to use your
@@ -88,8 +90,8 @@ it can be played on a typical laptop. It should be __less than 50 MB__. If you
 submit early drafts of your video, we will test that they play properly.
  
 You do not need to submit a write-up for this assignment, but be sure to keep
-updating your “running write-up” (started in __assignment 3__, updated in
-__assignment 4__) as details of your project evolve.
+updating your “running write-up” (started in [assignment 3](../assignment3), updated in
+[assignment 4](#final_everything)) as details of your project evolve.
 
 ### Submission
 
@@ -102,9 +104,11 @@ Note that these should be __complete__ and will be evaluated as such. We are sim
 giving you the opportunity to iterate and refine them before the final poster
 session.
 
+<a name="poster_elevator"></a>
+
 ## 4b: Poster critique and elevator pitch
 
-Due: Uploaded the night before class Thursday Dec 4, 2014
+Due: Uploaded the night before class Thursday, December 4, 2014
 
 #### 4b.1 Poster
 
@@ -119,12 +123,10 @@ Your poster should include:
 * Design Iteration
 
 Your poster should include _screenshots_ and a _small amount of text_, not full
-sentences. There is a 32"x40" PowerPoint Template available here:
-http://www.cs.washington.edu/education/courses/cse440/11sp/readings/SamplePoster.ppt `move to repo and make a link to there`
+sentences. There is a 32"x40" PowerPoint Template available [here](http://www.cs.washington.edu/education/courses/cse440/11sp/readings/SamplePoster.ppt) `move to repo and make a link to there`
 
 Feel free to use the design as is, modify it, or not use it at all. There are
-additional examples of prior posters here:
-http://www.cs.washington.edu/education/courses/cse440/11sp/readings/previousposters/ `curate, move to repo, make ppts pdfs, and make a link to there`
+additional examples of prior posters [here](http://www.cs.washington.edu/education/courses/cse440/11sp/readings/previousposters/) `curate, move to repo, make ppts pdfs, and make a link to there`
 
 Your poster may be in PPT, PPTX, or PDF format. We have a color plotter that
 can print posters this size. Your source file is due as stated above. We will
@@ -137,7 +139,7 @@ pitch’ to a small group of judges. This pitch should convey your problem, your
 solution, and the work you did this quarter to refine and validate your
 solution.
 
-__Be prepared to give this pitch in class Dec 4__, at which point course staff and
+__Be prepared to give this pitch in class December 4__, at which point course staff and
 other students will give feedback so you can improve your pitch before the final
 poster presentation.
 
@@ -151,9 +153,11 @@ Be prepared to give your pitch in class.
 
 Initial draft of the poster __(3 points)__ and participation in-class __(3 points)__.
 
+<a name="poster_website_video_pitch_critique"></a>
+
 ## 4c: Poster / website / video / pitch critique
 
-Due: Completed in section on Friday Dec 5, 2014
+Due: Completed in section on Friday, December 5, 2014
 
 Friday is a flexible critique day. The purpose of this day is to help you
 refine whichever of your remaining deliverables you need feedback on. Be
@@ -169,10 +173,11 @@ laptop).
 
 Participation in-class __(3 points)__.
 
+<a name="final_everything"></a>
+
 ## 4d: Poster session, final video, and final website
 
-Due: Website/video uploaded the night before the final exam block. Attend during the final
-exam block on Monday Dec 8, 2014.
+Due: Website/video uploaded the night before the final exam block. Attend during the final exam block on Monday, December 8, 2014.
 
 You’re almost done! Show up to the final exam block so you can present your
 one-minute pitch and your poster.
