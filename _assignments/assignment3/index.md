@@ -13,16 +13,33 @@ it. This __group__ assignment, spanning multiple weeks of the course, utilizes p
 prototyping, peer inspection, user testing, and refinement to improve your
 design and serve as the basis of an interactive prototype.
 
+# Milestones
+
+This is a group assignment, consisting of four milestones.
+
+* Assignment 3a: Paper prototype checkin and heuristic evaluation 
+
+  Due: Uploaded the night before class Tuesday Nov 4, 2014 
+
+* Assignment 3b: Paper prototype and user testing checkin
+
+  Due: Uploaded the night before section and brought to section on Friday Nov 7, 2014
+
+* Assignment 3c: Digital mockup 
+
+  Due: Uploaded the night before section Friday Nov 14, 2014
+
+* Assignment 3d: Final report
+
+  Due: Uploaded the night before class Tuesday Nov 18, 2014
+
+
+# Requirements 
+
 In this assignment, you will use various techniques to iterate on your design.
 You will use __heuristic evaluation (3a)__ and __user testing (3b)__ of paper prototypes
 to improve your design, eventually producing a final __digital mockup (3c)__ and
 __final report (3d)__. 
-
-# Milestones
-
-`tbd`
-
-# Requirements 
 
 1. Based on the results of your sketching, selection, and refinement processes,
    develop a paper prototype of your proposed design. If necessary or
