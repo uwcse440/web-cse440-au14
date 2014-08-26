@@ -35,7 +35,7 @@ This is a group assignment, consisting of four milestones.
 
 # Requirements
 
-1. Video prototype: You will create a video prototype that illustrates your
+1. __Video prototype__: You will create a video prototype that illustrates your
    proposed design. Use the storyboards you created in previous assignment as a
    basis for your video prototype. Be sure you both set up the context and show
    the interaction with your design. Refer to the examples provided in lecture
@@ -43,21 +43,21 @@ This is a group assignment, consisting of four milestones.
    prototype. If your group does not have access to a camera, we can loan you a
    low cost camera; please email us as soon as possible if you need a camera.
 
-   Your videos should not be longer than 2 minutes.
+   Your videos should not be longer than __2 minutes__.
 
-2. Website: You will create a project website that provides an overview of the
+2. __Website__: You will create a project website that provides an overview of the
    project, presents your concept video, presents your design prototypes,
    introduces team members (with pictures) and provides a link to your final
-   write-ups from assignments 2 and 3.
+   write-ups from __assignment 2__ and __assignment 3__.
 
-3. Poster: The goal of the poster is to learn how to present your work in a
+3. __Poster__: The goal of the poster is to learn how to present your work in a
    visual form to interested parties from industry and across campus and how to
    quickly convey the most important aspects of your work. The poster must be
    32"x40" (portrait, vertical). This should not be a difficult project; it
    should require a few hours.
 
-4. Elevator Pitch: You should be able to summarize the problem and your design
-   in no more than one minute. This pitch should convince the audience that your
+4. __Elevator Pitch__: You should be able to summarize the problem and your design
+   in __no more than one minute__. This pitch should convince the audience that your
    problem was worth investigating and that your design effectively solves the
    problem.
 
@@ -68,8 +68,8 @@ This is a group assignment, consisting of four milestones.
 Due: Uploaded the night before class Tuesday Nov 25, 2014
 
 It is important to summarize your design to convey your ideas to others, which
-you will do through a website and a video prototype. We are going to use your
-websites and video to advertise the poster session. While this is a checkin and
+you will do through a website and a video prototype. __We are going to use your
+websites and video to advertise the poster session__. While this is a checkin and
 you will receive feedback before your final submission, you should submit
 complete, high-quality versions of your website and video at this point.
 
@@ -80,16 +80,16 @@ how to do it.`
 
 #### 4a.2 Video prototype
 
-Submit your 2 minute video prototype in a portable and playable format. It
+Submit your __2 minute__ video prototype in a portable and playable format. It
 should be playable on a Windows 7/8 laptop and Mac OS X laptop without any
 special codecs installed (H.264 in an mp4 file is a good candidate). It should
 be sufficiently high-resolution for projection, but sufficiently compressed that
-it can be played on a typical laptop. It should be less than 50 MB. If you
+it can be played on a typical laptop. It should be __less than 50 MB__. If you
 submit early drafts of your video, we will test that they play properly.
  
 You do not need to submit a write-up for this assignment, but be sure to keep
-updating your “running write-up” (started in Assignment 3, updated in Assignment
-4) as details of your project evolve.
+updating your “running write-up” (started in __assignment 3__, updated in
+__assignment 4__) as details of your project evolve.
 
 ### Submission
 
@@ -97,7 +97,10 @@ Submit a pull request in github to upload your website and video. `might need in
 
 ### Grading
 
-Your initial version of your website (6 points) and video prototype (6 points). Note that these should be complete and will be evaluated as such. We are simply giving you the opportunity to iterate and refine them before the final poster session.
+Your initial version of your website __(6 points)__ and video prototype __(6 points)__.
+Note that these should be __complete__ and will be evaluated as such. We are simply
+giving you the opportunity to iterate and refine them before the final poster
+session.
 
 ## 4b: Poster critique and elevator pitch
 
@@ -115,7 +118,7 @@ Your poster should include:
 * Key Features
 * Design Iteration
 
-Your poster should include screenshots and a small amount of text, not full
+Your poster should include _screenshots_ and a _small amount of text_, not full
 sentences. There is a 32"x40" PowerPoint Template available here:
 http://www.cs.washington.edu/education/courses/cse440/11sp/readings/SamplePoster.ppt `move to repo and make a link to there`
 
@@ -134,7 +137,7 @@ pitch’ to a small group of judges. This pitch should convey your problem, your
 solution, and the work you did this quarter to refine and validate your
 solution.
 
-Be prepared to give this pitch in class Dec 4, at which point course staff and
+__Be prepared to give this pitch in class Dec 4__, at which point course staff and
 other students will give feedback so you can improve your pitch before the final
 poster presentation.
 
@@ -146,7 +149,7 @@ Be prepared to give your pitch in class.
 
 ### Grading
 
-Initial draft of the poster (3 points) and participation in-class (3 points).
+Initial draft of the poster __(3 points)__ and participation in-class __(3 points)__.
 
 ## 4c: Poster / website / video / pitch critique
 
@@ -164,7 +167,7 @@ laptop).
 
 ### Grading
 
-Participation in-class (3 points).
+Participation in-class __(3 points)__.
 
 ## 4d: Poster session, final video, and final website
 
@@ -197,7 +200,7 @@ and pitch.
 
 #### Pitch (50 pts)
 
-* Is it appropriately timed and prepared? (less than one minute)
+* Is it appropriately timed and prepared? (less than __one minute__)
 * Does it convey the problem and your solution?
 * Does it convey the work you’ve done to refine and validate your solution?
 
@@ -219,4 +222,4 @@ of you rate the videos as you watch them (including your own teams’ video).
 
 #### Website (2 pts)
 
-Your website will be graded on its visual design and the completeness of its content
+Your website will be graded on its visual design and the completeness of its content.
