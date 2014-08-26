@@ -14,7 +14,24 @@ website, a poster, and an elevator pitch.
 
 # Milestones
 
-`tbd`
+This is a group assignment, consisting of four milestones.
+
+* Assignment 4a: Website and video prototype checkin
+
+  Due: Uploaded the night before class Tuesday Nov 25, 2014
+
+* Assignment 4b: Poster critique and elevator pitch
+
+  Due: Uploaded the night before class Thursday Dec 4, 2014
+
+* Assignment 4c: Poster / website / video / pitch critique
+
+  Due: Completed in section on Friday Dec 5, 2014
+
+* Assignment 4d: Poster session, final video, and final website
+
+  Due: Website/video uploaded the night before the final exam block. Attend
+  during the final exam block on Monday Dec 8, 2014.
 
 # Requirements
 
@@ -48,7 +65,7 @@ website, a poster, and an elevator pitch.
 
 ## 4a: Website and video prototype checkin
 
-Due: Uploaded before class Tuesday Nov 25, 2014
+Due: Uploaded the night before class Tuesday Nov 25, 2014
 
 It is important to summarize your design to convey your ideas to others, which
 you will do through a website and a video prototype. We are going to use your
@@ -84,7 +101,7 @@ Your initial version of your website (6 points) and video prototype (6 points). 
 
 ## 4b: Poster critique and elevator pitch
 
-Due: Uploaded before class Thursday Dec 4, 2014
+Due: Uploaded the night before class Thursday Dec 4, 2014
 
 #### 4b.1 Poster
 
@@ -132,7 +149,7 @@ Initial draft of the poster (3 points) and participation in-class (3 points).
 
 ## 4c: Poster / website / video / pitch critique
 
-Due: in-class Friday Dec 5, 2014
+Due: Completed in section on Friday Dec 5, 2014
 
 Friday is a flexible critique day. The purpose of this day is to help you
 refine whichever of your remaining deliverables you need feedback on. Be
@@ -150,8 +167,8 @@ Participation in-class (3 points).
 
 ## 4d: Poster session, final video, and final website
 
-Due: Website/video uploaded before final exam block. Attend during the final
-exam block on Monday Dec 8, 2014
+Due: Website/video uploaded the night before the final exam block. Attend during the final
+exam block on Monday Dec 8, 2014.
 
 You’re almost done! Show up to the final exam block so you can present your
 one-minute pitch and your poster.
@@ -193,7 +210,7 @@ interest nor too fast to follow).
 
 #### Video peer reviews (1 pts)
 
-`decide if we're doing peer reviews`
+`decide if we're doing video peer reviews`
 
 It is important for video prototypes to be accessible and appeal to a large
 audience. To measure how well your prototype succeeds at this, we will have each
