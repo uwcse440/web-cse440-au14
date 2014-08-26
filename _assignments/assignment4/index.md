@@ -140,8 +140,9 @@ poster presentation.
 
 ### Submission
 
-Upload a pdf of your poster to Canvas, and be prepared to give your pitch in
-class.
+Submit a PDF of your poster via Catalyst here: `link to Catalyst`
+
+Be prepared to give your pitch in class.
 
 ### Grading
 
