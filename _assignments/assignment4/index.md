@@ -119,12 +119,10 @@ Your poster should include:
 * Design Iteration
 
 Your poster should include _screenshots_ and a _small amount of text_, not full
-sentences. There is a 32"x40" PowerPoint Template available here:
-http://www.cs.washington.edu/education/courses/cse440/11sp/readings/SamplePoster.ppt `move to repo and make a link to there`
+sentences. There is a 32"x40" PowerPoint Template available [here](posters/sample-poster.ppt).
 
 Feel free to use the design as is, modify it, or not use it at all. There are
-additional examples of prior posters here:
-http://www.cs.washington.edu/education/courses/cse440/11sp/readings/previousposters/ `curate, move to repo, make ppts pdfs, and make a link to there`
+additional examples of prior posters [here](posters/).
 
 Your poster may be in PPT, PPTX, or PDF format. We have a color plotter that
 can print posters this size. Your source file is due as stated above. We will
