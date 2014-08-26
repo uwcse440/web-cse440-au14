@@ -3,8 +3,6 @@ layout: default
 title: "Assignment 3: Getting the Design Right"
 ---
 
-`link milestones to anchors near headers`
-
 # Overview
 
 You selected a design, way to go! It is now time to work on perfecting that
@@ -17,29 +15,29 @@ design and serve as the basis of an interactive prototype.
 
 This is a group assignment, consisting of four milestones.
 
-* Assignment 3a: Paper prototype checkin and heuristic evaluation 
+* [Assignment 3a](#paper_prototype_heuristic_evaluation): Paper prototype checkin and heuristic evaluation 
 
-  Due: Uploaded the night before class Tuesday Nov 4, 2014 
+  Due: Uploaded the night before class Tuesday, November 4, 2014 
 
-* Assignment 3b: Paper prototype and user testing checkin
+* [Assignment 3b](#paper_prototype_user_testing): Paper prototype and user testing checkin
 
-  Due: Uploaded the night before section and brought to section on Friday Nov 7, 2014
+  Due: Uploaded the night before section and brought to section on Friday, November 7, 2014
 
-* Assignment 3c: Digital mockup 
+* [Assignment 3c](#digital_mockup): Digital mockup 
 
-  Due: Uploaded the night before section Friday Nov 14, 2014
+  Due: Uploaded the night before section Friday, November 14, 2014
 
-* Assignment 3d: Final report
+* [Assignment 3d](#final_report): Final report
 
-  Due: Uploaded the night before class Tuesday Nov 18, 2014
+  Due: Uploaded the night before class Tuesday, November 18, 2014
 
 
 # Requirements 
 
 In this assignment, you will use various techniques to iterate on your design.
-You will use __heuristic evaluation (3a)__ and __user testing (3b)__ of paper prototypes
-to improve your design, eventually producing a final __digital mockup (3c)__ and
-__final report (3d)__. 
+You will use __heuristic evaluation__ ([assignment 3a](#paper_prototype_heuristic_evaluation)) and __user testing__ ([assignment 3b](#paper_prototype_user_testing)) of paper prototypes
+to improve your design, eventually producing a final __digital mockup__ ([assignment 3c](#digital_mockup)) and
+__final report__ ([assignment 3d](#final_report)).
 
 1. Based on the results of your sketching, selection, and refinement processes,
    develop a paper prototype of your proposed design. If necessary or
@@ -48,9 +46,9 @@ __final report (3d)__.
    revise them if the need becomes apparent in your development of this paper
    prototype or if necessary to provide better coverage of your proposed
    functionality. Your low-fidelity prototype should convey all critical aspects
-   of your design and support testing the __two (2)__ tasks that you turned into
+   of your design and support testing the __two__ tasks that you turned into
    scenarios in your previous report.
-2. Find at least __three (3)__ participants to work through your tasks using your
+2. Find at least __three__ participants to work through your tasks using your
    paper prototype. You should not use friends, members of the class, or people
    you know to have engineering backgrounds. Nor should you use people who have
    been previously exposed to your project. Target an appropriate set of people
@@ -72,8 +70,8 @@ __final report (3d)__.
    comment on something they like. Write it down along with a description of
    what was going on. Later you should discuss and prioritize these events and
    assign __severity ratings__ to problems (use the ratings from the Heuristic
-   Evaluation lecture, ranging from 0 for no problem to 4 for usability
-   catastrophe).
+   Evaluation lecture, ranging from 0 for _no problem_ to 4 for _usability
+   catastrophe_).
    
    Each participant should perform all three tasks. Keep the data separate for
    each task and participant. Keep participant names confidential. Remember
@@ -87,17 +85,23 @@ __final report (3d)__.
 
 # Deliverables 
 
+<a name="paper_prototype_heuristic_evaluation"></a>
+
 ## 3a: Paper prototype checkin and heuristic evaluation 
 
-Due: Uploaded the night before class Tuesday Nov 4, 2014 
+Due: Uploaded the night before class Tuesday, November 4, 2014 
+
+<a name="paper_prototype"></a>
 
 #### 3a.1 Paper prototype 
 
-Create a paper prototype based on the design selected in __assignment 2g__. A new
+Create a paper prototype based on the design selected in [assignment 2g](../assignment2/#design_review). A new
 user should be able to use the paper prototype to complete the two
-representative tasks selected in __assignment 2g__ with all intermediate screens,
+representative tasks selected in [assignment 2g](../assignment2/#design_review) with all intermediate screens,
 widgets, etc. implemented (as well as potential _incorrect_ paths). Bring your
 completed paper prototype to class on Tuesday, November 4th.
+
+<a name="inclass_heuristic_evaluation"></a>
 
 #### 3a.2 In-class heuristic evaluations 
 
@@ -134,17 +138,22 @@ __9 points total__: the description of your paper prototype of the selected desi
 __(3 points)__, bringing the physical prototype to class __(3 points)__, and involvement
 in the peer inspection activity __(3 points)__.
 
+<a name="paper_prototype_user_testing"></a>
 
 ## 3b: Paper prototype and user testing checkin
-Due: Uploaded the night before section and brought to section on Friday Nov 7, 2014
+Due: Uploaded the night before section and brought to section on Friday, November 7, 2014
+
+<a name="heuristic_evaluation_user_testing"></a>
 
 #### 3b.1 Heuristic evaluations and initial user testing results
 
-In __assignment 3a__, you received __two__ heuristic evaluations of your design. By
+In [assignment 3a](#paper_prototype_heuristic_evaluation), you received __two__ heuristic evaluations of your design. By
 this point, you should also have run __at least one__ person through user testing
 your paper prototype. As a group, discuss what you learned from all of these
 evaluations, and make the necessary changes to your paper prototype. Bring your
 updated paper prototype to recitation on Friday, November 7th.
+
+<a name="user_testing_plan"></a>
 
 #### 3b.2 User testing plan
 
@@ -154,6 +163,8 @@ equipment will be set up. Describe some relevant details of your testing
 procedure. This should include the experimental roles of each member of the
 team.
 
+<a name="paper_prototype_design_critique"></a>
+
 #### 3b.3: Paper prototype design critique
 
 During recitation, you will demonstrate your two tasks within your paper
@@ -162,7 +173,7 @@ prototype, followed by a group critique of your current design.
 ### Submission
 
 A short (maximum 3 pages) document describing what you learned from the
-heuristic evaluation in __assignment 3a.2__. It should also describe what changes
+heuristic evaluation in [assignment 3a.2](#inclass_heuristic_evaluation). It should also describe what changes
 you have made to your paper prototype. A member of the course staff will come
 around during class and sign off on your modified paper prototype and your
 participation in the user testing critique.
@@ -181,21 +192,29 @@ Completion of what you learned from the heuristic evaluation __(3 points)__, wha
 you learned from your first user test __(3 points)__, modifications to your paper
 prototype __(3 points)__, and participation in the user testing critique __(3 points)__.
 
+<a name="digital_mockup"></a>
+
 ## 3c: Digital mockup 
 
-Due: Uploaded the night before section Friday Nov 14, 2014
+Due: Uploaded the night before section Friday, November 14, 2014
 
 The goal of this assignment is to build digital mockup of your design. You will
 (1) revise your interface design based on the results of testing your paper
 prototype and (2) use digital tools to create a higher-fidelity prototype. At
 this point, you should have run __three__ people through user testing of your paper
-prototype. 3c.1 User testing and design critique results
+prototype.
+
+<a name="user_testing_results"></a>
+
+#### 3c.1 User testing and design critique results
 
 Summarize the results of __all__ user tests from your process data, supplemented
-with results from the design critique in __assignment 3b.3__. What did you learn in
+with results from the design critique in [assignment 3b.3](#paper_prototype_design_critique). What did you learn in
 testing? Describe what you looked for or measured during the user testing. You
 should concentrate on process data (i.e., what is happening in the big picture)
 in addition to bottom-line data (i.e., time or number of errors).
+
+<a name="digital_mockup"></a>
 
 #### 3c.2 Digital mockup
 
@@ -216,8 +235,10 @@ design, layout, color, typography, etc.
 
 We have no strong preference to what digital tools you utilize to create your
 prototype, but it __must__ be digital (e.g. you may not scan a hand-drawn sketch).
-Some recommendations from the course staff include Omnigraffle, Adobe
-Illustrator, InkScape, and Microsoft Visio.
+Some recommendations from the course staff include [Omnigraffle](http://www.omnigroup.com/omnigraffle), [Adobe
+Illustrator](http://www.adobe.com/products/illustrator.html), [InkScape](http://www.inkscape.org/en/), and [Microsoft Visio](http://office.microsoft.com/en-us/visio/).
+
+<a name="design_critique"></a>
 
 #### 3c.3 Design critique
 
@@ -228,7 +249,7 @@ mockup.
 
 A short (maximum 2 pages of text not including images) document describing your
 three users and what you learned from user testing and the design critique in
-__assignment 3b.3__. It should also describe how your mockup changed from your paper
+[assignment 3b.3](#paper_prototype_design_critique). It should also describe how your mockup changed from your paper
 prototype as a result of these evaluations. Your document should also contain
 screenshots of your digital mockup (does not count toward the page limit).
 
@@ -241,9 +262,11 @@ the design critique __(6 points)__, quality of your digital mockup, including
 implementing changes from your paper prototype __(3 points)__, and participation in
 the design critique __(3 points)__.
 
+<a name="final_report"></a>
+
 ## 3d: Final report
 
-Due: Uploaded the night before class Tuesday Nov 18, 2014
+Due: Uploaded the night before class Tuesday, November 18, 2014
 
 You will submit a report of _no more than_ __8 pages__ of text, approximately 4000
 words. Images are strongly encouraged, __do not count against the page limit__, and
@@ -270,42 +293,42 @@ creativity and marketability of the title for your project.
 
 #### 2. Each team member’s name and role (1 point)
 
-#### 3. Problem and solution overview (<=1 paragraph, 2 points)
+#### 3. Problem and solution overview (&le;1 paragraph, 2 points)
 
 This overview should be a concise statement of the problem you are tackling and
 a brief synopsis of your proposed solutions.
 
-#### 4. First paper prototype (<=1 page, 20 points)
+#### 4. First paper prototype (&le;1 page, 20 points)
 
-__See 3a.1__. You do not need to update your original prototype in this section.
+See [assignment 3a.1](#paper_prototype). You do not need to update your original prototype in this section.
 
-#### 5. Testing process (<=1 page, 20 points)
+#### 5. Testing process (&le;1 page, 20 points)
 
-__See 3b.2__. Include any changes that were made to the experimental setup,
+See [assignment 3b.2](#user_testing_plan). Include any changes that were made to the experimental setup,
 participants, etc. from what you anticipated.
 
-#### 6. Testing results (<=2 pages, 20 points)
+#### 6. Testing results (&le;2 pages, 20 points)
 
-Summarize the results of all user tests from your process data: __3b.1__ (heuristic
-evaluations), __3c.1__ (user testing and design critiques) and __3c.3__ (digital mockup
+Summarize the results of all user tests from your process data: assignments [3b.1](#heuristic_evaluation_user_testing) (heuristic
+evaluations), [3c.1](#user_testing_results) (user testing and design critiques) and [3c.3](#digital_mockup) (digital mockup
 critique).
 
-#### 7. Final paper prototype (<=1 page, 20 points)
+#### 7. Final paper prototype (&le;1 page, 20 points)
 
 Describe the final version of your paper prototype as you did for your first
 paper prototype above. This section should include information about what
 changed between these versions, and what spurred these changes (e.g. user tests,
 heuristic evaluations, or a design critique).
 
-#### 8. Digital mockup (<=1 page, X points)
+#### 8. Digital mockup (&le;1 page, X points)
 
-Update the digital prototype submitted in __assignment 3c.2__, updating it based on
-recommendations provided in the design critique conducted in __assignment 3c.3__.
+Update the digital prototype submitted in [assignment 3c.2](#digital_mockup), updating it based on
+recommendations provided in the design critique conducted in [assignment 3c.3](#design_critique).
 Briefly describe the changes made to your digital mockup as a result of this
 design critique. Also include complete descriptions (one paragraph per task) for
 your design supports each of your tasks.
 
-#### 9. Discussion (<=1 page, 20 points)
+#### 9. Discussion (&le;1 page, 20 points)
 
 Reflect upon and discuss your project and your results. What did you learn from
 the process? How did the process shape your design? Is there something you think
