@@ -193,8 +193,7 @@ can be difficult to get right and often important topics are left unresolved.
 
 No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group will give a short summary of your contextual inquiry checkin
- (i.e., less than 1 minute) to other teams and the course staff.
+At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., less than 1 minute).
 
 ### Grading
 
@@ -246,7 +245,7 @@ No more than three pages of text in PDF format:
  
 Submit via Catalyst here: `link to Catalyst`
 
-At lecture, your group will discuss your contextual inquiry findings with other teams and the course staff.
+At lecture, your group will discuss your contextual inquiry findings.
 
 `Should we be more consistent in what we say about 'at lecture' or 'at section'?`
 
@@ -281,7 +280,7 @@ At section, one member of your group will give a short summary of your tasks (i.
 
 ### Grading
 
-1 point for each task described (6 points total).
+`1 point for each task described (6 points total).`
 
 <a name="design_checkin"></a>
 
