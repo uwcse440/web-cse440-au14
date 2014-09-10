@@ -146,12 +146,19 @@ aways:
     name: "James Away"
   - date: "2014-10-10"
     name: "James Away"
+  - date: "2014-10-17"
+    name: >
+          Brad Away<br>
+          King in Both Sections
   - date: "2014-10-22"
     name: "Daniel Away"
   - date: "2014-10-23"
     name: "Daniel Away"
   - date: "2014-10-24"
-    name: "Daniel Away"
+    name: >
+          Daniel Away<br>
+          Brad in Both Sections<br>
+          King in Both Sections
   - date: "2014-10-27"
     name: "Daniel Away"
   - date: "2014-10-28"
