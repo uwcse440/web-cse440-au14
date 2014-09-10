@@ -260,15 +260,24 @@ At lecture, your group will discuss your contextual inquiry findings with other 
 
 Due: Uploaded the night before class Friday, October 17, 2014
 
-Taking what you learned in your contextual inquiry, you will now design six tasks that you believe are integral to your overarching design. You should include existing and new tasks (i.e., tasks users already do and tasks that will be enabled by your design). These should be real world tasks that have details (e.g. programming a DVR to record the Simpsons on Sundays). These tasks should not have any specific relation to the exact interface sketches that you brainstorm next. Your six tasks should span a wide range of functionality and task difficulty, from easy to hard tasks.
+Building on what you learned in your contextual inquiry, design six tasks that you believe are integral to your overall design goal:
+ - You should include existing tasks (i.e., tasks people already do) and new tasks (i.e., tasks that will be enabled by your design). 
+ - These should be real world tasks that have details (e.g., instead of "programming a DVR", details like "programming a DVR to record the Simpsons on Sundays"). 
+ - These tasks should not have any specific relation to the exact design sketches you will brainstorm next. 
+ - Your six tasks should span a wide range of functionality and difficulty, from easy to hard tasks.
 
-Each task should be described in text. Be sure that your task conveys a problem rather than a step-by-step walkthrough of a particular design.
+Each task should be described in text. Tasks say what is accomplished, leaving open how to accomplish it.
+Be sure that your task conveys a problem and what is accomplished rather than a step-by-step walkthrough of a particular design.
 
 ### Submission
 
-6 task descriptions (one paragraph each). Submit via Catalyst here: `link to Catalyst`
+No more than two pages of text in PDF format: 
 
-At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your tasks thus far.
+ - Six task descriptions (one paragraph each)
+
+Submit via Catalyst here: `link to Catalyst`
+
+At section, one member of your group will give a short summary of your tasks (i.e., less than 1 minute).
 
 ### Grading
 
