@@ -101,20 +101,29 @@ More specifically, you will do the following:
 ## 2a: Project Ideation
 Due: Completed in section on Friday, October 3, 2014
 
-In your group, you will generate 100 different ideas related to your project proposal. These ideas may include tasks, features (“it would be awesome if …”), problems, and interactions (“how a feature works”). Divide a large sheet of paper (provided) into 100 squares, approximately 2in by 2in. Sketch 100 ideas (e.g. a quick doodle with a caption or a one-sentence idea), one in each square. Someone not in your group should be able to understand the idea each sketch conveys.
+Generate 100 different ideas related to your project proposal, including:
 
-A few important guidelines:
+- problems: a need that a person might have 
+- tasks: what a person might accomplish 
+- features: a capability a design might have 
+- interactions: how a feature might work 
 
-* Focus on __quantity not quality__ (yes, this is the correct direction)
-* No two ideas should be alike
-* Include ideas from existing products
-* When you get stuck, find a context to inspire new ideas
+We will provide large sheets of paper. Divide a large sheet of paper into 100 squares, each approximately 2in by 2in. 
+Sketch 100 ideas, one in each square. Each idea should be a quick doodle with a caption or a one-sentence idea. 
+A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
+
+The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. 
+Focus on the quantity of ideas, not the quality of any one idea. 
+You may include ideas from existing products. No two ideas should be alike.
+When you get stuck, find a context to inspire new ideas.
 
 ### Submission
-One of the teaching assistants in your section section will sign off on what you completed within the section block.
+One of the teaching staff in your section will sign off on what you completed within section.
+
+You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
 ### Grading
-Completion on a good-faith attempt to generate ideas during the ideation brainstorming exercise (3 points)
+`Completion on a good-faith attempt to generate ideas during the ideation brainstorming exercise (3 points)`
 
 <a name="contextual_inquiry_plan"></a>
 
