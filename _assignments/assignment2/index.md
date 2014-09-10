@@ -5,7 +5,9 @@ title: "Assignment 2: Getting the Right Design"
 
 # Overview
 
-Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through __contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
+Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. 
+This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through 
+__contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
 # Milestones
 
@@ -191,7 +193,8 @@ can be difficult to get right and often important topics are left unresolved.
 
 No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., less than 1 minute) to other teams and the course staff.
+At section, one member of your group will give a short summary of your contextual inquiry checkin
+ (i.e., less than 1 minute) to other teams and the course staff.
 
 ### Grading
 
