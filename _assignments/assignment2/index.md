@@ -138,8 +138,8 @@ Give enough details to convince us that you can actually find and interview your
 For example, your target audience should not be "doctors" but instead a specific group of doctors 
 (e.g., Family Practitioners in the UW Roosevelt Clinic). 
 If gaining access to the target audience is non-trivial (e.g., as with busy doctors), 
-describe the steps you have taken to gain access and your plans if your are unable to gain access. 
-Indicate when you will be conducting your three inquiry, being as specific as possible.
+describe the steps you have taken to gain access and your plans if unable to gain access. 
+Indicate when you will be conducting your three inquiries, being as specific as possible.
 
 In another paragraph, describe how you will interact with your target audience and your role as the "apprentice".
  
@@ -151,7 +151,7 @@ Please be as specific as possible, providing potential examples of your observat
 
 ###Submission
 
-Less than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
+No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
 
 Be prepared to discuss the plan with other teams and the course staff during lecture.
 
@@ -163,20 +163,30 @@ Be prepared to discuss the plan with other teams and the course staff during lec
 ## 2c: Contextual Inquiry Checkin
 Due: Uploaded the night before section Friday, October 10, 2014
 
-You must complete at least one of your contextual inquiry interviews prior to this checkin. You hopefully learned something from this interview about how to conduct a contextual inquiry interview and about the needs of your user group.
+Complete at least one of your contextual inquiry prior to this checkin. 
+You hopefully learned something about the needs of your audience but also about how to conduct a contextual inquiry.
 
-Describe your first interview(s)--who you interviewed, their background, and the environment where you observed them. What did you learn from your interview(s)? What tasks or problems did you notice from your interviewee(s)? Did you encounter any problems establishing rapport or squeezing information out of people?
+Describe your first inquiry: 
 
-What remains unaddressed from your first interview(s)? We fully expect that changes will be necessary--interviews are difficult to get right, and often times important topics are left unresolved. How do you plan on changing your interview protocol and observation setup in light of your first interview(s)?
+- Who you observed or interviewed, their background, and the environment.
+- What did you learn? 
+- What tasks, problems, or opportunities did you uncover? 
+- Did you encounter any difficulties establishing rapport or getting the information you need?
+
+Discuss what remains to be pursued after your first inquiry. We fully expect changes will be necessary, as inquiries 
+can be difficult to get right and often important topics are left unresolved. 
+
+- What are your plans for the remaining inquiries? 
+- How do you plan to change your protocol based on what you learned in your first inquiry?
 
 ###Submission
 
-No more than one page of text. Submit via Catalyst here: `link to Catalyst`
+No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your contextual inquiry thus far.
+At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., < 1 minute).
 
 ### Grading
-A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).
+`A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).`
 
 <a name="contextual_inquiry_review"></a>
 
