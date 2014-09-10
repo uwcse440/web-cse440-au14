@@ -151,7 +151,7 @@ In another paragraph, describe how you will interact with your target audience a
  
 - Will you be observing their current behaviors?
 - Will you be interviewing them about recent behaviors?
-- `Will you be asking them questions about their desired technological needs?` <!--Is that CI?-->
+- `Will you be asking them questions about their desired technological needs?` `Is that CI?`
  
 Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
@@ -191,7 +191,7 @@ can be difficult to get right and often important topics are left unresolved.
 
 No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., < 1 minute).
+At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., less than 1 minute) to other teams and the course staff.
 
 ### Grading
 
@@ -205,39 +205,51 @@ Due: Uploaded the night before class Tuesday, October 14, 2014
 
 <a name="contextual_inquiry_review_themes"></a>
 
-#### 2d.1 Themes
+#### Themes
 
-By this point, you must have completed all three of your contextual inquiry interviews. We would like to hear about what you learned from these interviews. Briefly describe the three people you interviewed, their backgrounds, and their environments. Note anything unique about each interview and comment on the rationale behind these events.
+Complete all three of your contextual inquiries. Discuss what you learned:
 
-Between the three interviews, we expect common problems facing the user group to begin to emerge. Identify high level themes the participants shared in common in their practices. Do any common tasks to design for emerge from these themes?
+- Who you observed or interviewed, their background, and the environment.
+- Note anything unique about each inquiry and comment on the rationale behind these events.
+
+Across the three inquiries, we expect some emergence of common themes, problems, and practices. 
+
+- Identify high level themes the participants share in their practices. 
+- Do these themes, problems, and practices suggest tasks to important to design for?
 
 <a name="contextual_inquiry_review_task_analysis_questions"></a>
 
-#### 2d.2 Task Analysis Questions
+#### Task Analysis Questions
 
-In your submission, include brief answers to the following questions. These should help you begin to identify tasks essential to your design.
+Provide brief answers to the following questions. These should help you begin to identify tasks essential to your design.
 
-1. Who is going to use the system? 
+1. Who is going to use the design? 
 2. What tasks do they now perform?
 3. What tasks are desired?
 4. How are the tasks learned?
 5. Where are the tasks performed?
-6. What’s the relationship between customer & data?
-7. What other tools does the customer have?
-8. How do customers communicate with each other?
+6. What is the relationship between the person and data?
+7. What other tools does the person have?
+8. How do people communicate with each other?
 9. How often are the tasks performed?
 10. What are the time constraints on the tasks?
 11. What happens when things go wrong?
 
 ### Submission
 
-No more than three pages of text: contextual inquiry themes (&le;1 page) and task analysis questions (&le;2 pages). Submit via Catalyst here: `link to Catalyst`
+No more than three pages of text in PDF format:
+ - contextual inquiry themes (less than 1 page)
+ - task analysis questions (less than 2 pages)
+ 
+Submit via Catalyst here: `link to Catalyst`
 
-Be prepared to discuss your Contextual Inquiry findings with other teams and the course staff during lecture.
+At lecture, your group will discuss your contextual inquiry findings with other teams and the course staff.
+
+`Should we be more consistent in what we say about 'at lecture' or 'at section'?`
 
 ### Grading
 
-A total of 6 points, split between the description of the user group and quality of the themes developed (3 points) and answers to the task analysis questions (3 points).
+`A total of 6 points, split between the description of the user group and quality of the themes developed (3 points) and answers to the task analysis questions (3 points).`
 
 <a name="task_review"></a>
 
