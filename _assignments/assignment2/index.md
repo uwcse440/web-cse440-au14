@@ -8,6 +8,7 @@ title: "Assignment 2: Getting the Right Design"
 Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through __contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
 # Milestones
+
 This is a __group__ assignment, consisting of eight milestones.
 
 * [Assignment 2a: Project Ideation](#project_ideation)
@@ -43,6 +44,7 @@ This is a __group__ assignment, consisting of eight milestones.
   Due: Uploaded the night before class Tuesday, October 28, 2014
 
 # Requirements
+
 In this assignment, you will brainstorm a large set of possible tasks and design ideas for your project. 
 You will then use contextual inquiry to learn more about your problem and the current practices of your target audience. 
 You will draw upon the ideas developed in your brainstorming and the observations made in your contextual inquiry
@@ -99,6 +101,7 @@ More specifically, you will do the following:
 <a name="project_ideation"></a>
 
 ## 2a: Project Ideation
+
 Due: Completed in section on Friday, October 3, 2014
 
 Generate 100 different ideas related to your project proposal, including:
@@ -118,16 +121,19 @@ You may include ideas from existing products. No two ideas should be alike.
 When you get stuck, find a context to inspire new ideas.
 
 ### Submission
+
 One of the teaching staff in your section will sign off on what you completed within section.
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
 ### Grading
+
 `Completion on a good-faith attempt to generate ideas during the ideation brainstorming exercise (3 points)`
 
 <a name="contextual_inquiry_plan"></a>
 
 ## 2b: Contextual Inquiry Plan
+
 Due: Uploaded the night before class Tuesday, October 7, 2014
 
 In one paragraph, describe your target audience and other stakeholders for your design. 
@@ -156,11 +162,13 @@ No more than one page of text in PDF format. Submit via Catalyst here: `link to 
 Be prepared to discuss the plan with other teams and the course staff during lecture.
 
 ### Grading
+
 `Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)`
 
 <a name="contextual_inquiry_checkin"></a>
 
 ## 2c: Contextual Inquiry Checkin
+
 Due: Uploaded the night before section Friday, October 10, 2014
 
 Complete at least one of your contextual inquiry prior to this checkin. 
@@ -186,16 +194,19 @@ No more than one page of text in PDF format. Submit via Catalyst here: `link to 
 At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., < 1 minute).
 
 ### Grading
+
 `A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).`
 
 <a name="contextual_inquiry_review"></a>
 
 ## 2d: Contextual Inquiry Review
+
 Due: Uploaded the night before class Tuesday, October 14, 2014
 
 <a name="contextual_inquiry_review_themes"></a>
 
 #### 2d.1 Themes
+
 By this point, you must have completed all three of your contextual inquiry interviews. We would like to hear about what you learned from these interviews. Briefly describe the three people you interviewed, their backgrounds, and their environments. Note anything unique about each interview and comment on the rationale behind these events.
 
 Between the three interviews, we expect common problems facing the user group to begin to emerge. Identify high level themes the participants shared in common in their practices. Do any common tasks to design for emerge from these themes?
@@ -203,6 +214,7 @@ Between the three interviews, we expect common problems facing the user group to
 <a name="contextual_inquiry_review_task_analysis_questions"></a>
 
 #### 2d.2 Task Analysis Questions
+
 In your submission, include brief answers to the following questions. These should help you begin to identify tasks essential to your design.
 
 1. Who is going to use the system? 
@@ -218,16 +230,19 @@ In your submission, include brief answers to the following questions. These shou
 11. What happens when things go wrong?
 
 ### Submission
+
 No more than three pages of text: contextual inquiry themes (&le;1 page) and task analysis questions (&le;2 pages). Submit via Catalyst here: `link to Catalyst`
 
 Be prepared to discuss your Contextual Inquiry findings with other teams and the course staff during lecture.
 
 ### Grading
+
 A total of 6 points, split between the description of the user group and quality of the themes developed (3 points) and answers to the task analysis questions (3 points).
 
 <a name="task_review"></a>
 
 ## 2e: Task Review
+
 Due: Uploaded the night before class Friday, October 17, 2014
 
 Taking what you learned in your contextual inquiry, you will now design six tasks that you believe are integral to your overarching design. You should include existing and new tasks (i.e., tasks users already do and tasks that will be enabled by your design). These should be real world tasks that have details (e.g. programming a DVR to record the Simpsons on Sundays). These tasks should not have any specific relation to the exact interface sketches that you brainstorm next. Your six tasks should span a wide range of functionality and task difficulty, from easy to hard tasks.
@@ -235,11 +250,13 @@ Taking what you learned in your contextual inquiry, you will now design six task
 Each task should be described in text. Be sure that your task conveys a problem rather than a step-by-step walkthrough of a particular design.
 
 ### Submission
+
 6 task descriptions (one paragraph each). Submit via Catalyst here: `link to Catalyst`
 
 At section, one member of your group is going to be asked to give a short (&le;1 minute) summary of your tasks thus far.
 
 ### Grading
+
 1 point for each task described (6 points total).
 
 <a name="design_checkin"></a>
@@ -251,16 +268,19 @@ Due: Uploaded the night before class Tuesday, October 21, 2014
 By this point, you have identified and described six important tasks to your design problem. For this checkin, you will now brainstorm and sketch three very different initial designs for your interface. These illustrations do not need to detail the entire interface, but should instead emphasize key aspects needed to illustrate the functionality. These should be rough sketches on paper (not digital mockups), including illustrations of their relations (e.g., arrows showing relationships between screens). Each design should support four tasks. Each design does not need to support the same four tasks as the other designs. The purpose of these sketches is to explore the design space before you lock yourself into a single design, so we will be looking for variety in designs and tasks.
 
 ### Submission
+
 A single document including scanned images of your three initial designs (again, these designs should not be digital mockups). For each design, provide a bulleted list (one sentence for each of the four tasks) detailing how a user might complete that task. Additionally, provide an updated list of tasks for reference within this document.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+
 2 points for each design (6 points total). We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).
 
 <a name="design_review"></a>
 
 ## 2g: Design Review ("1x2")
+
 Due: Uploaded the night before section Friday, October 24, 2014
 
 From your design sketches, select one design and two tasks your users will perform with that design. The two tasks selected need to be representative of the experience using your design. Create a storyboard of each task in your selected design. These should be rough, done on paper and then scanned (do not create or recreate them in a drawing package). The storyboards should convey the major aspects of the design in enough detail that someone outside of your group can understand how the interface supports each task. This section should clearly indicate the functionality of your artifact and what the interface will be like (described and sketched, explicitly referencing the figures in your text). Add more sketches or annotate them in multiple colors if that helps.
@@ -268,16 +288,19 @@ From your design sketches, select one design and two tasks your users will perfo
 Include in your writeup a single paragraph describing why you selected the design you did. Draw upon feedback from critiques and data from your contextual inquiry. Why this design and these tasks? What makes the design better suited to your target users compared to other possibilities? Why are these tasks more compelling than the others? We want to have a good understanding of which interface you chose and why you chose it.
 
 ### Submission
+
 A single document including scanned images of your storyboards and a one-paragraph motivation (half a page) explaining why you chose that design and those tasks.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+
 2 points on the rationale behind choosing the particular design, 2 points on the storyboard for each task (6 points total).
 
 <a name="final_report">
 
 ## 2h: Final Report
+
 Due: Uploaded the night before class Tuesday, October 28, 2014
 
 You will submit a report of no more than 8 pages of text, approximately 4000 words. Images are strongly encouraged, do not count against the page limit, and are thus effectively free (the limit applies to the approximate amount of text you would have if all images were removed).
@@ -304,12 +327,15 @@ Turn the task descriptions for the two tasks you chose for your selected design 
 See [assignment 2g](#design_review). Include updated storyboards of the design you have selected.
 
 ### Submission
+
 A single document in PDF format.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+
 This report is worth a total of `39.324242434242` points, with the point split described above for each section. Additional points pertaining to the entire report are described below:
 
 ### Report Clarity (3 points)
+
 Make sure your writing is easy to read: ensure it is clear and concise, use section headings, make liberal use of whitespace, include images in the body of the write-up with appropriate figure numbers and captions, refer to the figures in the body of your text, and check for grammar errors.
