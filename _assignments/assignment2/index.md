@@ -141,10 +141,12 @@ If gaining access to the target audience is non-trivial (e.g., as with busy doct
 describe the steps you have taken to gain access and your plans if your are unable to gain access. 
 Indicate when you will be conducting your three inquiry, being as specific as possible.
 
-In another paragraph, describe how you will interact with your target audience and your role as the "apprentice". 
-Will you be observing their current behaviors?
-Will you be interviewing them about recent behaviors?
-Will you be asking them questions about their desired technological needs? 
+In another paragraph, describe how you will interact with your target audience and your role as the "apprentice".
+ 
+- Will you be observing their current behaviors?
+- Will you be interviewing them about recent behaviors?
+- `Will you be asking them questions about their desired technological needs?` <!--Is that CI?-->
+ 
 Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
 ###Submission
