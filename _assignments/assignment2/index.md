@@ -130,18 +130,31 @@ You will be able to take your paper with you, and you should continue brainstorm
 ## 2b: Contextual Inquiry Plan
 Due: Uploaded the night before class Tuesday, October 7, 2014
 
-In one paragraph, describe your target user group and other stakeholders for your design. Describe your particular contextual inquiry participants: give some details of their background, the environment where you will observe their practice. Give enough details to convince us that you can actually find and interview your target users in the next week. That is, your target users should not be “doctors”, but a specific group of doctors (e.g. the infirmary ward of the UW teaching hospital). If gaining access to the target users is non-trivial, please describe the steps you have taken to gain access. Also indicate when you will be conducting your three interviews, being as specific as possible.
+In one paragraph, describe your target audience and other stakeholders for your design. 
+Describe the particular contextual inquiry participants you plan to pursue, 
+including some details of their background and the environment where you will observe their practice. 
+Give enough details to convince us that you can actually find and interview your target clients in the next week. 
 
-In another paragraph, describe how you will interact with these target users, and your role as the “apprentice”. Will you be observing their current behaviors? Will you be asking them questions about their desired technological needs? Please be as specific as possible, providing potential interview questions or things you will be observing for.
+For example, your target audience should not be "doctors" but instead a specific group of doctors 
+(e.g., Family Practitioners in the UW Roosevelt Clinic). 
+If gaining access to the target audience is non-trivial (e.g., as with busy doctors), 
+describe the steps you have taken to gain access and your plans if your are unable to gain access. 
+Indicate when you will be conducting your three inquiry, being as specific as possible.
+
+In another paragraph, describe how you will interact with your target audience and your role as the "apprentice". 
+Will you be observing their current behaviors?
+Will you be interviewing them about recent behaviors?
+Will you be asking them questions about their desired technological needs? 
+Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
 ###Submission
 
-Two paragraphs of text. Submit via Catalyst here: `link to Catalyst` 
+Less than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
 
 Be prepared to discuss the plan with other teams and the course staff during lecture.
 
 ### Grading
-Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)
+`Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)`
 
 <a name="contextual_inquiry_checkin"></a>
 
