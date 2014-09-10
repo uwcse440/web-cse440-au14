@@ -43,19 +43,56 @@ This is a __group__ assignment, consisting of eight milestones.
   Due: Uploaded the night before class Tuesday, October 28, 2014
 
 # Requirements
-In this assignment, you will use ideation ([assignment 2a](#project_ideation)) to brainstorm a large set of possible tasks and design ideas for your project. You will then use contextual inquiry (assignments [2b](#contextual_inquiry_plan), [2c](#contextual_inquiry_checkin), and [2d](#contextual_inquiry_review)) to learn more about the practices of your target users/customers. You will draw upon the ideas you developed in [assignment 2a](#project_ideation) and the observations you made in assignments [2b](#contextual_inquiry_plan), [2c](#contextual_inquiry_checkin), and [2d](#contextual_inquiry_review) will help you to develop a set of potential tasks ([assignment 2e](#task_review)) you would like your design to support. Finally, you will sketch initial designs (assignments [2f](#design_checkin) and [2g](#design_review)) supporting your proposed tasks and summarize it in a final report ([assignment 2h](#final_report)).
+In this assignment, you will brainstorm a large set of possible tasks and design ideas for your project. 
+You will then use contextual inquiry to learn more about your problem and the current practices of your target audience. 
+You will draw upon the ideas developed in your brainstorming and the observations made in your contextual inquiry
+to help develop a set of potential tasks your design might support. 
+You will next sketch how a set of initial designs might support those tasks.
+Finally, you will choose a design to pursue in the remainder of the course, storyboard the details of your design in
+the context of important tasks, and summarize your design in a final report.
 
 More specifically, you will do the following:
 
-1. Generate ideas of potential problems, tasks, features, and interactions in the space of your project through a group ideation exercise.
+1. Generate ideas of potential problems, tasks, features, and interactions using a group ideation exercise.
 
-2. Interview and observe at least __three__ target clients using the contextual inquiry method.
+   ([assignment 2a](#project_ideation))
+    
+2. Observe and interview at least __three__ potential target clients using the contextual inquiry method.
 
-3. Informed by the results of your contextual inquiry and the ideas from your ideation, develop __six tasks__ that participants will perform with your application. Select these to capture the important aspects of the problem you are solving and to provide coverage of the design you will create. Create these based on your observations and analyses of existing tasks. Remember that tasks say __what__ is accomplished, while leaving open __how__ to accomplish it. (___Note__: As you progress through the remainder of your project, you __can__ and __should__ consider revising your tasks. Feel comfortable refining or changing your tasks as your understanding of the problem matures. So, the tasks you report in this assignment are not necessarily final._)
+   ([assignment 2b](#contextual_inquiry_plan)), ([assignment 2c](#contextual_inquiry_checkin)), ([assignment 2d](#contextual_inquiry_review))
 
-4. Brainstorm and sketch __three__ very different initial designs for your interface. Do not illustrate the entire interface, but instead sketch key aspects needed to illustrate the functionality. These should be rough sketches _on paper_ (not digital mockups), including illustrations of their relations (e.g., arrows showing relationships between screens). Each design should support __four__ tasks. Each design does __not__ need to support the same four tasks as the other designs. __The purpose of these sketches is to explore the design space__ _before_ you lock yourself into a single design, so we will be looking for variety in designs and tasks.
+3. Develop __six__ tasks that might be performed with your design. 
 
-5. From your sketches, select __one__ design to pursue for the remainder of the quarter and __two__ interesting tasks that stress its functionality. These tasks should be non-trivial yet crucial to solving your team’s problem. These tasks should emphasize long-lived or repeated activities; a one-time login screen for a social networking application is not worth optimizing, does not stress functionality, and is not interesting.
+   Select these to capture the important aspects of the problem you are solving and to provide coverage of the designs 
+   you will explore. Create these based on your observations and analyses of existing tasks as well as your vision for 
+   new tasks enabled by potential designs. Remember that tasks say what is accomplished, while leaving open how to accomplish it. 
+   
+   As you progress through your project, you can and should consider revising your tasks. 
+   Expect to refine or change your tasks as your understanding of the problem matures or according to feedback you receive.
+   The tasks you report in this assignment must be appropriate but are not necessarily final.
+
+   ([assignment 2e](#task_review)) 
+
+4. Brainstorm and sketch __three__ very different initial designs for your interface. Each design should support __four__, 
+   but they do not necessarily need to all support the same four tasks.
+   
+   Do not illustrate the entire design, but instead sketch key aspects needed to illustrate the functionality. 
+   These should be rough sketches on paper (i.e., not digital mockups), including illustrations of their relations 
+   (e.g., arrows showing transitions and relationships).    
+   
+   The purpose of these sketches is to explore the design space _before_ you lock yourself into a design.
+   They must demonstrate significant consideration of substantially different approaches to your problem.
+
+   ([assignment 2f](#design_checkin)), ([assignment 2g](#design_review)) 
+
+5. From your sketches, select __one__ design to pursue for the remainder of the quarter and __two__ tasks that emphasize
+   critical functionality of your design. These tasks should be non-trivial, critical to solving your problem, and should 
+   emphasize long-lived or repeated activities. In contrast, a one-time login screen for a social networking application 
+   is not worth being the focus of your project, does not stress define your project functionality, and is not interesting.
+
+   Storyboard your chosen design for your chosen tasks and summarize your design process in a final report.
+
+   ([assignment 2h](#final_report))
 
 # Deliverables
 
