@@ -61,7 +61,7 @@ More specifically, you will do the following:
 
 <a name="project_ideation"></a>
 
-## 2a: Project ideation
+## 2a: Project Ideation
 Due: Completed in section on Friday, October 3, 2014
 
 In your group, you will generate 100 different ideas related to your project proposal. These ideas may include tasks, features (“it would be awesome if …”), problems, and interactions (“how a feature works”). Divide a large sheet of paper (provided) into 100 squares, approximately 2in by 2in. Sketch 100 ideas (e.g. a quick doodle with a caption or a one-sentence idea), one in each square. Someone not in your group should be able to understand the idea each sketch conveys.
@@ -81,7 +81,7 @@ Completion on a good-faith attempt to generate ideas during the ideation brainst
 
 <a name="contextual_inquiry_plan"></a>
 
-## 2b: Contextual inquiry plan
+## 2b: Contextual Inquiry Plan
 Due: Uploaded the night before class Tuesday, October 7, 2014
 
 In one paragraph, describe your target user group and other stakeholders for your design. Describe your particular contextual inquiry participants: give some details of their background, the environment where you will observe their practice. Give enough details to convince us that you can actually find and interview your target users in the next week. That is, your target users should not be “doctors”, but a specific group of doctors (e.g. the infirmary ward of the UW teaching hospital). If gaining access to the target users is non-trivial, please describe the steps you have taken to gain access. Also indicate when you will be conducting your three interviews, being as specific as possible.
@@ -99,7 +99,7 @@ Completion on a 3-point scale based on specificity and feasibility of the plan (
 
 <a name="contextual_inquiry_checkin"></a>
 
-## 2c: Contextual inquiry checkin
+## 2c: Contextual Inquiry Checkin
 Due: Uploaded the night before section Friday, October 10, 2014
 
 You must complete at least one of your contextual inquiry interviews prior to this checkin. You hopefully learned something from this interview about how to conduct a contextual inquiry interview and about the needs of your user group.
@@ -119,7 +119,7 @@ A total of 6 points, split between the information gained from your first interv
 
 <a name="contextual_inquiry_review"></a>
 
-## 2d: Contextual inquiry review
+## 2d: Contextual Inquiry Review
 Due: Uploaded the night before class Tuesday, October 14, 2014
 
 <a name="contextual_inquiry_review_themes"></a>
@@ -131,7 +131,7 @@ Between the three interviews, we expect common problems facing the user group to
 
 <a name="contextual_inquiry_review_task_analysis_questions"></a>
 
-#### 2d.2 Task analysis questions
+#### 2d.2 Task Analysis Questions
 In your submission, include brief answers to the following questions. These should help you begin to identify tasks essential to your design.
 
 1. Who is going to use the system? 
@@ -156,7 +156,7 @@ A total of 6 points, split between the description of the user group and quality
 
 <a name="task_review"></a>
 
-## 2e: Task review
+## 2e: Task Review
 Due: Uploaded the night before class Friday, October 17, 2014
 
 Taking what you learned in your contextual inquiry, you will now design six tasks that you believe are integral to your overarching design. You should include existing and new tasks (i.e., tasks users already do and tasks that will be enabled by your design). These should be real world tasks that have details (e.g. programming a DVR to record the Simpsons on Sundays). These tasks should not have any specific relation to the exact interface sketches that you brainstorm next. Your six tasks should span a wide range of functionality and task difficulty, from easy to hard tasks.
@@ -173,7 +173,7 @@ At section, one member of your group is going to be asked to give a short (&le;1
 
 <a name="design_checkin"></a>
 
-## 2f: Design checkin ("3x4")
+## 2f: Design Checkin ("3x4")
 
 Due: Uploaded the night before class Tuesday, October 21, 2014
 
@@ -189,7 +189,7 @@ Submit via Catalyst here: `link to Catalyst`
 
 <a name="design_review"></a>
 
-## 2g: Design review ("1x2")
+## 2g: Design Review ("1x2")
 Due: Uploaded the night before section Friday, October 24, 2014
 
 From your design sketches, select one design and two tasks your users will perform with that design. The two tasks selected need to be representative of the experience using your design. Create a storyboard of each task in your selected design. These should be rough, done on paper and then scanned (do not create or recreate them in a drawing package). The storyboards should convey the major aspects of the design in enough detail that someone outside of your group can understand how the interface supports each task. This section should clearly indicate the functionality of your artifact and what the interface will be like (described and sketched, explicitly referencing the figures in your text). Add more sketches or annotate them in multiple colors if that helps.
@@ -206,7 +206,7 @@ Submit via Catalyst here: `link to Catalyst`
 
 <a name="final_report">
 
-## 2h: Final report
+## 2h: Final Report
 Due: Uploaded the night before class Tuesday, October 28, 2014
 
 You will submit a report of no more than 8 pages of text, approximately 4000 words. Images are strongly encouraged, do not count against the page limit, and are thus effectively free (the limit applies to the approximate amount of text you would have if all images were removed).
@@ -240,5 +240,5 @@ Submit via Catalyst here: `link to Catalyst`
 ### Grading
 This report is worth a total of `39.324242434242` points, with the point split described above for each section. Additional points pertaining to the entire report are described below:
 
-### Report clarity (3 points)
+### Report Clarity (3 points)
 Make sure your writing is easy to read: ensure it is clear and concise, use section headings, make liberal use of whitespace, include images in the body of the write-up with appropriate figure numbers and captions, refer to the figures in the body of your text, and check for grammar errors.
