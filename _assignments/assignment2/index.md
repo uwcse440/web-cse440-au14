@@ -5,40 +5,40 @@ title: "Assignment 2: Getting the Right Design"
 
 # Overview
 
-Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through __contextual inquiry__, __task development__, and finally __selecting a design__ from multiple options.
+Even for a well-understood, well-motivated problem, choosing a design to invest time into is a difficult and laborious process. This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through __contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
 # Milestones
 This is a __group__ assignment, consisting of eight milestones.
 
-* [Assignment 2a: Project ideation](#project_ideation)
+* [Assignment 2a: Project Ideation](#project_ideation)
 
   Due: Completed in section on Friday, October 3, 2014
   
-* [Assignment 2b: Contextual inquiry plan](#contextual_inquiry_plan)
+* [Assignment 2b: Contextual Inquiry Plan](#contextual_inquiry_plan)
 
   Due: Uploaded the night before class Tuesday, October 7, 2014
   
-* [Assignment 2c: Contextual inquiry checkin](#contextual_inquiry_checkin)
+* [Assignment 2c: Contextual Inquiry Checkin](#contextual_inquiry_checkin)
 
   Due: Uploaded the night before section Friday, October 10, 2014
 
-* [Assignment 2d: Contextual inquiry review](#contextual_inquiry_review)
+* [Assignment 2d: Contextual Inquiry Review](#contextual_inquiry_review)
 
   Due: Uploaded the night before class Tuesday, October 14, 2014
 
-* [Assignment 2e: Task review](#task_review)
+* [Assignment 2e: Task Review](#task_review)
 
   Due: Uploaded the night before class Friday, October 17, 2014
   
-* [Assignment 2f: Design checkin ("3x4")](#design_checkin)
+* [Assignment 2f: Design Checkin ("3x4")](#design_checkin)
 
   Due: Uploaded the night before class Tuesday, October 21, 2014
 
-* [Assignment 2g: Design review ("1x2")](#design_review)
+* [Assignment 2g: Design Review ("1x2")](#design_review)
 
   Due: Uploaded the night before section Friday, October 24, 2014
 
-* [Assignment 2h: Final report](#final_report)
+* [Assignment 2h: Final Report](#final_report)
 
   Due: Uploaded the night before class Tuesday, October 28, 2014
 
