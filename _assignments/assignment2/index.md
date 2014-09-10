@@ -47,6 +47,8 @@ This is a __group__ assignment, consisting of eight milestones.
 
 # Requirements
 
+`check consistency of verbiage here and in each assignment part below`
+
 In this assignment, you will brainstorm a large set of possible tasks and design ideas for your project. 
 You will then use contextual inquiry to learn more about your problem and the current practices of your target audience. 
 You will draw upon the ideas developed in your brainstorming and the observations made in your contextual inquiry
@@ -77,14 +79,14 @@ More specifically, you will do the following:
 
    ([assignment 2e](#task_review)) 
 
-4. Brainstorm and sketch __three__ very different initial designs for your interface. Each design should support __four__, 
-   but they do not necessarily need to all support the same four tasks.
+4. Brainstorm and sketch __three__ very different initial designs for your interface. 
+   Each design should support __four__ of your tasks, but they do not necessarily need to all support the same four tasks.
    
    Do not illustrate the entire design, but instead sketch key aspects needed to illustrate the functionality. 
    These should be rough sketches on paper (i.e., not digital mockups), including illustrations of their relations 
    (e.g., arrows showing transitions and relationships).    
    
-   The purpose of these sketches is to explore the design space _before_ you lock yourself into a design.
+   The purpose of these sketches is to explore the design space before you lock yourself into a single design.
    They must demonstrate significant consideration of substantially different approaches to your problem.
 
    ([assignment 2f](#design_checkin)), ([assignment 2g](#design_review)) 
@@ -272,7 +274,7 @@ Be sure that your task conveys a problem and what is accomplished rather than a 
 
 No more than two pages of text in PDF format: 
 
- - Six task descriptions (one paragraph each)
+ - six task descriptions (one paragraph each)
 
 Submit via Catalyst here: `link to Catalyst`
 
@@ -288,17 +290,33 @@ At section, one member of your group will give a short summary of your tasks (i.
 
 Due: Uploaded the night before class Tuesday, October 21, 2014
 
-By this point, you have identified and described six important tasks to your design problem. For this checkin, you will now brainstorm and sketch three very different initial designs for your interface. These illustrations do not need to detail the entire interface, but should instead emphasize key aspects needed to illustrate the functionality. These should be rough sketches on paper (not digital mockups), including illustrations of their relations (e.g., arrows showing relationships between screens). Each design should support four tasks. Each design does not need to support the same four tasks as the other designs. The purpose of these sketches is to explore the design space before you lock yourself into a single design, so we will be looking for variety in designs and tasks.
+You have identified and described six important tasks for your design problem. 
+You will now brainstorm and sketch three very different initial designs for your interface: 
+ - Each design should support four of your tasks, but they do not necessarily need to all support the same four tasks.
+ - Do not illustrate the entire design, but instead sketch key aspects needed to illustrate the functionality. 
+ - These should be rough sketches on paper (i.e., not digital mockups), including illustrations of their relations (e.g., arrows showing transitions and relationships).
+
+The purpose of these sketches is to explore the design space before you lock yourself into a single design.
+They must demonstrate significant consideration of substantially different approaches to your problem.
 
 ### Submission
 
-A single document including scanned images of your three initial designs (again, these designs should not be digital mockups). For each design, provide a bulleted list (one sentence for each of the four tasks) detailing how a user might complete that task. Additionally, provide an updated list of tasks for reference within this document.
+No more than `how many` pages of text in PDF format:
+
+ - six task descriptions (one paragraph each, updated from prior assignment)
+ - for each of three initial designs
+   - the high-level idea of the design (one paragraph)
+   - scanned images of the design (sketches, not digital mockups)
+   - how to complete each the four sketched tasks (e.g., a list of steps, one or two sentences per task)
+
+Images do not count against your page limit for this checkin. 
+Embed images in the PDF, but keep the total amount of text no more than `how many` pages.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-2 points for each design (6 points total). We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).
+`2 points for each design (6 points total). We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).`
 
 <a name="design_review"></a>
 
