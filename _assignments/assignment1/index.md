@@ -4,16 +4,18 @@ title: "Assignment 1: Project Proposal"
 ---
 
 # Overview
-Your assignment is to propose a __problem__ and an __approach__ that could form the basis of a project for this course.
+
+You are to propose a __problem__ and an __approach__ that could form the basis of a project for this course.
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
-analyze the challenges of supporting effective interaction, explore potential designs, and propose a compelling solution.
+analyze the needs and opportunities in the problem, explore potential designs, and propose a compelling solution.
 
 # Milestones
-This proposal is an individual assignment, consisting of three milestones.
+
+This is an individual assignment, consisting of three milestones.
 
 * [Assignment 1a: Proposal Brainstorm](#proposal_brainstorm)
 
-  Due: Uploaded the night before section and bring to section Friday, September 26, 2014
+  Due: Uploaded the night before section Friday, September 26, 2014
   
 * [Assignment 1b: Project Proposal](#project_proposal)
 
@@ -24,6 +26,7 @@ This proposal is an individual assignment, consisting of three milestones.
   Due: Uploaded the night before class Thursday, October 2, 2014
 
 # Project Description
+
 The theme for projects in this course is __personal informatics__:
 
 > Personal informatics systems are systems that _help people collect personally relevant information for the purpose of 
@@ -68,6 +71,7 @@ convince both the instructors and your classmates that a problem is interesting,
 <a name="proposal_brainstorm"></a>
 
 ## 1a: Proposal Brainstorm
+
 Due: Uploaded the night before section and brought to section Friday, September 26, 2014
 
 Propose three ideas as starting points for brainstorming. Each idea should be a single sentence. 
@@ -75,18 +79,21 @@ Propose three ideas as starting points for brainstorming. Each idea should be a 
 Be prepared to talk about your initial ideas with other students.
 
 ### Submission
+
 Submit via Catalyst here: `link to Catalyst`
 
 Bring your proposal ideas to section (on your laptop or on paper) so that you can use them as a starting point 
 in the brainstorm.
 
 ### Grading
+
 `decide on grading -James; I'm fine with this as-is -Matt`
 One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)
 
 <a name="project_proposal"></a>
 
 ## 1b: Project Proposal
+
 Due: Uploaded the night before class Tuesday, September 30, 2014
 
 You will submit a two-paragraph proposal of at most 500 words of text. Any images are free, but the final document must 
@@ -107,11 +114,13 @@ fit on a single page. The points your essay should address are:
    If appropriate, you may conduct this analysis by describing a scenario that illustrates how someone might encounter and resolve the problem.
 
 ## Submission
+
 Your submission must be in PDF format. 
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+
 `Random grading is random`
 
 Your proposal should consist of the two paragraphs outlined above (6 pts). You will additionally be graded on:
@@ -127,6 +136,7 @@ Your proposal should consist of the two paragraphs outlined above (6 pts). You w
 <a name="project_bid"></a>
 
 ## 1c: Project Bid
+
 Due: Uploaded the night before class Thursday, October 2, 2014
 
 Review the sponsored projects and course instructor comments regarding those projects.
@@ -136,7 +146,9 @@ Review the sponsored projects and course instructor comments regarding those pro
 Then bid on projects and potential partners. Course instructors will use your bids to assign projects and groups. 
 
 ### Submission
+
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
+
 Completion. Submitting a project bid is a requirement for proceeding in the class.
