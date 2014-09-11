@@ -11,7 +11,7 @@ __contextual inquiry__, __task development__, __generating multiple potential de
 
 # Milestones
 
-This is a __group__ assignment, consisting of nine milestones.
+This is a group assignment, consisting of nine milestones.
 
 * [Assignment 2a: Project Ideation](#project_ideation)
 
@@ -157,7 +157,6 @@ In another paragraph, describe how you will interact with your participants and 
  
 - Will you be observing their current behaviors?
 - Will you be interviewing them about recent behaviors?
-- `Will you be asking them questions about their desired technological needs?` `Is that CI?`
  
 Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
