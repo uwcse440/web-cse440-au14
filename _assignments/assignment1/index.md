@@ -34,22 +34,36 @@ The theme for projects in this course is __personal informatics__:
 >
 > [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
 
-Examples include systems like [FitBit](http://www.fitbit.com/) and [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity), [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake), [Mint](http://www.mint.com/) (for tracking finances), [Moves](http://www.moves-app.com/) (for tracking location), or [Last.fm](http://www.last.fm) (for 
-tracking music listening).
+`Probably add the QS definition here too`
 
-Your proposal must go _beyond_ a technology-centric proposal of a webpage, phone application, or interaction. Think about 
-the problems that people face in their day to day lives, how we can approach those problems, and the role for interactive computing.
+Current widely used examples of personal informatics systems include:
+
+ - [FitBit](http://www.fitbit.com/) (for tracking physical activity)
+ - [Last.fm](http://www.last.fm) (for tracking music listening)
+ - [Mint](http://www.mint.com/) (for tracking finances)
+ - [Moves](http://www.moves-app.com/) (for tracking location)
+ - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake) 
+ - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity) 
+
+`Probably add some more diverse examples here (e.g., medical examples, concepts, research explorations)`
+
+Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
+the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
 This first assignment is your opportunity to think broadly about a problem. Subsequent assignments will provide 
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
-You should identify and consider problems in activities that are important to people. Potential examples include:
+You should identify and consider goals and activities that are important to people. Potential domains include:
 
-* living a healthy life
-* helping people remember to track
-* managing time or finances effectively
-* identifying behavioral patterns
-* sharing accomplishments with friends and family
-* plans for starting to track
+ - living a healthy life
+ - managing finances effectively
+ - managing time effectively
+
+Activities within personal informatics can include:
+
+ - planning to begin to track
+ - helping remember to track
+ - identifying activity patterns 
+ - sharing accomplishments with friends and family
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). Instead identify problems in 
 long-lived activities that span many different social or technological contexts. For example, if you want to help people 
