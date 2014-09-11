@@ -383,33 +383,33 @@ But it is critical that you revise and update that content.
 You have received extensive feedback throughout your design process, and evaluation of your final report will 
 incorporate how you have addressed and incorporated that feedback to improve relative to your prior milestones.
 
-1. __Title__: 
+1. __Title__ 
 
    A short, creative, and marketable title capturing the key idea.
 
 2. __Each Team Member’s Name and Role__
 
-3. __Problem and Solution Overview (1 paragraph)__:
+3. __Problem and Solution Overview__: (1 paragraph)
 
    A concise statement of the problem you are tackling and a brief synopsis of your proposed solution.
 
-4. __Target Audience, Stakeholders, and Contextual Inquiry Participants (1 page)__:
+4. __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (1 page)
 
    Describe your contextual inquiry, including the participants, their background, and their environment. 
 
-5. __Contextual Inquiry Results and Themes (1 page)__:
+5. __Contextual Inquiry Results and Themes__: (1 page)
 
    Discuss common themes, problems, and practices that emerged in your inquiry.
    
    Include any updated themes that emerged when considering your contextual inquiry in your design process.
 
-6. __Answers to Task Analysis Questions (2 pages)__:
+6. __Answers to Task Analysis Questions__: (2 pages)
 
    Provide brief answers to the task analysis questions.
    
    These should be updated according to your evolved understanding of the problem and your design.
 
-7. __Proposed Design Sketches: “3x4” (1 page)__:
+7. __Proposed Design Sketches - “3x4”__: (1 page)
 
    Present scanned images of your three initial designs in the context of their four tasks.
    
@@ -417,7 +417,7 @@ incorporate how you have addressed and incorporated that feedback to improve rel
    
    Include one paragraph discussing your choice of design and tasks to further pursue.
 
-8. __Written Scenarios: Two Tasks (1 page)__:
+8. __Written Scenarios - Two Tasks__: (1 page)
 
    Convert your two tasks into written scenarios for your design.
    Scenarios include the steps a person will go through to accomplish the task, including references to your design.
@@ -426,9 +426,22 @@ incorporate how you have addressed and incorporated that feedback to improve rel
    you have chosen, should appropriately reference elements of your design, and should communicate how a person
    will accomplish the task using your design.
 
-9. __Storyboards of the Selected Design:
+9. __Storyboards of the Selected Design__
 
    Include updated storyboards of your design. Reference these appropriately in your scenarios.
+
+This is a formal presentation of your work. Ensure your report is appropriately clear and easy to read. This includes:
+
+ - text should be clear and concise
+ - use section headings as appropriate
+ - include images in the body of the write-up with appropriate figure numbers and captions
+ - refer to the figures in the body of your text
+ - check for typos, spelling, and grammar errors
+
+Finally, this is the culmination of a lot of hard design work. Be sure your presentation looks good:
+
+ - choose appropriate colors, fonts, and styles
+ - make liberal use of whitespace 
 
 ### Submission
 
@@ -445,55 +458,14 @@ Submit via Catalyst here: `link to Catalyst`
 This report is worth a total of `39.324242434242` points, with the point split described above for each section. 
 Additional points pertaining to the entire report are described below:
 
-1. __Title__: 
-2. __Each Team Member’s Name and Role__
-3. __Problem and Solution Overview (1 paragraph)__:
-4. __Target Audience, Stakeholders, and Contextual Inquiry Participants (1 page)__:
-5. __Contextual Inquiry Results and Themes (1 page)__:
-6. __Answers to Task Analysis Questions (2 pages)__:
-7. __Proposed Design Sketches: “3x4” (1 page)__:
-8. __Written Scenarios: Two Tasks (1 page)__:
-9. __Storyboards of the Selected Design:
-
-
-### Report Presentation
-
-### Report Clarity (3 points)
-
-Make sure your writing is easy to read: ensure it is clear and concise, use section headings, make liberal use of whitespace, include images in the body of the write-up with appropriate figure numbers and captions, refer to the figures in the body of your text, and check for grammar errors.
-
-
-1. __Title (1 line, 1 point)__: 
-
-Something short and catchy to capture the key idea: we will grade you on the creativity and marketability of the title for your project.
-
-2. __Each team member’s name and role (1 point)__
-
-3. __Problem and solution overview (&le;1 paragraph, 2 points)__:
-
-This overview should be a concise statement of the problem you are tackling and a brief synopsis of your proposed solutions.
-
-4. __User group, stakeholders, and contextual inquiry participants (&le;0.75 pages, 3 points)__:
-
-In [assignment 2c](#contextual_inquiry_checkin), you described the first of the three people you interviewed, their background, and their environment. Provide this same detail for all three people you interviewed.
-
-5. __Contextual inquiry results and themes (&le;1.25 pages, 3 points)__:
-
-See [assignment 2d.1](#contextual_inquiry_review_themes). Include any updated themes that emerged when considering your contextual inquiry.
-
-6. __Answers to task analysis questions (&le;2 pages, 3 points)__:
-
-See [assignment 2d.2](#contextual_inquiry_review_task_analysis_questions). Include updated (where necessary) answers to the 11 task analysis questions.
-
-7. __Proposed design sketches: “3x4” (&le;1.25 pages, 3 points)__:
-
-Include scanned images of your three initial designs for their four tasks as in [assignment 2f](#design_checkin). Unlike for [2f](#design_checkin), include complete descriptions (one paragraph per task) for how each design supports each task.
-
-8. __Written scenarios: two tasks (&le;1 page, 3 points)__:
-
-Turn the task descriptions for the two tasks you chose for your selected design in [assignment 2g](#design_review) into written scenarios by adding the proper references to the use of your selected interface. Scenarios include the steps a person will go through to accomplish the task. Your scenarios do not have to detail every little step, but they should be dependent upon the design you have chosen. You will be graded on how realistic your scenarios are, whether they show a proper balance with respect to referencing interface elements, and how well they are written to communicate how a person will accomplish the task.
-
-9. __Storyboards of the selected design (not included in page count, 3 points)__:
-
-See [assignment 2g](#design_review). Include updated storyboards of the design you have selected.
-
+1.  __Title__: (1 point) 
+2.  __Each Team Member’s Name and Role__: (1 point)  
+3.  __Problem and Solution Overview__: (2 points) 
+4.  __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (3 points)
+5.  __Contextual Inquiry Results and Themes__: (3 points)
+6.  __Answers to Task Analysis Questions__: (3 points)
+7.  __Proposed Design Sketches: “3x4”__: (3 points)
+8.  __Written Scenarios: Two Tasks__: (3 points)
+9.  __Storyboards of the Selected Design__: (3 points)
+10. __Report Clarity__: (3 points)
+11. __Report Presentation__: (1 points)
