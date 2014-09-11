@@ -242,8 +242,8 @@ Provide brief answers to the following questions. These should help you begin to
 ### Submission
 
 No more than three pages of text in PDF format:
- - contextual inquiry themes (less than 1 page)
- - task analysis questions (less than 2 pages)
+ - contextual inquiry themes (less than one page)
+ - task analysis questions (less than two pages)
  
 Submit via Catalyst here: `link to Catalyst`
 
@@ -291,7 +291,8 @@ At section, one member of your group will give a short summary of your tasks (i.
 Due: Uploaded the night before class Tuesday, October 21, 2014
 
 You have identified and described six important tasks for your design problem. 
-You will now brainstorm and sketch three very different initial designs for your interface: 
+You will now brainstorm and sketch three very different initial designs for your interface:
+ 
  - Each design should support four of your tasks, but they do not necessarily need to all support the same four tasks.
  - Do not illustrate the entire design, but instead sketch key aspects needed to illustrate the functionality. 
  - These should be rough sketches on paper (i.e., not digital mockups), including illustrations of their relations (e.g., arrows showing transitions and relationships).
@@ -309,8 +310,9 @@ No more than `how many` pages of text in PDF format:
    - scanned images of the design (sketches, not digital mockups)
    - how to complete each the four sketched tasks (e.g., a list of steps, one or two sentences per task)
 
-Images do not count against your page limit for this checkin. 
-Embed images in the PDF, but keep the total amount of text no more than `how many` pages.
+Images do not count against your page limit.  
+You should embed images throughout your PDF, keeping them near the text that references them.
+But ignoring images, keep the total amount of text no more than `how many` pages.
 
 Submit via Catalyst here: `link to Catalyst`
 
@@ -324,19 +326,42 @@ Submit via Catalyst here: `link to Catalyst`
 
 Due: Uploaded the night before section Friday, October 24, 2014
 
-From your design sketches, select one design and two tasks your users will perform with that design. The two tasks selected need to be representative of the experience using your design. Create a storyboard of each task in your selected design. These should be rough, done on paper and then scanned (do not create or recreate them in a drawing package). The storyboards should convey the major aspects of the design in enough detail that someone outside of your group can understand how the interface supports each task. This section should clearly indicate the functionality of your artifact and what the interface will be like (described and sketched, explicitly referencing the figures in your text). Add more sketches or annotate them in multiple colors if that helps.
+From your design sketches, select one design that you will refine in the remainder of this course. 
+Then select two tasks that will be the focus of your design refinement. 
+The selected tasks need to be representative of the experience of using your design. 
 
-Include in your writeup a single paragraph describing why you selected the design you did. Draw upon feedback from critiques and data from your contextual inquiry. Why this design and these tasks? What makes the design better suited to your target users compared to other possibilities? Why are these tasks more compelling than the others? We want to have a good understanding of which interface you chose and why you chose it.
+Create a storyboard of each task for your selected design. 
+These should be done on paper, then scanned (i.e., do not create or recreate them in a drawing package). 
+They should clearly indicate the functionality of the design and what the interface will be like,
+conveying the major aspects of the design in enough detail that a person not in your group can understand 
+how the design supports each task. 
+As needed, add descriptions that explicitly reference the storyboard, add more sketches, or annotate them in multiple colors.
+
+Prepare one paragraph describing why you selected the design you did. 
+Draw upon feedback from critiques and data from your contextual inquiry. 
+
+ - Why this design and these tasks? 
+ - What makes the design better suited to your target audience compared to other possibilities? 
+ - Why are these tasks more compelling than the others? 
+
+Convey a strong understanding of which design you chose, which tasks you chose, and why you chose them.
 
 ### Submission
 
-A single document including scanned images of your storyboards and a one-paragraph motivation (half a page) explaining why you chose that design and those tasks.
+No more than one page of text in PDF format:
+
+ - scanned images of your storyboards and associated descriptions 
+ - discussion of your design and task choices (one paragraph)
+
+Images do not count against your page limit.  
+You should embed images throughout your PDF, keeping them near the text that references them.
+But ignoring images, keep the total amount of text no more than one page.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-2 points on the rationale behind choosing the particular design, 2 points on the storyboard for each task (6 points total).
+`2 points on the rationale behind choosing the particular design, 2 points on the storyboard for each task (6 points total).`
 
 <a name="final_report">
 
