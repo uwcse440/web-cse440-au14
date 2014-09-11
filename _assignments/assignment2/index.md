@@ -310,9 +310,9 @@ No more than `how many` pages of text in PDF format:
    - scanned images of the design (sketches, not digital mockups)
    - how to complete each the four sketched tasks (e.g., a list of steps, one or two sentences per task)
 
-Images do not count against your page limit.  
+Images do not count against your page limit, and are therefore effectively free. 
 You should embed images throughout your PDF, keeping them near the text that references them.
-But ignoring images, keep the total amount of text no more than `how many` pages.
+The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here: `link to Catalyst`
 
@@ -353,9 +353,9 @@ No more than one page of text in PDF format:
  - scanned images of your storyboards and associated descriptions 
  - discussion of your design and task choices (one paragraph)
 
-Images do not count against your page limit.  
+Images do not count against your page limit, and are therefore effectively free. 
 You should embed images throughout your PDF, keeping them near the text that references them.
-But ignoring images, keep the total amount of text no more than one page.
+The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here: `link to Catalyst`
 
