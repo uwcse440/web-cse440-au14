@@ -40,6 +40,11 @@ body {
     background-color: mediumpurple;
 }
 
+.calendar .officehour
+{
+    background-color: lightgoldenrodyellow;
+}
+
 blockquote p {
 	font-size: 1em;
 	font-weight: normal;
