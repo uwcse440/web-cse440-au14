@@ -48,26 +48,6 @@ title: Calendar
           {% endif %}
         {% endfor %}
         
-        {% for currentaway in site.data.calendar.aways %}
-          {% if currentdate == currentaway.date %}
-            <tr class="away table-condensed">
-              <td>
-                {{ currentaway.name }}
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-
-        {% for currentassignment in site.data.calendar.assignments %}
-          {% if currentdate == currentassignment.date %}
-            <tr class="assignment">
-              <td>
-                {{ currentassignment.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-
         {% for currentlecture in site.data.calendar.lectures %}
           {% if currentdate == currentlecture.date %}
             {% assign currentlocation = currentlecture.location %}
@@ -77,7 +57,11 @@ title: Calendar
   
             <tr class="lecture">
               <td>
-                Lecture<br>
+                {% if currentlecture.name != nil %}
+                  {{ currentlecture.name }}<br>
+                {% else %}   
+                  Lecture<br>
+                {% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
                       {{ currentlocationitem.time }}<br>
@@ -86,13 +70,6 @@ title: Calendar
                 </small>
               </td>
             </tr>
-            {% if currentlecture.name != nil %}
-              <tr class="lecture">
-                <td colspan="2">
-                  {{ currentlecture.name }}<br>
-                </td>
-              </tr>
-            {% endif %}
           {% endif %}
         {% endfor %}
   
@@ -140,6 +117,30 @@ title: Calendar
             </tr>
           {% endif %}
         {% endfor %}
+        
+        {% for currentassignment in site.data.calendar.assignments %}
+          {% if currentdate == currentassignment.date %}
+            <tr class="assignment">
+              <td>
+                <small>
+                  {{ currentassignment.name }}<br>
+                </small>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+
+        {% for currentaway in site.data.calendar.aways %}
+          {% if currentdate == currentaway.date %}
+            <tr class="away table-condensed">
+              <td>
+                <small>
+                  {{ currentaway.name }}
+                </small>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}       
       </table>
     </td>
     {% when 'Sat' %}
