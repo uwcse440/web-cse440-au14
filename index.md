@@ -59,6 +59,7 @@ King Xia (teaching assistant)
 <!--
 This display dominates the page, so I tried to add some spacing above. Maybe resizing the images instead would work?
 -->
+
 |![James Fogarty](images/james_photo.jpg)| ![Daniel Epstein](images/daniel_photo.jpg)|![Bradley Jacobson](images/brad_photo.jpg)|![King Xia](images/king_photo.jpg)|
 |----------------------------------------|-------------------------------------------|------------------------------------------|----------------------------------|
 |James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Bradley Jacoboson (teaching assistant)    |King Xia (teaching assistant)     |
