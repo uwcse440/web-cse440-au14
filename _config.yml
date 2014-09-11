@@ -1,5 +1,5 @@
-name:       CSE 440 Autumn 2014
-baseurl:    /
+name:       CSE 440 - Autumn 2014
+baseurl:    /courses/cse440/14au
 
 collections:
   assignments:
