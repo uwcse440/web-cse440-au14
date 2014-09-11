@@ -21,7 +21,7 @@ This is a __group__ assignment, consisting of eight milestones.
 
   Due: Uploaded the night before class Tuesday, October 7, 2014
   
-* [Assignment 2c: Contextual Inquiry Checkin](#contextual_inquiry_checkin)
+* [Assignment 2c: Contextual Inquiry Check-In](#contextual_inquiry_checkin)
 
   Due: Uploaded the night before section Friday, October 10, 2014
 
@@ -33,9 +33,7 @@ This is a __group__ assignment, consisting of eight milestones.
 
   Due: Uploaded the night before class Friday, October 17, 2014
   
-* [Assignment 2f: Design Checkin ("3x4")](#design_checkin)
-
-  `decide whether it's checkin or check-in`
+* [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
 
   Due: Uploaded the night before class Tuesday, October 21, 2014
 
@@ -173,7 +171,7 @@ Be prepared to discuss the plan with other teams and the course staff during lec
 
 <a name="contextual_inquiry_checkin"></a>
 
-## 2c: Contextual Inquiry Checkin
+## 2c: Contextual Inquiry Check-In
 
 Due: Uploaded the night before section Friday, October 10, 2014
 
@@ -291,7 +289,7 @@ At section, one member of your group will give a short summary of your tasks (i.
 
 <a name="design_checkin"></a>
 
-## 2f: Design Checkin ("3x4")
+## 2f: Design Check-In ("3x4")
 
 Due: Uploaded the night before class Tuesday, October 21, 2014
 
