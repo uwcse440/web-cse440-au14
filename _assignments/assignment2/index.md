@@ -455,17 +455,16 @@ Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-This report is worth a total of `39.324242434242` points, with the point split described above for each section. 
-Additional points pertaining to the entire report are described below:
+This report is worth a total of 25 points:
 
 1.  __Title__: (1 point) 
 2.  __Each Team Member’s Name and Role__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points) 
-4.  __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (3 points)
+4.  __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (2 points)
 5.  __Contextual Inquiry Results and Themes__: (3 points)
 6.  __Answers to Task Analysis Questions__: (3 points)
 7.  __Proposed Design Sketches: “3x4”__: (3 points)
 8.  __Written Scenarios: Two Tasks__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
 10. __Report Clarity__: (3 points)
-11. __Report Presentation__: (1 points)
+11. __Report Presentation__: (1 point)
