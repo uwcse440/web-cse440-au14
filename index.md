@@ -17,7 +17,14 @@ __Class times & locations__: Tuesdays & Thursdays, 10:30-11:50am MOR 234
 
 __Section times & locations__: Fridays, 10:30-11:30am CMU 228 or 3:30-4:30pm MGH 254
 
-__Office Hours__: Tuesdays, 2:00-3:00pm CSE 666 (Fogarty), Thursdays, 12:00-1:00pm CSE 218 (Epstein)
+__Office Hours__: 
+
+Scheduled hours are held most weeks, but check the calendar:
+
+ - James - Tuesdays, 2:00 - 3:00, CSE 666 
+ - Daniel - Thursdays, 12:00 - 1:00, CSE 218
+  
+Other meetings by appointment.
 
 __Course Staff__:
 
