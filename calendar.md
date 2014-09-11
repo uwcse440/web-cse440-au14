@@ -47,6 +47,18 @@ title: Calendar
             </tr>
           {% endif %}
         {% endfor %}
+
+        {% for currentaway in site.data.calendar.aways %}
+          {% if currentdate == currentaway.date %}
+            <tr class="away table-condensed">
+              <td>
+                <small>
+                  {{ currentaway.name }}
+                </small>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}       
         
         {% for currentlecture in site.data.calendar.lectures %}
           {% if currentdate == currentlecture.date %}
@@ -130,17 +142,22 @@ title: Calendar
           {% endif %}
         {% endfor %}
 
-        {% for currentaway in site.data.calendar.aways %}
-          {% if currentdate == currentaway.date %}
-            <tr class="away table-condensed">
+        {% for currentofficehour in site.data.calendar.officehours %}
+          {% if currentdate == currentofficehour.date %}
+            {% assign currentlocation = currentofficehour.location %}
+            <tr class="officehour">
               <td>
+                {{ currentofficehour.name }}<br>
                 <small>
-                  {{ currentaway.name }}
+                  {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
+                      {{ currentlocationitem.time }}<br>
+                      {{ currentlocationitem.location }}<br>
+                  {% endfor %}
                 </small>
               </td>
             </tr>
           {% endif %}
-        {% endfor %}       
+        {% endfor %}
       </table>
     </td>
     {% when 'Sat' %}
