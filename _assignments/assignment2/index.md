@@ -11,7 +11,7 @@ __contextual inquiry__, __task development__, __generating multiple potential de
 
 # Milestones
 
-This is a __group__ assignment, consisting of eight milestones.
+This is a __group__ assignment, consisting of nine milestones.
 
 * [Assignment 2a: Project Ideation](#project_ideation)
 
@@ -45,27 +45,27 @@ This is a __group__ assignment, consisting of eight milestones.
 
   Due: Uploaded the night before class Tuesday, October 28, 2014
 
+* `Presentation`
+
 # Requirements
 
-`check consistency of verbiage here and in each assignment part below`
-
 In this assignment, you will brainstorm a large set of possible tasks and design ideas for your project. 
-You will then use contextual inquiry to learn more about your problem and the current practices of your target audience. 
+You will then use contextual inquiry to learn more about your problem and the current practices of people who might use your design. 
 You will draw upon the ideas developed in your brainstorming and the observations made in your contextual inquiry
 to help develop a set of potential tasks your design might support. 
 You will next sketch how a set of initial designs might support those tasks.
 Finally, you will choose a design to pursue in the remainder of the course, storyboard the details of your design in
-the context of important tasks, and summarize your design in a final report.
+the context of important tasks, and present your design in a report and presentation.
 
 More specifically, you will do the following:
 
-1. Generate ideas of potential problems, tasks, features, and interactions using a group ideation exercise.
+1. Generate ideas for potential problems, tasks, features, and interactions using a group ideation exercise.
 
-   ([assignment 2a](#project_ideation))
+   ([Assignment 2a](#project_ideation))
     
-2. Observe and interview at least __three__ potential target clients using the contextual inquiry method.
+2. Use the contextual inquiry method in observing and interviewing at least __three__ people who might use your design.
 
-   ([assignment 2b](#contextual_inquiry_plan)), ([assignment 2c](#contextual_inquiry_checkin)), ([assignment 2d](#contextual_inquiry_review))
+   ([Assignment 2b](#contextual_inquiry_plan)), ([Assignment 2c](#contextual_inquiry_checkin)), ([Assignment 2d](#contextual_inquiry_review))
 
 3. Develop __six__ tasks that might be performed with your design. 
 
@@ -75,12 +75,12 @@ More specifically, you will do the following:
    
    As you progress through your project, you can and should consider revising your tasks. 
    Expect to refine or change your tasks as your understanding of the problem matures or according to feedback you receive.
-   The tasks you report in this assignment must be appropriate but are not necessarily final.
+   The tasks you report in this assignment therefore must be appropriate but are not necessarily final.
 
-   ([assignment 2e](#task_review)) 
+   ([Assignment 2e](#task_review)) 
 
 4. Brainstorm and sketch __three__ very different initial designs for your interface. 
-   Each design should support __four__ of your tasks, but they do not necessarily need to all support the same four tasks.
+   Each design should support __four__ of your tasks.
    
    Do not illustrate the entire design, but instead sketch key aspects needed to illustrate the functionality. 
    These should be rough sketches on paper (i.e., not digital mockups), including illustrations of their relations 
@@ -89,16 +89,18 @@ More specifically, you will do the following:
    The purpose of these sketches is to explore the design space before you lock yourself into a single design.
    They must demonstrate significant consideration of substantially different approaches to your problem.
 
-   ([assignment 2f](#design_checkin)), ([assignment 2g](#design_review)) 
+   ([Assignment 2f](#design_checkin)), ([Assignment 2g](#design_review)) 
 
 5. From your sketches, select __one__ design to pursue for the remainder of the quarter and __two__ tasks that emphasize
    critical functionality of your design. These tasks should be non-trivial, critical to solving your problem, and should 
    emphasize long-lived or repeated activities. In contrast, a one-time login screen for a social networking application 
-   is not worth being the focus of your project, does not stress define your project functionality, and is not interesting.
+   is not worth being the focus of your project, does not define your project functionality, and is not interesting.
 
-   Storyboard your chosen design for your chosen tasks and summarize your design process in a final report.
+   Storyboard your chosen design for your chosen tasks, illustrating how the tasks are accomplished in your design.
 
-   ([assignment 2h](#final_report))
+6. Summarize your design process in a report and presentation.
+
+   ([Assignment 2h](#final_report))
 
 # Deliverables
 
@@ -126,7 +128,7 @@ When you get stuck, find a context to inspire new ideas.
 
 ### Submission
 
-One of the teaching staff in your section will sign off on what you completed within section.
+In section, one of the teaching staff will sign off on what you completed.
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
@@ -140,18 +142,18 @@ You will be able to take your paper with you, and you should continue brainstorm
 
 Due: Uploaded the night before class Tuesday, October 7, 2014
 
-In one paragraph, describe your target audience and other stakeholders for your design. 
+In one paragraph, describe the people who might use your design and other stakeholders for your design. 
 Describe the particular contextual inquiry participants you plan to pursue, 
-including some details of their background and the environment where you will observe their practice. 
-Give enough details to convince us that you can actually find and interview your target clients in the next week. 
+including some details of their background and the environment where you will observe their current practices. 
+Give enough details to convince us that you can actually find and interview your target participants in the next week. 
 
-For example, your target audience should not be "doctors" but instead a specific group of doctors 
+For example, your target participants should not be "doctors" but instead a specific group of doctors 
 (e.g., Family Practitioners in the UW Roosevelt Clinic). 
-If gaining access to the target audience is non-trivial (e.g., as with busy doctors), 
-describe the steps you have taken to gain access and your plans if unable to gain access. 
+If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
+describe the steps you have taken to gain access and your plans to recover if you are unable to gain access. 
 Indicate when you will be conducting your three inquiries, being as specific as possible.
 
-In another paragraph, describe how you will interact with your target audience and your role as the "apprentice".
+In another paragraph, describe how you will interact with your participants and your role as the "apprentice".
  
 - Will you be observing their current behaviors?
 - Will you be interviewing them about recent behaviors?
@@ -163,7 +165,7 @@ Please be as specific as possible, providing potential examples of your observat
 
 No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
 
-Be prepared to discuss the plan with other teams and the course staff during lecture.
+In lecture, be prepared to discuss the plan with other teams and the course staff.
 
 ### Grading
 
@@ -175,8 +177,8 @@ Be prepared to discuss the plan with other teams and the course staff during lec
 
 Due: Uploaded the night before section Friday, October 10, 2014
 
-Complete at least one of your contextual inquiry prior to this checkin. 
-You hopefully learned something about the needs of your audience but also about how to conduct a contextual inquiry.
+Complete at least one contextual inquiry prior to this check-in. 
+You hopefully learned something about the needs of people who might use your design, but also about how to conduct a contextual inquiry.
 
 Describe your first inquiry: 
 
@@ -195,7 +197,7 @@ can be difficult to get right and often important topics are left unresolved.
 
 No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group will give a short summary of your contextual inquiry checkin (i.e., less than 1 minute).
+In section, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
 ### Grading
 
@@ -211,7 +213,7 @@ Due: Uploaded the night before class Tuesday, October 14, 2014
 
 #### Themes
 
-Complete all three of your contextual inquiries. Discuss what you learned:
+Complete all three of your contextual inquiries. Discuss your process and what you learned:
 
 - Who you observed or interviewed, their background, and the environment.
 - Note anything unique about each inquiry and comment on the rationale behind these events.
@@ -241,18 +243,15 @@ Provide brief answers to the following questions. These should help you begin to
 
 ### Submission
 
-`I'm not sure about 3 pages here, considering a fourth for overviewing the participants, like in final`
+No more than four pages of text in PDF format:
 
-No more than three pages of text in PDF format:
-
+ - contexutal inquiry participants (less than one page)
  - contextual inquiry themes (less than one page)
  - task analysis questions (less than two pages)
  
 Submit via Catalyst here: `link to Catalyst`
 
-At lecture, your group will discuss your contextual inquiry findings.
-
-`Should we be more consistent in what we say about 'at lecture' or 'at section'?`
+In lecture, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
 ### Grading
 
@@ -265,13 +264,14 @@ At lecture, your group will discuss your contextual inquiry findings.
 Due: Uploaded the night before class Friday, October 17, 2014
 
 Building on what you learned in your contextual inquiry, design six tasks that you believe are integral to your overall design goal:
+
  - You should include existing tasks (i.e., tasks people already do) and new tasks (i.e., tasks that will be enabled by your design). 
  - These should be real world tasks that have details (e.g., instead of "programming a DVR", details like "programming a DVR to record the Simpsons on Sundays"). 
  - These tasks should not have any specific relation to the exact design sketches you will brainstorm next. 
  - Your six tasks should span a wide range of functionality and difficulty, from easy to hard tasks.
 
 Each task should be described in text. Tasks say what is accomplished, leaving open how to accomplish it.
-Be sure that your task conveys a problem and what is accomplished rather than a step-by-step walkthrough of a particular design.
+So be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of a particular design.
 
 ### Submission
 
@@ -281,7 +281,7 @@ No more than two pages of text in PDF format:
 
 Submit via Catalyst here: `link to Catalyst`
 
-At section, one member of your group will give a short summary of your tasks (i.e., less than 1 minute).
+In section, be prepared to discuss your tasks with other teams and the course staff.
 
 ### Grading
 
@@ -305,7 +305,7 @@ They must demonstrate significant consideration of substantially different appro
 
 ### Submission
 
-No more than `how many` pages of text in PDF format:
+No more than three pages of text in PDF format:
 
  - six task descriptions (one paragraph each, updated from prior assignment)
  - for each of three initial designs
@@ -318,6 +318,8 @@ You should embed images throughout your PDF, keeping them near the text that ref
 The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here: `link to Catalyst`
+
+In lecture, be prepared to discuss your design sketches with other teams and the course staff.
 
 ### Grading
 
@@ -333,34 +335,36 @@ From your design sketches, select one design that you will refine in the remaind
 Then select two tasks that will be the focus of your design refinement. 
 The selected tasks need to be representative of the experience of using your design. 
 
-Create a storyboard of each task for your selected design. 
+Prepare one paragraph describing why you selected the design you did. 
+Draw upon feedback from critiques and data from your contextual inquiry. 
+
+ - Why this design and these tasks? 
+ - What makes the design better suited to the people for whom you are targeting your design? 
+ - Why are these tasks more compelling than the others? 
+
+Convey a strong understanding of which design you chose, which tasks you chose, and why you chose them.
+
+Then Create a storyboard of each task for your selected design. 
 These should be done on paper, then scanned (i.e., do not create or recreate them in a drawing package). 
 They should clearly indicate the functionality of the design and what the interface will be like,
 conveying the major aspects of the design in enough detail that a person not in your group can understand 
 how the design supports each task. 
 As needed, add descriptions that explicitly reference the storyboard, add more sketches, or annotate them in multiple colors.
 
-Prepare one paragraph describing why you selected the design you did. 
-Draw upon feedback from critiques and data from your contextual inquiry. 
-
- - Why this design and these tasks? 
- - What makes the design better suited to your target audience compared to other possibilities? 
- - Why are these tasks more compelling than the others? 
-
-Convey a strong understanding of which design you chose, which tasks you chose, and why you chose them.
-
 ### Submission
 
 No more than one page of text in PDF format:
 
- - scanned images of your storyboards and associated descriptions 
  - discussion of your design and task choices (one paragraph)
+ - scanned images of your storyboards and associated descriptions 
 
 Images do not count against your page limit, and are therefore effectively free. 
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here: `link to Catalyst`
+
+In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
 
 ### Grading
 
@@ -372,14 +376,14 @@ Submit via Catalyst here: `link to Catalyst`
 
 Due: Uploaded the night before class Tuesday, October 28, 2014
 
-Prepare a final report documenting your design process.
+Prepare a report documenting your design process.
 Your report should follow the outline below, and will be graded using the guidelines that follow.
 The provided page allocations are estimates, intended to help convey how to divide up the space.
 
 If you completed all of your milestones above, you will have much of the content for this report.
 But it is critical that you revise and update that content.
-You have received extensive feedback throughout your design process, and evaluation of your final report will 
-incorporate how you have addressed and incorporated that feedback to improve relative to your prior milestones.
+You have received extensive feedback throughout your design process, and evaluation of your report will 
+include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
 
 1. __Title__ 
 
@@ -391,9 +395,11 @@ incorporate how you have addressed and incorporated that feedback to improve rel
 
    A concise statement of the problem you are tackling and a brief synopsis of your proposed solution.
 
-4. __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (1 page)
+4. __Contextual Inquiry Target, Stakeholders, and Participants__: (1 page)
 
-   Describe your contextual inquiry, including the participants, their background, and their environment. 
+   Describe your contextual inquiry, including the participants, their background, and their environment.
+    
+   Describe why you chose the particular participants in your inquiry.
 
 5. __Contextual Inquiry Results and Themes__: (1 page)
 
@@ -407,7 +413,7 @@ incorporate how you have addressed and incorporated that feedback to improve rel
    
    These should be updated according to your evolved understanding of the problem and your design.
 
-7. __Proposed Design Sketches - “3x4”__: (1 page)
+7. __Proposed Design Sketches - "3x4"__: (1 page)
 
    Present scanned images of your three initial designs in the context of their four tasks.
    
@@ -415,7 +421,7 @@ incorporate how you have addressed and incorporated that feedback to improve rel
    
    Include one paragraph discussing your choice of design and tasks to further pursue.
 
-8. __Written Scenarios - Two Tasks__: (1 page)
+8. __Written Scenarios - "1x2"__: (1 page)
 
    Convert your two tasks into written scenarios for your design.
    Scenarios include the steps a person will go through to accomplish the task, including references to your design.
@@ -458,11 +464,11 @@ This report is worth a total of 25 points:
 1.  __Title__: (1 point) 
 2.  __Each Team Member’s Name and Role__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points) 
-4.  __Target Audience, Stakeholders, and Contextual Inquiry Participants__: (2 points)
+4.  __Contextual Inquiry Target, Stakeholders, and Participants__: (2 points)
 5.  __Contextual Inquiry Results and Themes__: (3 points)
 6.  __Answers to Task Analysis Questions__: (3 points)
-7.  __Proposed Design Sketches: “3x4”__: (3 points)
-8.  __Written Scenarios: Two Tasks__: (3 points)
+7.  __Proposed Design Sketches - "3x4"__: (3 points)
+8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
 10. __Report Clarity__: (3 points)
 11. __Report Presentation__: (1 point)
