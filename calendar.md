@@ -48,80 +48,45 @@ title: Calendar
           {% endif %}
         {% endfor %}
         
-        {% for currentaway in site.data.calendar.aways %}
-          {% if currentdate == currentaway.date %}
-            <tr class="away table-condensed">
-              <td>
-                {{ currentaway.name }}
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-
-        {% for currentassignment in site.data.calendar.assignments %}
-          {% if currentdate == currentassignment.date %}
-            <tr class="assignment">
-              <td>
-                {{ currentassignment.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-
-        {% for currentmilestone in site.data.calendar.milestones %}
-          {% if currentdate == currentmilestone.date %}
-            <tr class="milestone">
-              <td>
-                {{ currentmilestone.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-
         {% for currentlecture in site.data.calendar.lectures %}
           {% if currentdate == currentlecture.date %}
-            {% assign currentlecturetime = currentlecture.time %}
-            {% if currentlecturetime == nil %}
-              {% assign currentlecturetime = site.data.calendar.lecture.time %}
-            {% endif %}
-            {% assign currentlecturelocation = currentlecture.location %}
-            {% if currentlecturelocation == nil %}
-              {% assign currentlecturelocation = site.data.calendar.lecture.location %}
+            {% assign currentlocation = currentlecture.location %}
+            {% if currentlocation == nil %}
+              {% assign currentlocation = "lectures" %}
             {% endif %}
   
             <tr class="lecture">
               <td>
-                Lecture<br>
+                {% if currentlecture.name != nil %}
+                  {{ currentlecture.name }}<br>
+                {% else %}   
+                  Lecture<br>
+                {% endif %}
                 <small>
-                  {{ currentlecturetime }}<br>
-                  {{ currentlecturelocation }}<br>
+                  {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
+                      {{ currentlocationitem.time }}<br>
+                      {{ currentlocationitem.location }}<br>
+                  {% endfor %}
                 </small>
               </td>
             </tr>
-            {% if currentlecture.name != nil %}
-              <tr class="lecture">
-                <td colspan="2">
-                  {{ currentlecture.name }}<br>
-                </td>
-              </tr>
-            {% endif %}
           {% endif %}
         {% endfor %}
   
         {% for currentsection in site.data.calendar.sections %}
           {% if currentdate == currentsection.date %}
-            {% assign currentsectionschedule = currentsection.schedule %}
-            {% if currentsectionschedule == nil %}
-              {% assign currentsectionschedule = site.data.calendar.section.schedule %}
+            {% assign currentlocation = currentlecture.location %}
+            {% if currentlocation == nil %}
+              {% assign currentlocation = "sections" %}
             {% endif %}
   
             <tr class="section">
               <td>
                 Section<br>                
                 <small>
-                  {% for currentsectionscheduleitem in currentsectionschedule %}
-                    {{ currentsectionscheduleitem.time }}<br>
-                    {{ currentsectionscheduleitem.location }}<br> 
+                  {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
+                      {{ currentlocationitem.time }}<br>
+                      {{ currentlocationitem.location }}<br>
                   {% endfor %}
                 </small>
               </td>
@@ -135,36 +100,47 @@ title: Calendar
             {% endif %}
           {% endif %}
         {% endfor %}
-  
-        {% for currentexercise in site.data.calendar.exercises %}
-          {% if currentdate == currentexercise.date %}
-            <tr class="exercise">
+
+        {% for currentmajor in site.data.calendar.majors %}
+          {% if currentdate == currentmajor.date %}
+            {% assign currentlocation = currentmajor.location %}
+            <tr class="major">
               <td>
-                {{ currentexercise.name }}<br>
+                {{ currentmajor.name }}<br>
+                <small>
+                  {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
+                      {{ currentlocationitem.time }}<br>
+                      {{ currentlocationitem.location }}<br>
+                  {% endfor %}
+                </small>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+        
+        {% for currentassignment in site.data.calendar.assignments %}
+          {% if currentdate == currentassignment.date %}
+            <tr class="assignment">
+              <td>
+                <small>
+                  {{ currentassignment.name }}<br>
+                </small>
               </td>
             </tr>
           {% endif %}
         {% endfor %}
 
-        {% for currentexam in site.data.calendar.exams %}
-          {% if currentdate == currentexam.date %}
-            <tr class="exam">
+        {% for currentaway in site.data.calendar.aways %}
+          {% if currentdate == currentaway.date %}
+            <tr class="away table-condensed">
               <td>
-                {{ currentexam.name }}<br>
+                <small>
+                  {{ currentaway.name }}
+                </small>
               </td>
             </tr>
           {% endif %}
-        {% endfor %}
-  
-        {% for currentpresentation in site.data.calendar.presentations %}
-          {% if currentdate == currentpresentation.date %}
-            <tr class="presentation">
-              <td>
-                {{ currentpresentation.name }}<br>
-              </td>
-            </tr>
-          {% endif %}
-        {% endfor %}  
+        {% endfor %}       
       </table>
     </td>
     {% when 'Sat' %}
