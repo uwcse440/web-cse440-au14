@@ -1,9 +1,10 @@
 ---
 layout: default
-title: CSE 440 - Introduction to HCI
 ---
 
-# Autumn 2014
+# CSE 440 - Introduction to HCI
+
+## Autumn 2014
 
 ###Course Description
 
