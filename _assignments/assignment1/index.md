@@ -9,6 +9,8 @@ You are to propose a __problem__ and an __approach__ that could form the basis o
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
 analyze the needs and opportunities in the problem, explore potential designs, and propose a compelling solution.
 
+This assignment is worth __3%__ of your overall course grade, with __0.5%__ for the proposal brainstorm and __2.5%__ for the project proposal.
+
 # Milestones
 
 This is an individual assignment, consisting of three milestones.
@@ -34,19 +36,20 @@ The theme for projects in this course is __personal informatics__:
 >
 > [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
 
-`Probably add the QS definition here too`
+Personal informatics heavily relates to the [Quantified Self](http://quantifiedself.com/) movement, which operates on the slogan _self knowledge through numbers_. Researchers have studied the Quantified Self movement, identifying comment practices and pitfalls [_Choe et al., 2014_](http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf)
 
 Current widely used examples of personal informatics systems include:
 
  - [FitBit](http://www.fitbit.com/) (for tracking physical activity)
  - [Last.fm](http://www.last.fm) (for tracking music listening)
  - [Mint](http://www.mint.com/) (for tracking finances)
+ - [Glooko](http://glooko.com/) (for tracking diabetes outcomes)
  - [Moves](http://www.moves-app.com/) (for tracking location)
- - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake) 
- - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity) 
-
-`Probably add some more diverse examples here (e.g., medical examples, concepts, research explorations)`
-
+ - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake)
+ - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity)
+ - [Track your Happiness](https://www.trackyourhappiness.org/) (for tracking happiness)
+ - [Feltron Report](http://feltron.com/) (a designer tracks everything he does and releases an annual report)
+ 
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
 This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide 
