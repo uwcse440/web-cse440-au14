@@ -135,7 +135,9 @@ title: Calendar
             <tr class="assignment">
               <td>
                 <small>
+                  {% if currentassignment.link != nil %}<a href="{{ site.baseurl }}/{{ currentassignment.link }}">{% endif %}
                   {{ currentassignment.name }}<br>
+                  {% if currentassignment.link != nil %}</a>{% endif %}
                 </small>
               </td>
             </tr>
