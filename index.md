@@ -74,3 +74,9 @@ This quarter's projects are themed on __Personal Informatics__, defined as follo
 People are collecting more data about themselves through smartphone and desktop apps, automatically and manually. Your project should address a problem within current personal informatics tools to aid in data collection, self-reflection, or sensemaking.
 
 We hope this course will allow you to create an open-ended design. Your project should __not__ re-create a solution that currently exists, and you should feel free to think beyond the current interaction techniques of mobile and desktop applications. This course is not about creating functional prototypes, but instead about design.
+
+Here are a few examples of course projects from previous offerings. Reports may not map directly to the current offering, as the course structure has changed over the past few quarters. However, these projects represent examples of strong work in this course.
+
+- [Plantr](http://courses.cs.washington.edu/courses/cse440/13au/projects/plantr/)
+- [InfaCare](http://courses.cs.washington.edu/courses/cse440/13au/projects/infacare/)
+- more to come...
