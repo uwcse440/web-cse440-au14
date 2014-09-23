@@ -29,59 +29,30 @@ Other meetings by appointment.
 
 __Course Staff__:
 
-<!--
-I couldn't get this to format correctly, it would make everything after it render as HTML instead of markdown.
-<table cellpadding="10">
-<tr>
-<td>
-<image src="images/james_photo.jpg" alt="James Fogarty">
-</td>
-<td>
-<image src="images/daniel_photo.jpg" alt="Daniel Epstein">
-</td>
-<td>
-<image src="images/brad_photo.jpg" alt="Bradley Jacobson">
-</td>
-<td>
-<image src="images/king_photo.jpg" alt="King Xia">
-</td>
-</tr>
-<tr>
-<td>
-James Fogarty (course instructor)
-</td>
-<td>
-Daniel Epstein (head teaching assistant)
-</td>
-<td>
-Bradley Jacobson (teaching assistant)
-</td>
-<td>
-King Xia (teaching assistant)
-</td>
-</tr>
-</table>
--->
-
-
-<!--
-This display dominates the page, so I tried to add some spacing above. Maybe resizing the images instead would work?
--->
-
 |![James Fogarty](images/james_photo.jpg)| ![Daniel Epstein](images/daniel_photo.jpg)|![Bradley Jacobson](images/brad_photo.jpg)|![King Xia](images/king_photo.jpg)|
 |----------------------------------------|-------------------------------------------|------------------------------------------|----------------------------------|
 |James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Bradley Jacoboson (teaching assistant)    |King Xia (teaching assistant)     |
 
-
-
 ###Grading
 
-The grading breakdown for this course is in flux, continue checking back for a more detailed summary. Points will be allocated in the following categories (which may change before instruction begins):
+Points will be distributed as follows:
 
-- Group Project
-- Individual assignments and readings
-- Exam
-- Participation
+- Group Project (__65%__)
+  - Assignment 1, project proposal (__3%__)
+  - Assignment 2, getting the right design (__21%__)
+    - Milestones (__6%__)
+    - Final report (__15%__)
+  - Assignment 3, getting the design right (__14%__)
+    - Milestones (__4%__)
+    - Final report (__10%__)
+  - Assignment 4, communicating your design (__15%__)
+    - Project website (__5%__)
+    - Video prototype (__5%__)
+    - Poster (__5%__)
+  - Presentations (__12%__)
+- Exam (__25%__)
+- Individual readings (__5%__)
+- Participation (__5%__)
 
 ###Course Project
 This course centers around a term-long group project, in which you will go through the design process with a real idea. In this project, you will:
