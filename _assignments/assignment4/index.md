@@ -99,7 +99,11 @@ Submit a pull request in github to upload your website and video. `might need in
 
 ### Grading
 
-Your initial version of your website __(6 points)__ and video prototype __(6 points)__.
+`This milestone will be graded on a scale of __12 points__:`
+
+1.  `__Your initial version of your website__: (6 points)`
+2.  `__Your initial version of your video prototype__: (6 points)`
+
 Note that these should be __complete__ and will be evaluated as such. We are simply
 giving you the opportunity to iterate and refine them before the final poster
 session.
@@ -151,7 +155,10 @@ Be prepared to give your pitch in class.
 
 ### Grading
 
-Initial draft of the poster __(3 points)__ and participation in-class __(3 points)__.
+`This milestone will be graded on a scale of __6 points__:`
+
+1.  `__Initial draft of the poster__: (3 points)`
+2.  `__Participation in-class__: (3 points)`
 
 <a name="poster_website_video_pitch_critique"></a>
 
@@ -171,7 +178,7 @@ laptop).
 
 ### Grading
 
-Participation in-class __(3 points)__.
+`This milestone will be graded on a scale of __3 points__ for participation in-class.`
 
 <a name="final_everything"></a>
 
@@ -190,26 +197,30 @@ and pitch.
 
 ### Grading
 
-#### Aesthetics  (50 Points)
+`Your final poster, video, and website will be graded on a scale of __XX points__:`
+
+`N.B. re-balance points below so that final poster, video, and website are all worth the same.`
+
+#### Aesthetics  (50 points)
 
 * Does the poster have large images that show the key parts of the design?
 * Does it include only key minimal text phrases (not paragraphs or long sentences)?
 * Are the fonts large and legible?
 * Are the colors a pleasing combination and easy to read?
 
-#### Content  (50 pts)
+#### Content  (50 points)
 
 * Does it include all the points listed above?
 * Are the key features of the interface clear and labeled where necessary?
 * Is there a good evolution of the interfaces changes shown?
 
-#### Pitch (50 pts)
+#### Pitch (50 points)
 
 * Is it appropriately timed and prepared? (less than __one minute__)
 * Does it convey the problem and your solution?
 * Does it convey the work you’ve done to refine and validate your solution?
 
-#### Video prototype quality (4 pts)
+#### Video prototype quality (4 points)
 
 You will be graded on how well your video illustrates your design. Your video
 should give a clear idea of what your design is and how it will be used. It
@@ -217,7 +228,7 @@ should properly show the context of interaction (present the backstory). It
 should be appropriately edited and paced (neither too slow to keep a viewer’s
 interest nor too fast to follow).
 
-#### Video peer reviews (1 pts)
+#### Video peer reviews (1 points)
 
 `decide if we're doing video peer reviews`
 
@@ -225,6 +236,6 @@ It is important for video prototypes to be accessible and appeal to a large
 audience. To measure how well your prototype succeeds at this, we will have each
 of you rate the videos as you watch them (including your own teams’ video).
 
-#### Website (2 pts)
+#### Website (2 points)
 
 Your website will be graded on its visual design and the completeness of its content.
