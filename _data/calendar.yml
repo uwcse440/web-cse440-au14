@@ -84,9 +84,6 @@ officehours:
   - date: "2014-09-30"
     name: "James Office Hour"
     location: officehoursjames
-  - date: "2014-10-02"
-    name: "Daniel Office Hour"
-    location: officehoursdaniel
   - date: "2014-10-09"
     name: "Daniel Office Hour"
     location: officehoursdaniel
