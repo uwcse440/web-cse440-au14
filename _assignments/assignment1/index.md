@@ -82,9 +82,9 @@ convince both the staff and your classmates that a problem is interesting, tract
 
 # Deliverables
 
-<a name="proposal_brainstorm"></a>
+<a name="project_brainstorm"></a>
 
-## 1a: Proposal Brainstorm
+## 1a: Project Brainstorm
 
 Due: Uploaded the night before section Friday, September 26, 2014
 

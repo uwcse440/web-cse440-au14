@@ -208,8 +208,6 @@ In section, be prepared to discuss your contextual inquiry with other teams and 
 
 Due: Uploaded the night before class Tuesday, October 14, 2014
 
-<a name="contextual_inquiry_review_themes"></a>
-
 #### Themes
 
 Complete all three of your contextual inquiries. Discuss your process and what you learned:
@@ -221,8 +219,6 @@ Across the three inquiries, we expect some emergence of common themes, problems,
 
 - Identify high level themes the participants share in their practices. 
 - Do these themes, problems, and practices suggest tasks to important to design for?
-
-<a name="contextual_inquiry_review_task_analysis_questions"></a>
 
 #### Task Analysis Questions
 
