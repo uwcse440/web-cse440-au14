@@ -134,9 +134,11 @@ sign off that you completed your paper prototype and heuristic evaluation.
 
 ### Grading
 
-__9 points total__: the description of your paper prototype of the selected design
-__(3 points)__, bringing the physical prototype to class __(3 points)__, and involvement
-in the peer inspection activity __(3 points)__.
+`This milestone will be graded on a scale of __9 points__:`
+
+1.  `__The description of your paper prototype of the selected design__: (3 points)`
+2.  `__Bringing the physical prototype to class__: (3 points)`
+3.  `__Involvement in the peer inspection activity__: (3 points)`
 
 <a name="paper_prototype_user_testing"></a>
 
@@ -188,9 +190,12 @@ Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-Completion of what you learned from the heuristic evaluation __(3 points)__, what
-you learned from your first user test __(3 points)__, modifications to your paper
-prototype __(3 points)__, and participation in the user testing critique __(3 points)__.
+`This milestone will be graded on a scale of __12 points__:`
+
+1.  `__Completion of what you learned from the heuristic evaluation__: (3 points)` 
+2.  `__What you learned from your first user test__: (3 points)`
+3.  `__Modifications to your paper prototype__: (3 points)`
+4.  `__Participation in the user testing critique__: (3 points)`
 
 <a name="digital_mockup"></a>
 
@@ -257,10 +262,11 @@ Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-Description of your users and of what you learned from your user testing and
-the design critique __(6 points)__, quality of your digital mockup, including
-implementing changes from your paper prototype __(3 points)__, and participation in
-the design critique __(3 points)__.
+`This milestone will be graded on a scale of __12 points__:`
+
+1.  `__Description of your users and of what you learned from your user testing and the design critique__: (6 points)`
+2.  `__Quality of your digital mockup, including implementing changes from your paper prototype__: (3 points)`
+3.  `__Participation in the design critique__: (3 points)`
 
 <a name="final_report"></a>
 
@@ -352,7 +358,7 @@ A single document in PDF format. Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-This report is worth a total of __39.324242434242 points__, with the point split
+This report will be graded on a scale of `__39.324242434242 points__`, with the point split
 described above for each section. Additional points pertaining to the entire
 report are described below:
 
