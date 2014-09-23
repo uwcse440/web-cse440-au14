@@ -134,7 +134,7 @@ You will be able to take your paper with you, and you should continue brainstorm
 
 ### Grading
 
-`Completion on a good-faith attempt to generate ideas during the ideation brainstorming exercise (3 points)`
+`This milestone will be graded on a scale of __3 points__ basde on a good-faith attempt to generate ideas during the ideation brainstorming exercise.`
 
 <a name="contextual_inquiry_plan"></a>
 
@@ -168,7 +168,7 @@ In lecture, be prepared to discuss the plan with other teams and the course staf
 
 ### Grading
 
-`Completion on a 3-point scale based on specificity and feasibility of the plan (3 points)`
+`This milestone will be graded on a scale of __3 points__ based on specificity and feasibility of the plan.`
 
 <a name="contextual_inquiry_checkin"></a>
 
@@ -200,7 +200,10 @@ In section, be prepared to discuss your contextual inquiry with other teams and 
 
 ### Grading
 
-`A total of 6 points, split between the information gained from your first interview(s) (3 points) and your plan for your upcoming interviews (3 points).`
+`This milestone will be graded on a scale of __6 points__:`
+
+1.  `__The information gained from your first interview(s)__: (3 points)` 
+2.  `__Your plan for your upcoming interviews__: (3 points)`  
 
 <a name="contextual_inquiry_review"></a>
 
@@ -254,7 +257,10 @@ In lecture, be prepared to discuss your contextual inquiry with other teams and 
 
 ### Grading
 
-`A total of 6 points, split between the description of the user group and quality of the themes developed (3 points) and answers to the task analysis questions (3 points).`
+`This milestone will be graded on a scale of __6 points__:`
+
+1.  `__The description of the user group and quality of the themes developed__: (3 points)` 
+2.  `__Answers to the task analysis questions__: (3 points)`  
 
 <a name="task_review"></a>
 
@@ -284,7 +290,7 @@ In section, be prepared to discuss your tasks with other teams and the course st
 
 ### Grading
 
-`1 point for each task described (6 points total).`
+`This milestone will be graded on a scale of __6 points__ (1 point for each task described).`
 
 <a name="design_checkin"></a>
 
@@ -322,7 +328,9 @@ In lecture, be prepared to discuss your design sketches with other teams and the
 
 ### Grading
 
-`2 points for each design (6 points total). We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).`
+`This milestone will be graded on a scale of __6 points__ (2 points for each design).`
+
+`We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).`
 
 <a name="design_review"></a>
 
@@ -367,7 +375,10 @@ In section, be prepared to discuss your choices and storyboards with other teams
 
 ### Grading
 
-`2 points on the rationale behind choosing the particular design, 2 points on the storyboard for each task (6 points total).`
+`This milestone will be graded on a scale of __6 points__:`
+
+1.  `__The rationale behind choosing the particular design__: (2 points)`
+2.  `__The storyboard for each task__: (2 points x 2 tasks = 4 points)`
 
 <a name="final_report">
 
@@ -458,7 +469,7 @@ Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-This report is worth a total of 25 points:
+This report will be graded on a scale of __25 points__:
 
 1.  __Title__: (1 point) 
 2.  __Each Team Member’s Name and Role__: (1 point)  
