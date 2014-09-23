@@ -100,7 +100,7 @@ In section, be prepared to discuss your initial ideas as part of a larger brains
 
 ### Grading
 
-`One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)`
+`This milestone will be graded on a scale of __3 points__: One point for each unique proposed idea (i.e. don't submit small variations on the same idea).`
 
 <a name="project_proposal"></a>
 
@@ -142,9 +142,7 @@ Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-Your proposal should consist of the two paragraphs outlined above (6 pts). You will additionally be graded on:
-
-This proposal is worth a total of 10 points:
+This proposal will be graded on a scale of __10 points__:
 
 1. __Problem and Motivation__: (3 points)
 2. __Analysis of Problem__: (3 points)
