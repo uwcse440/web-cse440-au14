@@ -49,7 +49,7 @@ Current widely used examples of personal informatics systems include:
 
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
-This first assignment is your opportunity to think broadly about a problem. Subsequent assignments will provide 
+This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide 
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
 You should identify and consider goals and activities that are important to people. Potential domains include:
@@ -68,17 +68,17 @@ Activities within personal informatics can include:
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). Instead identify problems in 
 long-lived activities that span many different social or technological contexts. For example, if you want to help people 
 manage their money, do not immediately propose a website that addresses one specific task. Instead consider the range of
-other opportunities (e.g., computers in public spaces, personal mobile devices, point of sale systems).
+other opportunities (e.g., personal mobile devices, shared family computers, point of sale systems).
 
 Focus on creating or improving a specific application or service that addresses the issues of an actual community. 
 You must be able to create and evaluate a design within the timeframe of this course, so consider whether you 
-can reasonably gain access to the necessary population. We encourage you to think big, expanding upon your application 
+can reasonably gain access to the necessary people. We encourage you to think big, expanding upon your application 
 to include new ideas for interaction techniques or technology platforms. Do not feel constrained by current devices, 
 but instead aim to explore an exciting design that could potentially motivate the development of new enabling technology.
 
-The course instructors will select a subset of submitted proposals for sponsorship. Sponsored proposals will be posted,
+The course staff will select a subset of submitted proposals for sponsorship. Sponsored proposals will be posted,
 and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
-convince both the instructors and your classmates that a problem is interesting, tractable, and worthy of investigation.
+convince both the staff and your classmates that a problem is interesting, tractable, and worthy of investigation.
 
 # Deliverables
 
@@ -86,23 +86,21 @@ convince both the instructors and your classmates that a problem is interesting,
 
 ## 1a: Proposal Brainstorm
 
-Due: Uploaded the night before section and brought to section Friday, September 26, 2014
+Due: Uploaded the night before section Friday, September 26, 2014
 
-Propose three ideas as starting points for brainstorming. Each idea should be a single sentence. 
-
-Be prepared to talk about your initial ideas with other students.
+Propose three ideas as starting points for brainstorming.
+Ensure the ideas are significantly different, not small variations on the same idea.
+Each idea should be a single sentence. 
 
 ### Submission
 
-Submit via Catalyst here: `link to Catalyst`
+No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
 
-Bring your proposal ideas to section (on your laptop or on paper) so that you can use them as a starting point 
-in the brainstorm.
+In section, be prepared to discuss your initial ideas as part of a larger brainstorm.
 
 ### Grading
 
-`decide on grading -James; I'm fine with this as-is -Matt`
-One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)
+`One point for each unique proposed idea (i.e. don't submit small variations on the same idea). (3 pts)`
 
 <a name="project_proposal"></a>
 
@@ -110,59 +108,67 @@ One point for each unique proposed idea (i.e. don't submit small variations on t
 
 Due: Uploaded the night before class Tuesday, September 30, 2014
 
-You will submit a two-paragraph proposal of at most 500 words of text. Any images are free, but the final document must 
-fit on a single page. The points your essay should address are:
+In one paragraph, describe the problem and motivation. 
+This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
+State what the problem is and why it is a problem, or describe a new idea and why it will enhance an existing application or work practice.
 
-1. Problem and Motivation (3 pts)
+In another paragraph, analyze the problem or idea to give more background and context. 
+Do not just focus on the negative aspects of the current situation, but also identify some positive aspects that may be beneficial to retain. 
+A few salient examples from existing systems or work practices should be used to support those claims.
+If appropriate, you may conduct this analysis by describing a scenario that illustrates how someone might encounter and resolve the problem.
 
-   Describe the problem. This description should convince the reader that this is a difficult and interesting problem, and worth 
-   spending a quarter considering. It states what the problem is and why it is a problem or describes a new idea and why it 
-   will enhance an existing application or work practice.
+Ensure your report is appropriately clear and easy to read. This includes:
 
-2. Analysis of Problem (3 pts)
+ - text should be clear and concise
+ - use section headings as appropriate
+ - include images in the body of the write-up with appropriate figure numbers and captions
+ - refer to the figures in the body of your text
+ - check for typos, spelling, and grammar errors
 
-   The analysis section should give more background for the problem or new idea. It does not just focus on the negative 
-   aspects of the current situation, but also identifies some positive aspects that may be beneficial to retain. A few 
-   salient examples from existing systems or work practices should be used to support those claims.
-   
-   If appropriate, you may conduct this analysis by describing a scenario that illustrates how someone might encounter and resolve the problem.
+Be sure your presentation looks good:
+
+ - choose appropriate colors, fonts, and styles
+ - make liberal use of whitespace 
 
 ## Submission
 
-Your submission must be in PDF format. 
+No more than one page of text in PDF format.
+
+Images do not count against your page limit, and are therefore effectively free. 
+You should embed images throughout your PDF, keeping them near the text that references them.
+The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here: `link to Catalyst`
 
 ### Grading
 
-`Random grading is random`
-
 Your proposal should consist of the two paragraphs outlined above (6 pts). You will additionally be graded on:
 
-3. Creativity (3 pts)
+This proposal is worth a total of 10 points:
 
-   The proposal should try to address a practical problem with a novel use of technology or present a new or enhanced practice enabled by technology.
-
-4. Writing (3 pts)
-
-   Make sure your writing is easy to read: ensure it is clear and concise and check for grammar errors.
+1. __Problem and Motivation__: (3 points)
+2. __Analysis of Problem__: (3 points)
+3. __Novelty and Creativity__: (2 points)
+3. __Report Clarity and Presentation__: (2 points)
 
 <a name="project_bid"></a>
 
 ## 1c: Project Bid
 
-Due: Uploaded the night before class Thursday, October 2, 2014
+Due: Submitted the night before class Thursday, October 2, 2014
 
-Review the sponsored projects and course instructor comments regarding those projects.
+Review the sponsored projects and course instructor comments regarding those projects:
 
-`Are there any more instructions for bidding?`
+`link to Catalyst`
 
-Then bid on projects and potential partners. Course instructors will use your bids to assign projects and groups. 
+You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
 
 ### Submission
 
-Submit via Catalyst here: `link to Catalyst`
+Submit your bid on projects and potential partners:
+
+`link to Catalyst`
 
 ### Grading
 
-Completion. Submitting a project bid is a requirement for proceeding in the class.
+Submitting a project bid is a requirement for proceeding in the class.
