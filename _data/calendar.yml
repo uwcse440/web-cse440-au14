@@ -19,7 +19,10 @@ locations:
       location: "CSE 666"
   officehoursdaniel:
     - time: "12:00 - 1:00"
-      location: "CSE 128"
+      location: "CSE 218"
+  officehoursdanielforjames:
+    - time: "2:00 - 3:00"
+      location: "CSE 218"
 
 holidays:
   - date: "2014-11-11"
@@ -84,6 +87,9 @@ officehours:
   - date: "2014-09-30"
     name: "James Office Hour"
     location: officehoursjames
+  - date: "2014-10-07"
+    name: "Daniel Office Hour"
+    location: officehoursdanielforjames
   - date: "2014-10-09"
     name: "Daniel Office Hour"
     location: officehoursdaniel
