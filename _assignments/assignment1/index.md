@@ -1,6 +1,11 @@
 ---
 layout: default
 title: "Assignment 1: Project Proposal"
+
+link_project1a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project1b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project1c_projects:
+link_project1c_bids:
 ---
 
 # Overview
@@ -97,7 +102,9 @@ Each idea should be a single sentence.
 
 ### Submission
 
-No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
+No more than one page of text in PDF format. Submit via Catalyst here: 
+
+{% if page.link_project1a != nil %}<{{ page.link_project1a }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your initial ideas as part of a larger brainstorm.
 
@@ -141,7 +148,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here:
+
+{% if page.link_project1b != nil %}<{{ page.link_project1b }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
@@ -160,15 +169,15 @@ Due: Submitted the night before class Thursday, October 2, 2014
 
 Review the sponsored projects and course instructor comments regarding those projects:
 
-`link to Catalyst`
+{% if page.link_project1c_projects != nil %}<{{ page.link_project1c_projects }}>{% else %}`Catalyst link to be added`{% endif %}
 
 You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
 
 ### Submission
 
-Submit your bid on projects and potential partners:
+Submit your bid on projects and potential partners here:
 
-`link to Catalyst`
+{% if page.link_project1c_bids != nil %}<{{ page.link_project1c_bids }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
