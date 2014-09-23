@@ -47,7 +47,7 @@ This is a __group__ assignment, consisting of nine milestones.
 
 * `Presentation`
 
-# Requirements
+# Project Description
 
 In this assignment, you will brainstorm a large set of possible tasks and design ideas for your project. 
 You will then use contextual inquiry to learn more about your problem and the current practices of people who might use your design. 
@@ -128,7 +128,7 @@ When you get stuck, find a context to inspire new ideas.
 
 ### Submission
 
-In section, one of the teaching staff will sign off on what you completed.
+In section, one of the course staff will sign off on what you completed.
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
@@ -434,7 +434,7 @@ include how you have addressed and incorporated that feedback to improve relativ
 
    Include updated storyboards of your design. Reference these appropriately in your scenarios.
 
-This is a formal presentation of your work. Ensure your report is appropriately clear and easy to read. This includes:
+Ensure your report is appropriately clear and easy to read. This includes:
 
  - text should be clear and concise
  - use section headings as appropriate
@@ -442,7 +442,7 @@ This is a formal presentation of your work. Ensure your report is appropriately 
  - refer to the figures in the body of your text
  - check for typos, spelling, and grammar errors
 
-Finally, this is the culmination of a lot of hard design work. Be sure your presentation looks good:
+Be sure your presentation looks good:
 
  - choose appropriate colors, fonts, and styles
  - make liberal use of whitespace 
@@ -470,5 +470,4 @@ This report is worth a total of 25 points:
 7.  __Proposed Design Sketches - "3x4"__: (3 points)
 8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
-10. __Report Clarity__: (3 points)
-11. __Report Presentation__: (1 point)
+10. __Report Clarity and Presentation__: (4 points)
