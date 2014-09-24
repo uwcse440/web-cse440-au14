@@ -78,5 +78,5 @@ We hope this course will allow you to create an open-ended design. Your project 
 Here are a few examples of course projects from previous offerings. Reports may not map directly to the current offering, as the course structure has changed over the past few quarters. However, these projects represent examples of strong work in this course.
 
 - [Plantr](http://courses.cs.washington.edu/courses/cse440/13au/projects/plantr/)
-- [InfaCare](http://courses.cs.washington.edu/courses/cse440/13au/projects/infacare/)
-- more to come...
+- [NutriView](http://courses.cs.washington.edu/courses/cse440/13au/projects/nutriview/)
+- [JuiceBox](http://courses.cs.washington.edu/courses/cse440/13au/projects/juicebox/)
