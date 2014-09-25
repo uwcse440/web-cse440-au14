@@ -100,7 +100,13 @@ title: Calendar
   
             <tr class="section">
               <td>
-                Section<br>                
+                {% if currentsection.slides != nil %}
+                  <a href="{{ site.baseurl }}/{{ currentsection.slides }}">
+                {% endif %}
+                  Section<br>
+                {% if currentsection.slides != nil %}
+                  </a>
+                {% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
                       {{ currentlocationitem.time }}<br>
