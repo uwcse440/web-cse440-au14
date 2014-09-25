@@ -112,7 +112,7 @@ In section, be prepared to discuss your initial ideas as part of a larger brains
 
 ### Grading
 
-`This milestone will be graded on a scale of __3 points__: One point for each unique proposed idea (i.e. don't submit small variations on the same idea).`
+This milestone will be graded on a scale of __3 points__: One point for each unique proposed idea (i.e. don't submit small variations on the same idea).
 
 <a name="project_proposal"></a>
 
