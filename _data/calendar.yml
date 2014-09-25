@@ -76,6 +76,7 @@ lectures:
 
 sections:
   - date: "2014-09-26"
+    slides: "slides/section/s01-brainstorm.pdf"
   - date: "2014-10-03"
   - date: "2014-10-10"
   - date: "2014-10-17"
