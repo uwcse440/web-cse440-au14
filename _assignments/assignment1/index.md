@@ -106,6 +106,8 @@ No more than one page of text in PDF format. Submit via Catalyst here:
 
 {% if page.link_project1a != nil %}<{{ page.link_project1a }}>{% else %}`Catalyst link to be added`{% endif %}
 
+If you are still attempting to add, or otherwise unable to access Catalyst, submit via the instructor email address.
+
 In section, be prepared to discuss your initial ideas as part of a larger brainstorm.
 
 ### Grading
