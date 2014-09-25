@@ -9,6 +9,8 @@ Even for a well-understood, well-motivated problem, choosing a design to invest 
 This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through 
 __contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
+This assignment is worth __21%__ of your overall course grade. __15%__ of your course grade is derived from the final report (assignment 2h), with the remaining __6%__ from the other milestones (__0.5%__ from each of assignments 2a and 2b, __1%__ from assignments 2c, 2d, 2e, 2f, and 2g).
+
 # Milestones
 
 This is a group assignment, consisting of nine milestones.
