@@ -35,6 +35,7 @@ holidays:
 lectures:
   - date: "2014-09-25"
     name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
+    slides: "slides/lecture/l01-intro.pdf"
   - date: "2014-09-30"
     name: "Design of Everyday Things"
   - date: "2014-10-02"
