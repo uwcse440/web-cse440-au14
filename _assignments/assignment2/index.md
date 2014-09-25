@@ -136,7 +136,7 @@ You will be able to take your paper with you, and you should continue brainstorm
 
 ### Grading
 
-`This milestone will be graded on a scale of __3 points__ basde on a good-faith attempt to generate ideas during the ideation brainstorming exercise.`
+This milestone will be graded on a scale of __3 points__ basde on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
 
 <a name="contextual_inquiry_plan"></a>
 
