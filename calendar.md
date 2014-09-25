@@ -69,10 +69,16 @@ title: Calendar
   
             <tr class="lecture">
               <td>
-                {% if currentlecture.name != nil %}
-                  {{ currentlecture.name }}<br>
-                {% else %}   
-                  Lecture<br>
+                {% if currentlecture.slides != nil %}
+                  <a href="{{ site.baseurl }}/{{ currentlecture.slides }}">
+                {% endif %}
+                  {% if currentlecture.name != nil %}
+                    {{ currentlecture.name }}<br>
+                  {% else %}   
+                    Lecture<br>
+                  {% endif %}
+                {% if currentlecture.slides != nil %}
+                  </a>
                 {% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
@@ -167,3 +173,4 @@ title: Calendar
     {% endcase %}  
   {% endfor %}
 </table>
+    
