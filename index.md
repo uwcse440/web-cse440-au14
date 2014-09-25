@@ -31,7 +31,7 @@ __Course Staff__:
 
 |![James Fogarty](images/james_photo.jpg)| ![Daniel Epstein](images/daniel_photo.jpg)|![Bradley Jacobson](images/brad_photo.jpg)|![King Xia](images/king_photo.jpg)|
 |----------------------------------------|-------------------------------------------|------------------------------------------|----------------------------------|
-|James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Bradley Jacoboson (teaching assistant)    |King Xia (teaching assistant)     |
+|James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Bradley Jacobson (teaching assistant)    |King Xia (teaching assistant)     |
 
 ###Grading
 
