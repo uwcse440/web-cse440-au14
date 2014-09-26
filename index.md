@@ -53,7 +53,7 @@ __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
 __Class times & locations__: Tuesdays & Thursdays, 10:30-11:50am MOR 234
 
-__Section times & locations__: Fridays, 10:30-11:30am CMU 228 or 3:30-4:30pm MGH 254
+__Section times & locations__: Fridays, 10:30-11:30am MUE 154 or 3:30-4:30pm MGH 254
 
 __Office Hours__: 
 
