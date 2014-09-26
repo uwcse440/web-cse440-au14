@@ -14,7 +14,10 @@ You are to propose a __problem__ and an __approach__ that could form the basis o
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
 analyze the needs and opportunities in the problem, explore potential designs, and propose a compelling solution.
 
-This assignment is worth __3%__ of your overall course grade, with __0.5%__ for the proposal brainstorm and __2.5%__ for the project proposal.
+This assignment is worth __3%__ of your overall course grade:
+
+- __0.5%__ for the proposal brainstorm
+- __2.5%__ for the project proposal
 
 # Milestones
 
@@ -36,24 +39,39 @@ This is an individual assignment, consisting of three milestones.
 
 The theme for projects in this course is __personal informatics__:
 
-> Personal informatics systems are systems that _help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge._
+> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
+> self-reflection and gaining self-knowledge.
 >
 > [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
 
-Personal informatics heavily relates to the [Quantified Self](http://quantifiedself.com/) movement, which operates on the slogan _self knowledge through numbers_. Researchers have studied the Quantified Self movement, identifying comment practices and pitfalls [_Choe et al., 2014_](http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf)
+Personal informatics relates heavily to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
 
+> Self-knowledge through numbers.
+>
+> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
+ 
 Current widely used examples of personal informatics systems include:
 
- - [FitBit](http://www.fitbit.com/) (for tracking physical activity)
- - [Last.fm](http://www.last.fm) (for tracking music listening)
- - [Mint](http://www.mint.com/) (for tracking finances)
- - [Glooko](http://glooko.com/) (for tracking diabetes outcomes)
- - [Moves](http://www.moves-app.com/) (for tracking location)
- - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake)
- - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity)
- - [Track your Happiness](https://www.trackyourhappiness.org/) (for tracking happiness)
- - [Feltron Report](http://feltron.com/) (a designer tracks everything he does and releases an annual report)
+- [FitBit](http://www.fitbit.com/) (for tracking physical activity)
+- [Glooko](http://glooko.com/) (for tracking diabetes outcomes)
+- [Last.fm](http://www.last.fm) (for tracking music listening)
+- [Mint](http://www.mint.com/) (for tracking finances)
+- [Moves](http://www.moves-app.com/) (for tracking location)
+- [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake)
+- [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity)
+- [Track your Happiness](https://www.trackyourhappiness.org/) (for tracking happiness)
+
+Individuals have gone much deeper into their own data:
+
+- [Feltron Report](http://feltron.com/) (a designer who tracks everything he does and releases an annual report)
+
+Researchers have also studied current processes, challenges, and opportunities:
+
+- [Li et al., 2010](http://www.personalinformatics.org/docs/lab/2010-chi-ianli-stage-based-model.pdf)
+- [Choe et al., 2014](http://students.washington.edu/eunky/download/CHI-2014-Choe-QuantifiedSelf.pdf)
+- [Rooksby et al., 2014](http://www.johnrooksby.org/papers/livedinformatics.pdf)
+
+## Thinking Big
  
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
 the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
@@ -73,16 +91,23 @@ Activities within personal informatics can include:
  - identifying activity patterns 
  - sharing accomplishments with friends and family
 
-Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). Instead identify problems in 
-long-lived activities that span many different social or technological contexts. For example, if you want to help people 
-manage their money, do not immediately propose a website that addresses one specific task. Instead consider the range of
-other opportunities (e.g., personal mobile devices, shared family computers, point of sale systems).
+Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). 
+Instead identify problems in long-lived activities that span many different social or technological contexts. 
+If you want to help people manage their money, do not immediately propose a website that addresses one specific task. 
+Consider the range of other opportunities (e.g., personal mobile devices, shared family computers, point of sale systems).
 
 Focus on creating or improving a specific application or service that addresses the issues of an actual community. 
 You must be able to create and evaluate a design within the timeframe of this course, so consider whether you 
 can reasonably gain access to the necessary people. We encourage you to think big, expanding upon your application 
-to include new ideas for interaction techniques or technology platforms. Do not feel constrained by current devices, 
-but instead aim to explore an exciting design that could potentially motivate the development of new enabling technology.
+to include new ideas for interaction techniques or technology platforms. 
+
+Do not feel constrained by current devices, but instead aim to explore an exciting design that could potentially 
+motivate the development of new enabling technology. For example, see how Artefact presents the Dialog concept:
+
+- [Dialog: Better Decisions, Better Health - Artefact](http://www.artefactgroup.com/content/work/dialog/)
+- [Video of Dialog Talk in DUB Seminar](http://vimeo.com/103167385)
+
+## Going Forward
 
 The course staff will select a subset of submitted proposals for sponsorship. Sponsored proposals will be posted,
 and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
