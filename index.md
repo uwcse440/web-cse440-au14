@@ -6,11 +6,48 @@ layout: default
 
 ## Autumn 2014
 
-###Course Description
+# Course Description
 
-This course provides an introduction to the design process that is central to HCI. It consists of a term-long group project, small individual assignments and readings, exams and presentations, and lectures.
+This course provides an introduction to human-computer interaction and the design process. 
+It is overwhelmingly organized around a group project, in which students:
 
-###Basic Information
+- Ideate and Propose Design Problems
+- Study Existing Practices and Challenges
+- Explore Potential Design Opportunities and Tradeoffs
+- Evaluate and Improve a Design
+- Communicate their Problem and Resulting Design
+
+## Project Theme
+
+Projects are exploring challenges and opportunities in Personal Informatics:
+
+> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
+> self-reflection and gaining self-knowledge.
+>
+> [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
+
+People have long sought to better understand themselves, but recently technology advances are enabling fundamentally new approaches. 
+Students will explore the problems people encounter and how new technology can help people reaching their goals. 
+
+## Project Structure
+
+Projects are organized around four assignments, each consistent of several milestones:
+
+- [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
+- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
+- Assignment 3 - Getting the Design Right
+- Assignment 4 - Communicating the Design
+
+Example project from prior offerings include: 
+
+- [Plantr](http://courses.cs.washington.edu/courses/cse440/13au/projects/plantr/)
+- [NutriView](http://courses.cs.washington.edu/courses/cse440/13au/projects/nutriview/)
+- [JuiceBox](http://courses.cs.washington.edu/courses/cse440/13au/projects/juicebox/)
+
+Note the project structure has changed since these prior offerings, so their reports do not map to the current project.
+However, these represent examples of strong work in this course.
+
+# Basic Information
 
 __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
@@ -33,7 +70,7 @@ __Course Staff__:
 |----------------------------------------|-------------------------------------------|------------------------------------------|----------------------------------|
 |James Fogarty (course instructor)       |Daniel Epstein (head teaching assistant)   |Brad Jacobson (teaching assistant)    |King Xia (teaching assistant)     |
 
-###Grading
+# Grading
 
 The overall course grade will be computed as follows:
 
@@ -66,7 +103,7 @@ that you have invested sufficient effort and insight at the time of the mileston
 You will get feedback and are expected to continue acting upon that feedback in your design process.
 The bulk of project grades is therefore attached to the final deliverables, which are evaluated on their quality.
 
-### Submission
+# Submission
 
 Many assignments are due "the night before class". Catalyst implements this as 4:00am.
 
@@ -77,26 +114,3 @@ Submissions should be in PDF format (i.e., not plain text, not Word).
 The PDF should be 'printable', containing everything we need to review and grade the assignment (e.g., your name).
 The course staff has a large number of submissions to manage, so format and completeness issues are problematic.
 
-###Course Project
-This course centers around a term-long group project, in which you will go through the design process with a real idea. In this project, you will:
-
-- Come up with an idea serving a group of people's technological needs
-- Learn to design different styles and make tradeoffs among them
-- Find real users, investigate their context of use, and test your interface designs within them.
-
-This quarter's projects are themed on __Personal Informatics__, defined as follows:
-
-> Personal informatics systems are systems that _help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge._
->
-> [Li _et al._, 2010](http://www.personalinformatics.org/lab/model/).
-
-People are collecting more data about themselves through smartphone and desktop apps, automatically and manually. Your project should address a problem within current personal informatics tools to aid in data collection, self-reflection, or sensemaking.
-
-We hope this course will allow you to create an open-ended design. Your project should __not__ re-create a solution that currently exists, and you should feel free to think beyond the current interaction techniques of mobile and desktop applications. This course is not about creating functional prototypes, but instead about design.
-
-Here are a few examples of course projects from previous offerings. Reports may not map directly to the current offering, as the course structure has changed over the past few quarters. However, these projects represent examples of strong work in this course.
-
-- [Plantr](http://courses.cs.washington.edu/courses/cse440/13au/projects/plantr/)
-- [NutriView](http://courses.cs.washington.edu/courses/cse440/13au/projects/nutriview/)
-- [JuiceBox](http://courses.cs.washington.edu/courses/cse440/13au/projects/juicebox/)
