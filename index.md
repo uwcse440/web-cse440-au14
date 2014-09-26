@@ -35,27 +35,47 @@ __Course Staff__:
 
 ###Grading
 
-Points will be distributed as follows:
+The overall course grade will be computed as follows:
 
 - Group Project (__65%__)
-  - Assignment 1, project proposal (__3%__)
-  - Assignment 2, getting the right design (__21%__)
+  - Assignment 1, Project Proposal (__3%__)
+  - Assignment 2, Getting the Right Design (__21%__)
     - Milestones (__6%__)
-    - Final report (__15%__)
-  - Assignment 3, getting the design right (__14%__)
+    - Final Report (__15%__)
+  - Assignment 3, Getting the Design Right (__14%__)
     - Milestones (__4%__)
-    - Final report (__10%__)
-  - Assignment 4, communicating your design (__15%__)
-    - Project website (__5%__)
-    - Video prototype (__5%__)
+    - Final Report (__10%__)
+  - Assignment 4, Communicating the Design (__15%__)
+    - Project Website (__5%__)
+    - Video Prototype (__5%__)
     - Poster (__5%__)
   - Presentations (__12%__)
-    - Getting the right design presentation (__5%__)
-    - Getting the design right presentation (__5%__)
-    - Individual presentation score (__2%__)
+    - Getting the Right Design Presentation (__5%__)
+    - Getting the Design Right Presentation (__5%__)
+    - Individual Presentation Score (__2%__)
 - Exam (__25%__)
-- Individual readings (__5%__)
+- Individual Readings (__5%__)
 - Participation (__5%__)
+
+Each assignment will also provide a point breakdown intended to convey how it will be graded. 
+Design is an inherently subjective practice, and so grading in this course is necessarily subjective.
+Wow us with your work.
+
+Because the course is designed around feedback on project milestones, grades given to those milestones indicate
+that you have invested sufficient effort and insight at the time of the milestone.
+You will get feedback and are expected to continue acting upon that feedback in your design process.
+The bulk of project grades is therefore attached to the final deliverables, which are evaluated on their quality.
+
+### Submission
+
+Many assignments are due "the night before class". Catalyst implements this as 4:00am.
+
+In order to be prepared to give you feedback, the course staff must have your submission in the morning.
+Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
+
+Submissions should be in PDF format (i.e., not plain text, not Word). 
+The PDF should be 'printable', containing everything we need to review and grade the assignment (e.g., your name).
+The course staff has a large number of submissions to manage, so format and completeness issues are problematic.
 
 ###Course Project
 This course centers around a term-long group project, in which you will go through the design process with a real idea. In this project, you will:
