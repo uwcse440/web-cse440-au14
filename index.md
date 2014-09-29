@@ -103,6 +103,8 @@ that you have invested sufficient effort and insight at the time of the mileston
 You will get feedback and are expected to continue acting upon that feedback in your design process.
 The bulk of project grades is therefore attached to the final deliverables, which are evaluated on their quality.
 
+<a name="submission"></a>
+
 # Submission
 
 Many assignments are due "the night before class". Catalyst implements this as 4:00am.
