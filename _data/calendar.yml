@@ -38,6 +38,7 @@ lectures:
     slides: "slides/lecture/l01-intro.pdf"
   - date: "2014-09-30"
     name: "Design of Everyday Things"
+    slides: "slides/lecture/l02-doet.pdf"
   - date: "2014-10-02"
     name: "Contextual Inquiry"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
