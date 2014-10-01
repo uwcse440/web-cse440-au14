@@ -136,8 +136,6 @@ In section, one of the course staff will sign off on what you completed.
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
-If you are unable to attend this week's section __and have notified the course staff beforehand__, please email both the course staff and your teammates a single page describing 15 on-sentence ideas (problems, tasks, features, or interactions).
-
 ### Grading
 
 This milestone will be graded on a scale of __3 points__ based on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
