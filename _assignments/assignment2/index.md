@@ -47,7 +47,9 @@ This is a group assignment, consisting of nine milestones.
 
   Due: Uploaded the night before class Tuesday, October 28, 2014
 
-* `Presentation`
+* [Presentation](#presentation)
+
+  Due: Uploaded the night before class Thursday, October 30, 2014
 
 # Project Description
 
@@ -112,15 +114,15 @@ More specifically, you will do the following:
 
 Due: Completed in section on Friday, October 3, 2014
 
-Generate 100 different ideas related to your project proposal, including:
+Generate 64 different ideas related to your project proposal, including:
 
 - problems: a need that a person might have 
 - tasks: what a person might accomplish 
 - features: a capability a design might have 
 - interactions: how a feature might work 
 
-We will provide large sheets of paper. Divide a large sheet of paper into 100 squares, each approximately 2in by 2in. 
-Sketch 100 ideas, one in each square. Each idea should be a quick doodle with a caption or a one-sentence idea. 
+We will provide large sheets of paper. Divide a large sheet of paper into 64 squares, each approximately 2in by 2in.
+Sketch 64 ideas, one in each square. Each idea should be a quick doodle with a caption or a one-sentence idea. 
 A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
 
 The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. 
@@ -134,9 +136,11 @@ In section, one of the course staff will sign off on what you completed.
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
+If you are unable to attend this week's section __and have notified the course staff beforehand__, please email both the course staff and your teammates a single page describing 15 on-sentence ideas (problems, tasks, features, or interactions).
+
 ### Grading
 
-This milestone will be graded on a scale of __3 points__ basde on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
+This milestone will be graded on a scale of __3 points__ based on a good-faith attempt to generate ideas during the ideation brainstorming exercise.
 
 <a name="contextual_inquiry_plan"></a>
 
@@ -479,3 +483,53 @@ This report will be graded on a scale of __25 points__:
 8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
 10. __Report Clarity and Presentation__: (4 points)
+
+<a name="presentation"></a>
+
+## Presentation
+
+Due: Uploaded the night before class Thursday, October 30, 2014
+
+Prepare a presentation of your process on getting the right design. It should encompass all of your work in the quarter to date.
+
+__Two__ members of your team will give this presentation, and both should give relatively equal amounts of the presentation. A time limit of __eight minutes__ will be strictly enforced, so practice your presentation beforehand. There will be extra time for questions.
+
+One way to organize this presentation is as follows:
+
+- Title (1 slide)
+- Overall problem & solution (1 slide, tell it like a story versus reading off the slide)
+- Contextual Inquiry Description & Results (2 slides, include images)
+- 6 Tasks (1-2 slides, at most one sentence per task)
+- 3 Design Sketches (1-3 slides)
+- Selected Design Storyboard and Tasks (1-2 slides)
+- Summary (1 slide, summarize lessons learned)
+
+### Submission
+
+Your presentation may be in PPT, PPTX, or PDF format. Only one member from each group needs to upload each submission. We will put all slides on a single Windows laptop to minimize switching overhead.
+
+Submit via Catalyst here: `link to Catalyst`
+
+### Grading
+
+This presentation will be graded on an holistic __10 point__ scale (converted to __5%__ of your overall course grade), and individuals presenting will be graded on a __4 point__ scale (converted to __2%__ of your overall course grade). Grading criteria include:
+
+Presentation criteria:
+
+- The presentation shows appropriate preparation and that visual aids are effective, properly prepared, and properly employed. Someone at the back of the room could see your slides.
+- Minus 1 point if the presentation has an outline slide (this presentation is too short to need one).
+- The presentation covered the required scope within the 8 minute time period.
+- The presenter makes eye contact with the audience.
+- The presenter projects their voice well.
+
+Group criteria:
+
+- The problem is presented in a way that is compelling and achievable.
+- The contextual inquiry procedure carried out in a sound manner.
+- The contextual inquiry results illuminating in terms of the problem.
+- The tasks presented provide coverage of the functionality.
+- The tasks were neither too easy nor too hard.
+- The tasks were motivated by the contextual inquiry.
+- Interface ideas had a strong connection to results of contextual inquiry.
+- The presented ideas were appropriate for the supported tasks.
+- The presented ideas were at the proper fidelity (i.e., rough sketches).
