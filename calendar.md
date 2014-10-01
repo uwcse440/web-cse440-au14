@@ -130,7 +130,9 @@ title: Calendar
             {% assign currentlocation = currentmajor.location %}
             <tr class="major">
               <td>
-                {{ currentmajor.name }}<br>
+                {% if currentmajor.link != nil %}<a href="{{ site.baseurl }}/{{ currentmajor.link }}">{% endif %}
+                  {{ currentmajor.name }}<br>
+                  {% if currentmajor.link != nil %}</a>{% endif %}
                 <small>
                   {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
                       {{ currentlocationitem.time }}<br>
