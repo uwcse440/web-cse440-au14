@@ -41,6 +41,7 @@ lectures:
     slides: "slides/lecture/l02-doet.pdf"
   - date: "2014-10-02"
     name: "Contextual Inquiry"
+    slides: "slides/lecture/l03-contextualinquiry.pdf"
     # notes: "Required for Project 2a, CI Planning Over Weekend"
   - date: "2014-10-07"
     name: "Critique"
