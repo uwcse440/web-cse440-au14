@@ -1,8 +1,8 @@
 import fabric
 import fabric.api
 
-fabric.api.env.hosts = ['barb.cs.washington.edu']
-fabric.api.env.user = 'jfogarty'
+fabric.api.env.hosts = ['bicycle.cs.washington.edu']
+fabric.api.env.user = 'depstein'
 
 
 def build():
