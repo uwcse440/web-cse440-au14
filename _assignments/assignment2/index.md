@@ -1,6 +1,17 @@
 ---
+
 layout: default
 title: "Assignment 2: Getting the Right Design"
+
+link_project2b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project2c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2e: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project2f: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2g: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2h: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2i: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+
 ---
 
 # Overview
@@ -176,15 +187,21 @@ In another paragraph, describe how you will interact with your participants and 
  
 Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
-###Submission
+### Submission
 
-No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
+No more than one page of text in PDF format. Submit via Catalyst here:
+
+{% if page.link_project2b != nil %}<{{ page.link_link_project2b }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss the plan with other teams and the course staff.
 
 ### Grading
 
-`This milestone will be graded on a scale of __3 points__ based on specificity and feasibility of the plan.`
+This milestone will be graded on a scale of __3 points__:
+
+1. __People and Plan__: (1 point)
+2. __Feasibility__: (1 point)
+3. __Specificity__: (1 point)
 
 <a name="contextual_inquiry_checkin"></a>
 
@@ -210,16 +227,18 @@ can be difficult to get right and often important topics are left unresolved.
 
 ###Submission
 
-No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
+No more than one page of text in PDF format. Submit via Catalyst here:
+
+{% if page.link_project2c != nil %}<{{ page.link_link_project2c }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The information gained from your first interview(s)__: (3 points)` 
-2.  `__Your plan for your upcoming interviews__: (3 points)`  
+1. __Information from First Participant__: (3 points)
+2. __Plan for Remaining Participants__: (3 points)
 
 <a name="contextual_inquiry_review"></a>
 
@@ -263,16 +282,18 @@ No more than four pages of text in PDF format:
  - contextual inquiry themes (less than one page)
  - task analysis questions (less than two pages)
  
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2d != nil %}<{{ page.link_link_project2d }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The description of the user group and quality of the themes developed__: (3 points)` 
-2.  `__Answers to the task analysis questions__: (3 points)`  
+1. __Description of Participants and Quality of Themes Developed__: (3 points)
+2. __Answers to Task Analysis Questions__: (3 points)
 
 <a name="task_review"></a>
 
@@ -296,7 +317,9 @@ No more than two pages of text in PDF format:
 
  - six task descriptions (one paragraph each)
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here:
+
+{% if page.link_project2e != nil %}<{{ page.link_link_project2e }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your tasks with other teams and the course staff.
 
@@ -334,7 +357,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2f != nil %}<{{ page.link_link_project2f }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your design sketches with other teams and the course staff.
 
@@ -381,7 +406,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2g != nil %}<{{ page.link_link_project2g }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
 
@@ -477,7 +504,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2h != nil %}<{{ page.link_link_project2h }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
@@ -518,7 +547,9 @@ One way to organize this presentation is as follows:
 
 Your presentation may be in PPT, PPTX, or PDF format. Only one member from each group needs to upload each submission. We will put all slides on a single Windows laptop to minimize switching overhead.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2i != nil %}<{{ page.link_link_project2i }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
