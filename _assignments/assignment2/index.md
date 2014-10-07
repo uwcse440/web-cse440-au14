@@ -191,7 +191,7 @@ Please be as specific as possible, providing potential examples of your observat
 
 No more than one page of text in PDF format. Submit via Catalyst here:
 
-{% if page.link_project2b != nil %}<{{ page.link_link_project2b }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2b != nil %}<{{ page.link_project2b }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss the plan with other teams and the course staff.
 
@@ -229,7 +229,7 @@ can be difficult to get right and often important topics are left unresolved.
 
 No more than one page of text in PDF format. Submit via Catalyst here:
 
-{% if page.link_project2c != nil %}<{{ page.link_link_project2c }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2c != nil %}<{{ page.link_project2c }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
@@ -284,7 +284,7 @@ No more than four pages of text in PDF format:
  
 Submit via Catalyst here: 
 
-{% if page.link_project2d != nil %}<{{ page.link_link_project2d }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2d != nil %}<{{ page.link_project2d }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
@@ -319,7 +319,7 @@ No more than two pages of text in PDF format:
 
 Submit via Catalyst here:
 
-{% if page.link_project2e != nil %}<{{ page.link_link_project2e }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2e != nil %}<{{ page.link_project2e }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your tasks with other teams and the course staff.
 
@@ -359,7 +359,7 @@ The limit applies to the approximate amount of text you would have if all images
 
 Submit via Catalyst here: 
 
-{% if page.link_project2f != nil %}<{{ page.link_link_project2f }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2f != nil %}<{{ page.link_project2f }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your design sketches with other teams and the course staff.
 
@@ -408,7 +408,7 @@ The limit applies to the approximate amount of text you would have if all images
 
 Submit via Catalyst here: 
 
-{% if page.link_project2g != nil %}<{{ page.link_link_project2g }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2g != nil %}<{{ page.link_project2g }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
 
@@ -506,7 +506,7 @@ The limit applies to the approximate amount of text you would have if all images
 
 Submit via Catalyst here: 
 
-{% if page.link_project2h != nil %}<{{ page.link_link_project2h }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2h != nil %}<{{ page.link_project2h }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
@@ -549,7 +549,7 @@ Your presentation may be in PPT, PPTX, or PDF format. Only one member from each 
 
 Submit via Catalyst here: 
 
-{% if page.link_project2i != nil %}<{{ page.link_link_project2i }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2i != nil %}<{{ page.link_project2i }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
