@@ -188,7 +188,7 @@ This proposal will be graded on a scale of __10 points__:
 1. __Problem and Motivation__: (3 points)
 2. __Analysis of Problem__: (3 points)
 3. __Novelty and Creativity__: (2 points)
-3. __Report Clarity and Presentation__: (2 points)
+4. __Report Clarity and Presentation__: (2 points)
 
 <a name="project_bid"></a>
 
