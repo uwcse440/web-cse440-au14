@@ -285,10 +285,10 @@ In lecture, be prepared to discuss your contextual inquiry with other teams and 
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The description of the user group and quality of the themes developed__: (3 points)` 
-2.  `__Answers to the task analysis questions__: (3 points)`  
+1. __Description of Participants and Quality of Themes Developed__: (3 points)
+2. __Answers to Task Analysis Questions__: (3 points)
 
 <a name="task_review"></a>
 
