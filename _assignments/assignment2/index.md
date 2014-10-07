@@ -6,6 +6,11 @@ title: "Assignment 2: Getting the Right Design"
 link_project2b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project2c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
 link_project2d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2e: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project2f: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2g: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2h: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2i: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
 
 ---
 
@@ -312,7 +317,9 @@ No more than two pages of text in PDF format:
 
  - six task descriptions (one paragraph each)
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here:
+
+{% if page.link_project2e != nil %}<{{ page.link_link_project2e }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your tasks with other teams and the course staff.
 
@@ -350,7 +357,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2f != nil %}<{{ page.link_link_project2f }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your design sketches with other teams and the course staff.
 
@@ -397,7 +406,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2g != nil %}<{{ page.link_link_project2g }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
 
@@ -493,7 +504,9 @@ Images do not count against your page limit, and are therefore effectively free.
 You should embed images throughout your PDF, keeping them near the text that references them.
 The limit applies to the approximate amount of text you would have if all images were removed.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2h != nil %}<{{ page.link_link_project2h }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
@@ -534,7 +547,9 @@ One way to organize this presentation is as follows:
 
 Your presentation may be in PPT, PPTX, or PDF format. Only one member from each group needs to upload each submission. We will put all slides on a single Windows laptop to minimize switching overhead.
 
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2i != nil %}<{{ page.link_link_project2i }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
