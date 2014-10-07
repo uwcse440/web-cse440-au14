@@ -9,7 +9,19 @@ Even for a well-understood, well-motivated problem, choosing a design to invest 
 This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through 
 __contextual inquiry__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
-This assignment is worth __21%__ of your overall course grade. __15%__ of your course grade is derived from the final report (assignment 2h), with the remaining __6%__ from the other milestones (__0.5%__ from each of assignments 2a and 2b, __1%__ from assignments 2c, 2d, 2e, 2f, and 2g).
+This assignment is worth __21%__ of your overall course grade:
+
+- __15%__ for [Assignment 2h: Final Report](#final_report) 
+- __6%__ for the milestones 
+  - __0.5%__ for [Assignment 2a: Project Ideation](#project_ideation) 
+  - __0.5%__ for [Assignment 2b: Contextual Inquiry Plan](#contextual_inquiry_plan) 
+  - __1%__ for [Assignment 2c: Contextual Inquiry Check-In](#contextual_inquiry_checkin) 
+  - __1%__ for [Assignment 2d: Contextual Inquiry Review](#contextual_inquiry_review)
+  - __1%__ for [Assignment 2e: Task Review](#task_review)
+  - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
+  - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
+
+The associated presentation is also worth __%5__ of your overall course grade.
 
 # Milestones
 
