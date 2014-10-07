@@ -182,7 +182,7 @@ In another paragraph, describe how you will interact with your participants and 
  
 Please be as specific as possible, providing potential examples of your observation focus or interview questions.
 
-###Submission
+### Submission
 
 No more than one page of text in PDF format. Submit via Catalyst here:
 
@@ -192,7 +192,11 @@ In lecture, be prepared to discuss the plan with other teams and the course staf
 
 ### Grading
 
-`This milestone will be graded on a scale of __3 points__ based on specificity and feasibility of the plan.`
+This proposal will be graded on a scale of __3 points__:
+
+1. __People and Plan__: (1 point)
+2. __Feasibility__: (1 point)
+3. __Specificity__: (1 point)
 
 <a name="contextual_inquiry_checkin"></a>
 
