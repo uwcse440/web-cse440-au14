@@ -3,10 +3,9 @@
 layout: default
 title: "Assignment 2: Getting the Right Design"
 
-link_project1a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
-link_project1b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
-link_project1c_projects: https://catalyst.uw.edu/gopost/area/jaf1978/133826
-link_project1c_bids: https://catalyst.uw.edu/webq/survey/jaf1978/248720
+link_project2b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project2c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
+link_project2d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
 
 ---
 
@@ -185,9 +184,9 @@ Please be as specific as possible, providing potential examples of your observat
 
 ###Submission
 
-No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst` 
+No more than one page of text in PDF format. Submit via Catalyst here:
 
-{% if page.link_project1c_projects != nil %}<{{ page.link_project1c_projects }}>{% else %}`Catalyst link to be added`{% endif %}
+{% if page.link_project2b != nil %}<{{ page.link_link_project2b }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss the plan with other teams and the course staff.
 
@@ -219,7 +218,9 @@ can be difficult to get right and often important topics are left unresolved.
 
 ###Submission
 
-No more than one page of text in PDF format. Submit via Catalyst here: `link to Catalyst`
+No more than one page of text in PDF format. Submit via Catalyst here:
+
+{% if page.link_project2c != nil %}<{{ page.link_link_project2c }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In section, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
@@ -272,7 +273,9 @@ No more than four pages of text in PDF format:
  - contextual inquiry themes (less than one page)
  - task analysis questions (less than two pages)
  
-Submit via Catalyst here: `link to Catalyst`
+Submit via Catalyst here: 
+
+{% if page.link_project2d != nil %}<{{ page.link_link_project2d }}>{% else %}`Catalyst link to be added`{% endif %}
 
 In lecture, be prepared to discuss your contextual inquiry with other teams and the course staff.
 
