@@ -192,7 +192,7 @@ In lecture, be prepared to discuss the plan with other teams and the course staf
 
 ### Grading
 
-This proposal will be graded on a scale of __3 points__:
+This milestone will be graded on a scale of __3 points__:
 
 1. __People and Plan__: (1 point)
 2. __Feasibility__: (1 point)
@@ -230,10 +230,10 @@ In section, be prepared to discuss your contextual inquiry with other teams and 
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The information gained from your first interview(s)__: (3 points)` 
-2.  `__Your plan for your upcoming interviews__: (3 points)`  
+1. __Information from First Participant__: (3 points)
+2. __Plan for Remaining Participants__: (3 points)
 
 <a name="contextual_inquiry_review"></a>
 
