@@ -3,7 +3,6 @@ layout: default
 title: "Readings"
 
 link_reading_contextual_inquiry: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
-
 link_reading_critique: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
@@ -25,8 +24,7 @@ We will make additional resources available for students to read as interested.
 
 # Assigned Readings
 
-
-###Reading 1: Contextual Inquiry
+### Reading 1: Contextual Inquiry
 <a name="contextual_inquiry"></a>
 
 - Beyer and Holtzblatt (1997). Contextual Design. Chapter 3.
@@ -51,8 +49,7 @@ We will make additional resources available for students to read as interested.
   
   {% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Catalyst link to be added`{% endif %}
 
-
-### Reading 2: Critique & Groupwork
+### Reading 2: Critique & Teamwork
 <a name="critique"></a>
 
 - [Cheng (2013). How to Survive a Critique: A Guide to Giving and Receiving Feedback](http://www.aiga.org/how-to-survive-a-critique/)
@@ -63,11 +60,11 @@ We will make additional resources available for students to read as interested.
   
   After reading, please think back to your previous experiences working in groups, particularly an experience that could have been improved.
   
-  - Briefly describe the project and the group. (e.g. two sentences)
-  - What went poorly in this group? (e.g. two sentences)
-  - From concepts discussed in these readings, what could have been done differently to improve the group experience? (e.g. up to two paragraphs)
+  - Briefly describe the project and the group (e.g., two sentences).
+  - What went poorly in this group (e.g., two sentences)?
+  - From concepts discussed in these readings, what could have been done differently to improve the group experience (e.g., up to two paragraphs)?
   
-  These readings offer reflection on past group experiences and provide ways on improving on them.
+  These readings thus reflection on receiving feedback, prior group experiences, and how to maximize your success in this course.
   
   No more than one page of text in PDF format.
   
