@@ -54,7 +54,7 @@ We will make additional resources available for students to read as interested.
 
 - [Cheng (2013). How to Survive a Critique: A Guide to Giving and Receiving Feedback](http://www.aiga.org/how-to-survive-a-critique/)
 - [Katzenbach and Smith (1993). The Discipline of Teams.]({{site.baseurl}}/readings/DisciplineOfTeams-KatzenbachSmith.htm)
-- [Pausch. Tips for Working Successfully in a Group.]({{site.basurl}}/readings/WorkingInGroups-Pausch.html)
+- [Pausch. Tips for Working Successfully in a Group.]({{site.baseurl}}/readings/WorkingInGroups-Pausch.html)
 
   Due: Uploaded by the end of the day Friday, October 10, 2014.
   
