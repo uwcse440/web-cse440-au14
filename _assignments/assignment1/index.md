@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: "Assignment 1: Project Proposal"
 
@@ -6,6 +7,7 @@ link_project1a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project1b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994 
 link_project1c_projects: https://catalyst.uw.edu/gopost/area/jaf1978/133826
 link_project1c_bids: https://catalyst.uw.edu/webq/survey/jaf1978/248720
+
 ---
 
 # Overview
