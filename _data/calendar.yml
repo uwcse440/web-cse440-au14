@@ -84,6 +84,7 @@ sections:
   - date: "2014-10-03"
     slides: "slides/section/s02-ideation.pdf"
   - date: "2014-10-10"
+    slides: "slides/section/s03-ci.pdf"
   - date: "2014-10-17"
   - date: "2014-10-24"
   - date: "2014-11-07"
