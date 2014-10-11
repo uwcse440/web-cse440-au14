@@ -1,8 +1,24 @@
 import fabric
 import fabric.api
 
-fabric.api.env.hosts = ['bicycle.cs.washington.edu']
-fabric.api.env.user = 'depstein'
+# I have disabled all of this because Daniel is also pushing.as
+#
+# For now, we'll specify host/user interactively.
+#
+# Eventually I think we want dynamically-set host lists from a settings file:
+#
+# http://docs.fabfile.org/en/latest/usage/execution.html
+#
+# configs = {
+#     'jfogarty': {'hosts': ['barb.cs.washington.edu'], 'user': 'jfogarty'},
+#     'depstein': {'hosts': ['bicycle.cs.washington.edu'], 'user': 'depstein'}
+# }
+#
+# # Configure our host and user according to the parameter
+# fabric.api.env.hosts = configs[param_config]['hosts']
+# fabric.api.env.user = configs[param_config]['user']
+#
+# fabric.api.env.hosts = ['jfogarty@barb.cs.washington.edu']
 
 
 def build():
