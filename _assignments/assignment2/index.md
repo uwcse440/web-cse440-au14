@@ -325,7 +325,9 @@ In section, be prepared to discuss your tasks with other teams and the course st
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__ (1 point for each task described).`
+This milestone will be graded on a scale of __6 points__:
+
+1. __Each of 6 Tasks__: (1 point)
 
 <a name="design_checkin"></a>
 
@@ -365,9 +367,9 @@ In lecture, be prepared to discuss your design sketches with other teams and the
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__ (2 points for each design).`
+This milestone will be graded on a scale of __6 points__:
 
-`We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).`
+1. __Each of 3 Designs__: (2 points)
 
 <a name="design_review"></a>
 
@@ -414,10 +416,10 @@ In section, be prepared to discuss your choices and storyboards with other teams
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The rationale behind choosing the particular design__: (2 points)`
-2.  `__The storyboard for each task__: (2 points x 2 tasks = 4 points)`
+1. __Rationale for Choosing a Design Focus__: (2 points)
+2. __Each of 2 Storyboards__: (2 points)
 
 <a name="final_report">
 
