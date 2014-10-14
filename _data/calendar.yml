@@ -53,6 +53,7 @@ lectures:
     # notes: "Required for Project 2d"
   - date: "2014-10-14"
     name: "Human Performance"
+    slides: "slides/lecture/l06-humanperformance.pdf"
   - date: "2014-10-16"
     name: "Design Diamond"
     # notes: "Broad Thinking Must Be Taught, Generating Design Ideas Over Weekend"
