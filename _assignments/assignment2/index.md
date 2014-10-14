@@ -32,7 +32,9 @@ This assignment is worth __21%__ of your overall course grade:
   - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
   - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
 
-The associated presentation is also worth __%5__ of your overall course grade.
+The content of the associated presentation is worth __5%__ of your overall course grade.
+
+Your delivery of the associated presentation is worth __2%__ of your overall course grade.
 
 # Milestones
 
@@ -325,7 +327,9 @@ In section, be prepared to discuss your tasks with other teams and the course st
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__ (1 point for each task described).`
+This milestone will be graded on a scale of __6 points__:
+
+1. __Each of 6 Tasks__: (1 point)
 
 <a name="design_checkin"></a>
 
@@ -365,9 +369,9 @@ In lecture, be prepared to discuss your design sketches with other teams and the
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__ (2 points for each design).`
+This milestone will be graded on a scale of __6 points__:
 
-`We grade the designs on the quality and diversity of these ideas, as well as the execution (sketches are rough, transitions are clear, there is enough to get each idea across).`
+1. __Each of 3 Designs__: (2 points)
 
 <a name="design_review"></a>
 
@@ -414,10 +418,10 @@ In section, be prepared to discuss your choices and storyboards with other teams
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__The rationale behind choosing the particular design__: (2 points)`
-2.  `__The storyboard for each task__: (2 points x 2 tasks = 4 points)`
+1. __Rationale for Choosing a Design Focus__: (2 points)
+2. __Each of 2 Storyboards__: (2 points)
 
 <a name="final_report">
 
@@ -513,7 +517,7 @@ Submit via Catalyst here:
 This report will be graded on a scale of __25 points__:
 
 1.  __Title__: (1 point) 
-2.  __Each Team Member’s Name and Role__: (1 point)  
+2.  __Team Member Names and Roles__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points) 
 4.  __Contextual Inquiry Target, Stakeholders, and Participants__: (2 points)
 5.  __Contextual Inquiry Results and Themes__: (3 points)
@@ -529,23 +533,54 @@ This report will be graded on a scale of __25 points__:
 
 Due: Uploaded the night before class Thursday, October 30, 2014
 
-Prepare a presentation of your process on getting the right design. It should encompass all of your work in the quarter to date.
+Prepare a presentation of your process in getting the right design. It should encompass all of your work to date.
 
-__Two__ members of your team will give this presentation, and both should give relatively equal amounts of the presentation. A time limit of __eight minutes__ will be strictly enforced, so practice your presentation beforehand. There will be extra time for questions.
+- Two members of your team should deliver the presentation, each speaking to relatively equals portions.
+- An eight minute time limit will be strictly enforced, with additional time for questions.
 
-One way to organize this presentation is as follows:
+A suggested organization of this presentation is:
 
-- Title (1 slide)
-- Overall problem & solution (1 slide, tell it like a story versus reading off the slide)
-- Contextual Inquiry Description & Results (2 slides, include images)
-- 6 Tasks (1-2 slides, at most one sentence per task)
-- 3 Design Sketches (1-3 slides)
-- Selected Design Storyboard and Tasks (1-2 slides)
-- Summary (1 slide, summarize lessons learned)
+1. __Title__: (1 slide)
+ 
+   A short, creative, and marketable title capturing the key idea. Include team member names and roles.
+ 
+2. __Overall Problem__: (1 slide) 
+
+   Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
+
+3. __Contextual Inquiry__: (2 slides)
+ 
+   Include images that give your audience a feeling for your fieldwork. Convey that you have seen and understand the challenge.
+ 
+4. __6 Tasks__: (1 or 2 slides)
+ 
+   At most one sentence per task. Convey the breadth of tasks you have considered.
+ 
+5. __3 Design Sketches__: (1 to 3 slides) 
+
+   Convey the breadth of designs you considered.
+
+6. __Selected Design Storyboard and Tasks__: (1 to 3 slides)
+ 
+   Convey your rationale for choosing a design focus.
+
+   Ensure your presentation of your storyboards effectively illustrates your design.
+ 
+7. __Summary__: (1 slide) 
+
+   Summarize the lessons learned in your design process.
+
+We strongly recommend rehearsing your presentation beforehand. 
+For example, arrange to practice together with another group or two, giving each other feedback on your presentations.
 
 ### Submission
 
-Your presentation may be in PPT, PPTX, or PDF format. Only one member from each group needs to upload each submission. We will put all slides on a single Windows laptop to minimize switching overhead.
+Your presentation may be in PPT, PPTX, or PDF format. 
+
+To minimize switching time, we will have all presentations on a single laptop running Microsoft Windows.
+You should optimize your presentation for portability (e.g., ensure any necessary fonts are embedded).
+If we detect any obvious formatting issues on the presentation machine, we may fix them or contact you to fix them.
+But you are ultimately responsible for your presentation.
 
 Submit via Catalyst here: 
 
@@ -553,24 +588,25 @@ Submit via Catalyst here:
 
 ### Grading
 
-This presentation will be graded on an holistic __10 point__ scale (converted to __5%__ of your overall course grade), and individuals presenting will be graded on a __4 point__ scale (converted to __2%__ of your overall course grade). Grading criteria include:
+The content of this presentation will be graded on a scale of __10 points__:
 
-Presentation criteria:
+- Presentation shows appropriate preparation, with visual aids that are effective, properly prepared, and properly employed.
+- Slides are legible, such that people in the back of the room can still see them.
+- Presentation should not have an outline slide. It is short enough to be told as a story of your process.
+- Problem is presented in a manner that is compelling and achievable.
+- Contextual inquiry is carried out in an appropriate manner.
+- Contextual inquiry results are illuminating in terms of the problem.
+- Tasks presented provide coverage of the functionality.
+- Tasks were neither too easy nor too hard.
+- Tasks were motivated by the contextual inquiry.
+- Design ideas have a strong connection to results of contextual inquiry.
+- Design ideas are appropriate for the supported tasks.
+- Design ideas and storyboards were at the proper fidelity.
+- Presentation covered the required scope within the 8 minute time period.
 
-- The presentation shows appropriate preparation and that visual aids are effective, properly prepared, and properly employed. Someone at the back of the room could see your slides.
-- Minus 1 point if the presentation has an outline slide (this presentation is too short to need one).
-- The presentation covered the required scope within the 8 minute time period.
-- The presenter makes eye contact with the audience.
-- The presenter projects their voice well.
+The delivery of this presentation will be graded on a scale of __4 points__:
 
-Group criteria:
-
-- The problem is presented in a way that is compelling and achievable.
-- The contextual inquiry procedure carried out in a sound manner.
-- The contextual inquiry results illuminating in terms of the problem.
-- The tasks presented provide coverage of the functionality.
-- The tasks were neither too easy nor too hard.
-- The tasks were motivated by the contextual inquiry.
-- Interface ideas had a strong connection to results of contextual inquiry.
-- The presented ideas were appropriate for the supported tasks.
-- The presented ideas were at the proper fidelity (i.e., rough sketches).
+- Presenter makes eye contact with the audience.
+- Presenter projects their voice well and is audible throughout the room.
+- Presenter feels casual and engaged with the content, not just reading it.
+- Presentation covered the required scope within the 8 minute time period.
