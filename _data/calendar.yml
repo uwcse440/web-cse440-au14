@@ -56,6 +56,7 @@ lectures:
     slides: "slides/lecture/l06-humanperformance.pdf"
   - date: "2014-10-16"
     name: "Design Diamond"
+    slides: "slides/lecture/l07-designdiamond.pdf"
     # notes: "Broad Thinking Must Be Taught, Generating Design Ideas Over Weekend"
   - date: "2014-10-21"
     name: "Storyboarding"
