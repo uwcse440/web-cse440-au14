@@ -88,7 +88,7 @@ sections:
   - date: "2014-10-10"
     slides: "slides/section/s03-ci.pdf"
   - date: "2014-10-17"
-  	slides: "slides/section/s04-tasks.pdf"
+    slides: "slides/section/s04-tasks.pdf"
   - date: "2014-10-24"
   - date: "2014-11-07"
   - date: "2014-11-14"
