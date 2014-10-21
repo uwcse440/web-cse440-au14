@@ -182,6 +182,8 @@ assignments:
   - date: "2014-10-21"
     name: "2f - Design Check-In"
     link: "assignments/assignment2/#design_checkin"
+  - date: "2014-10-23"
+    name: "Design Feedback"
   - date: "2014-10-24"
     name: "2g - Design Review"
     link: "assignments/assignment2/#design_review"
