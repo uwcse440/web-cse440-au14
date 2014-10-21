@@ -60,6 +60,7 @@ lectures:
     # notes: "Broad Thinking Must Be Taught, Generating Design Ideas Over Weekend"
   - date: "2014-10-21"
     name: "Storyboarding"
+    slides: "slides/lecture/l08-storyboarding.pdf"
     # notes: "Storyboarding Must Be Taught for Project 2g"
   - date: "2014-10-23"
     name: "History"
