@@ -64,6 +64,7 @@ lectures:
     # notes: "Storyboarding Must Be Taught for Project 2g"
   - date: "2014-10-23"
     name: "History"
+    slides: "slides/lecture/l09-history.pdf"
   - date: "2014-10-28"
     name: "Paper Prototyping"
     # notes: "Required for Project 3a"
