@@ -99,7 +99,7 @@ We will make additional resources available for students to read as interested.
   - [Knowledge Navigator](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Apple-Knowledge-Navigator.mp4)
   - [A Day Made of Glass](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Corning-A-Day-Made-Of-Glass.mp4)
 
-  Due: Uploaded by the end of the day Friday, October 10, 2014.
+  Due: Uploaded by the end of the day Friday, October 24, 2014.
   
   After viewing, consider what approaches were more or less effective in these examples.
   
