@@ -114,3 +114,36 @@ We will make additional resources available for students to read as interested.
   
   {% if page.link_reading_prototyping_videos != nil %}<{{ page.link_reading_prototyping_videos }}>{% else %}`Catalyst link to be added`{% endif %}
   
+### Reading 4: Paper Prototyping and Usability Testing
+<a name="paperprototyping"></a>
+
+- [Rettig (1994). Prototyping for Tiny Fingers]({{site.baseurl}}/readings/PaperPrototyping-Rettig1994.pdf)
+- [Snyder (2003). Paper Prototyping. Chapter 4.]({{site.baseurl}}/readings/PaperPrototyping-Chapter4-Snyder2003.pdf)
+- [Gomoll (1992). Some Techniques for Observing Users.]({{site.baseurl}}/readings/UserStudies-Gomoll1992.pdf)
+
+- Optionally, check out this video on paper prototyping:
+
+- [Nielsen Norman Group. Paper Prototyping: A How-To Video.](http://courses.cs.washington.edu/courses/cse440/videos/paperprototyping/NielsenNorman.mp4)
+
+  Due: Uploaded by the end of the day Friday, October 31, 2014.
+
+  After reading, consider how you might apply this approach in your paper prototyping for Assignment 3a.
+  
+  - Describe an specific idea or thought you might be able to apply in your paper prototyping and usability testing.
+  - Describe why this idea is non-obvious or how it well help ensure good results for your paper prototyping and usability testing.
+  - Describe what in the readings gave you this idea.
+  
+  Your thoughts here should be specific. You are already required to do a paper prototype with usability testing, so
+  that is obviously too high-level. Convey a specific idea that indicates you did the reading and thought about how to
+  apply it in the context of your project.
+  
+  This reading thus serves to get you thinking about these methods in the context of your project.
+  
+  What actual techniques your team applies will depend on your larger decisions as a team. 
+  Nothing about this reading is intended to require that you actually apply the ideas you individually develop here.
+
+  No more than one page of text in PDF format.
+  
+  Submit via Catalyst here:
+  
+  {% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Catalyst link to be added`{% endif %}
