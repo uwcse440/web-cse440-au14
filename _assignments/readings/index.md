@@ -123,7 +123,7 @@ We will make additional resources available for students to read as interested.
 
 - Optionally, check out this video on paper prototyping:
 
-- [Nielsen Norman Group. Paper Prototyping: A How-To Video.](http://courses.cs.washington.edu/courses/cse440/videos/paperprototyping/NielsenNorman.mp4)
+  - [Nielsen Norman Group. Paper Prototyping: A How-To Video.](http://courses.cs.washington.edu/courses/cse440/videos/paperprototyping/NielsenNorman.mp4)
 
   Due: Uploaded by the end of the day Friday, October 31, 2014.
 
