@@ -67,6 +67,7 @@ lectures:
     slides: "slides/lecture/l09-history.pdf"
   - date: "2014-10-28"
     name: "Paper Prototyping"
+    slides: "slides/lecture/l10-paperprototyping.pdf"
     # notes: "Required for Project 3a"
   - date: "2014-11-04"
     name: "Inspection"
