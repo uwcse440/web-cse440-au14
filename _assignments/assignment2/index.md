@@ -83,8 +83,9 @@ You will then use contextual inquiry to learn more about your problem and the cu
 You will draw upon the ideas developed in your brainstorming and the observations made in your contextual inquiry
 to help develop a set of potential tasks your design might support. 
 You will next sketch how a set of initial designs might support those tasks.
-Finally, you will choose a design to pursue in the remainder of the course, storyboard the details of your design in
-the context of important tasks, and present your design in a report and presentation.
+You will choose a design to pursue in the remainder of the course and storyboard the details of your design in
+the context of important tasks
+Finally, you will present your design process in a report and presentation.
 
 More specifically, you will do the following:
 
@@ -118,7 +119,7 @@ More specifically, you will do the following:
    The purpose of these sketches is to explore the design space before you lock yourself into a single design.
    They must demonstrate significant consideration of substantially different approaches to your problem.
 
-   ([Assignment 2f](#design_checkin)), ([Assignment 2g](#design_review)) 
+   ([Assignment 2f](#design_checkin)) 
 
 5. From your sketches, select __one__ design to pursue for the remainder of the quarter and __two__ tasks that emphasize
    critical functionality of your design. These tasks should be non-trivial, critical to solving your problem, and should 
@@ -127,9 +128,11 @@ More specifically, you will do the following:
 
    Storyboard your chosen design for your chosen tasks, illustrating how the tasks are accomplished in your design.
 
+   ([Assignment 2g](#design_review))
+    
 6. Summarize your design process in a report and presentation.
 
-   ([Assignment 2h](#final_report))
+   ([Assignment 2h](#final_report)), ([Presentation](#presentation))
 
 # Deliverables
 
