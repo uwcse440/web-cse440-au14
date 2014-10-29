@@ -563,11 +563,11 @@ A suggested organization of this presentation is:
 
    Convey the breadth of designs you considered.
 
-6. __Selected Design Storyboard and Tasks__: (1 to 3 slides)
+6. __Selected Design Storyboards and Tasks__: (1 to 3 slides)
  
    Convey your rationale for choosing a design focus.
 
-   Ensure your presentation of your storyboards effectively illustrates your design.
+   Present your storyboards, ensuring they effectively illustrate your selected design and tasks.
  
 7. __Summary__: (1 slide) 
 
