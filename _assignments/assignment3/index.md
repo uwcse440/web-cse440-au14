@@ -8,6 +8,7 @@ link_project3c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project3d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project3e: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project3f: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project3g: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
 
@@ -19,7 +20,7 @@ of getting the design right through __paper prototyping__, __inspection__, and
 __user testing__. Design refinement culminates in a __digital mockup__.
 
 This assignment is worth __14%__ of your overall course grade:
-    
+	
 - __10%__ for [Assignment 3f: Final Report](#final_report) 
 - __4%__ for the milestones 
   - __0.5%__ for [Assignment 3a: Paper Prototype](#paper_prototype) 
@@ -27,9 +28,9 @@ This assignment is worth __14%__ of your overall course grade:
   - __1%__ for [Assignment 3c: Usability Testing Check-In](#usability_testing) 
   - __1%__ for [Assignment 3d: Usability Testing Review](#usability_testing) 
   - __1%__ for [Assignment 3e: Digital Mockup](#digital_mockup)
-    
+	
 The content of the associated presentation is worth __5%__ of your overall course grade.
-    
+	
 Your delivery of the associated presentation is worth __2%__ of your overall course grade.
 
 # Milestones
@@ -60,6 +61,10 @@ This is a group assignment, consisting of five milestones.
 
   Due: Uploaded the night before class Tuesday November 18, 2014
 
+* [Presentation](#presentation)
+
+  Due: Uploaded the night before class Thursday, November 20, 2014
+
 # Project Description 
 
 In this assignment, you will iteratively improve your design.
@@ -80,7 +85,7 @@ Finally, you will present your design process in a report and presentation.
    
 2. Conduct a heuristic evaluation of your paper prototype.
    You will perform an evaluation in class, and can supplement this with your own evaluation.
-    
+	
    Revise your paper prototype based on what you learn in heuristic evaluation.
    Your tasks and scenarios are likely stable, but revise them if your evaluation reveals a need.
 
@@ -386,100 +391,164 @@ This milestone will be graded on a scale of __12 points__:
 ## 3f: Final Report
 
 `Still being edited`
-    
-    Due: Uploaded the night before class Tuesday, November 18, 2014
-    
-    You will submit a report of _no more than_ __8 pages__ of text, approximately 4000
-    words. Images are strongly encouraged, __do not count against the page limit__, and
-    are thus effectively free (the limit applies to the approximate amount of text
-    you would have if all images were removed).
-    
-    Your report should follow the outline below, and will be graded using the
-    guidelines discussed next. __If you have completed all the checkins and milestones
-    above, the report should be straightforward to write__: you will already have much
-    of the content completed! The provided page allocations are rough estimates, to
-    help convey how to divide up the space.
-    
-    Note that while the content of this report is often duplicated from previous
-    checkins and reviews, _stapling previous documents together is insufficient for
-    this report_. Both the course staff and your peers have provided feedback
-    throughout the design process (both on your specific project and other’s
-    projects), and much of what we will be evaluating this report on is __how your
-    design and analysis has improved compared to prior checkins and reviews__.
-    
-    #### 1. Title (1 line, 1 point)
-    
-    Something short and catchy to capture the key idea: we will grade you on the
-    creativity and marketability of the title for your project.
-    
-    #### 2. Each team member’s name and role (1 point)
-    
-    #### 3. Problem and solution overview (&le;1 paragraph, 2 points)
-    
-    This overview should be a concise statement of the problem you are tackling and
-    a brief synopsis of your proposed solutions.
-    
-    #### 4. First paper prototype (&le;1 page, 20 points)
-    
-    See [assignment 3a.1](#paper_prototype). You do not need to update your original prototype in this section.
-    
-    #### 5. Testing process (&le;1 page, 20 points)
-    
-    See [assignment 3b.2](#user_testing_plan). Include any changes that were made to the experimental setup,
-    participants, etc. from what you anticipated.
-    
-    #### 6. Testing results (&le;2 pages, 20 points)
-    
-    Summarize the results of all user tests from your process data: assignments [3b.1](#heuristic_evaluation_user_testing) (heuristic
-    evaluations), [3c.1](#user_testing_results) (user testing and design critiques) and [3c.3](#digital_mockup) (digital mockup
-    critique).
-    
-    #### 7. Final paper prototype (&le;1 page, 20 points)
-    
-    Describe the final version of your paper prototype as you did for your first
-    paper prototype above. This section should include information about what
-    changed between these versions, and what spurred these changes (e.g. user tests,
-    heuristic evaluations, or a design critique).
-    
-    #### 8. Digital mockup (&le;1 page, X points)
-    
-    Update the digital prototype submitted in [assignment 3c.2](#digital_mockup), updating it based on
-    recommendations provided in the design critique conducted in [assignment 3c.3](#design_critique).
-    Briefly describe the changes made to your digital mockup as a result of this
-    design critique. Also include complete descriptions (one paragraph per task) for
-    your design supports each of your tasks.
-    
-    #### 9. Discussion (&le;1 page, 20 points)
-    
-    Reflect upon and discuss your project and your results. What did you learn from
-    the process? How did the process shape your design? Is there something you think
-    you did _not_ uncover?
-    
-    #### 10. Appendix (10 points)
-    
-    The appendix should include copies of all materials involved in the experiment.
-    This includes your consent form, demo script, and any instructions or task
-    descriptions you handed out or read aloud to your participants.
-     
-    Finally, it should include _all_ the raw process data you gathered during the
-    experiment. Clean it up to make it easier to read. Merge the critical incidents
-    logged by the observers and list them.
-     
-    The appendix materials and screenshots do not count in your page limit.
-    
-    ### Submission
-    
-    A single document in PDF format. Submit via Catalyst here: `link to Catalyst`
-    
-    ### Grading
-    
-    This report will be graded on a scale of `__39.324242434242 points__`, with the point split
-    described above for each section. Additional points pertaining to the entire
-    report are described below:
-    
-    #### Report clarity (3 points)
-    
-    Make sure your writing is easy to read: ensure it is clear and concise, use
-    section headings, make liberal use of whitespace, include images in the body of
-    the write-up with appropriate figure numbers and captions, refer to the figures
-    in the body of your text, and check for grammar errors.
+	
+Due: Uploaded the night before class Tuesday, November 18, 2014
+
+Prepare a report documenting the process of getting the design right. Your report should follow the outline below, and will be graded using the guidelines that follow. The provided page allocations are estimates, intended to help convey how to divide up the space.
+
+If you completed all of your milestones above, you will have much of the content for this report. But it is critical that you revise and update that content. You have received extensive feedback throughout your design process, and evaluation of your report will include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
+	
+#### 1. Title
+	
+A short, creative, and marketable title capturing the key idea.
+	
+#### 2. Each Team Member’s Name and Role
+
+#### 3. Problem and solution overview (1 paragraph)
+	
+A concise statement of the problem you are tackling and a brief synopsis of your proposed solution.
+	
+#### 4. First paper prototype (1 page)
+	
+See [assignment 3a.1](#paper_prototype). You do not need to update your original prototype in this section.
+	
+#### 5. Testing process (1 page)
+	
+See [assignment 3b.2](#user_testing_plan). Include any changes that were made to the experimental setup, participants, etc. from what you anticipated.
+	
+#### 6. Testing results (2 pages)
+	
+Summarize the results of all user tests from your process data: assignments [3b.1](#heuristic_evaluation_user_testing) (heuristic evaluations), [3c.1](#user_testing_results) (user testing and design critiques) and [3c.3](#digital_mockup) (digital mockup critique).
+
+#### 7. Final paper prototype (1 page)
+
+Describe the final version of your paper prototype as you did for your first paper prototype above. This section should include information about what changed between these versions, and what spurred these changes (e.g. user tests, heuristic evaluations, or a design critique).
+
+#### 8. Digital mockup (1 page)
+
+Update the digital prototype submitted in [assignment 3c.2](#digital_mockup), updating it based on recommendations provided in the design critique conducted in [assignment 3c.3](#design_critique).
+Briefly describe the changes made to your digital mockup as a result of this
+design critique. Also include complete descriptions (one paragraph per task) for
+your design supports each of your tasks.
+
+#### 9. Discussion (1 page)
+
+Reflect upon and discuss your project and your results. What did you learn from
+the process? How did the process shape your design? Is there something you think
+you did _not_ uncover?
+
+#### 10. Appendix
+
+The appendix should include copies of all materials involved in the experiment. This includes your consent form, demo script, and any instructions or task descriptions you handed out or read aloud to your participants.
+ 
+Finally, it should include _all_ the raw process data you gathered during the experiment. Clean it up to make it easier to read. Merge the critical incidents logged by the observers and list them.
+ 
+The appendix materials and screenshots do not count in your page limit.
+
+### Submission
+
+No more than eight pages of text in PDF format, following the above outline.
+
+Images do not count against your page limit, and are therefore effectively free. You should embed images throughout your PDF, keeping them near the text that references them. The limit applies to the approximate amount of text you would have if all images were removed.
+
+Submit via Catalyst here:
+
+{% if page.link_project3f != nil %}<{{ page.link_project3f }}>{% else %}`Catalyst link to be added`{% endif %}
+
+### Grading
+
+This report will be graded on a scale of __25 points__:
+
+1.  __Title__: (1 point) 
+2.  __Team Member Names and Roles__: (1 point)  
+3.  __Problem and Solution Overview__: (2 points)
+4.  __First Paper Prototype__: (3 points)
+5.  __Testing Process__: (2 points)
+6.  __Testing Results__: (3 points)
+7.  __Final Paper Prototype__: (3 points)
+8.  __Digital Mockup__: (3 points)
+9.  __Discussion__: (3 points)
+10. __Report Clarity and Presentation__: (4 points)
+
+<a name="presentation"></a>
+
+## Presentation
+
+`Still being edited`
+
+Due: Uploaded the night before class Thursday, November 20, 2014
+
+Prepare a presentation of your process in getting the design right. It should encompass all of your work in assignment 3.
+
+- Two members of your team should deliver the presentation, each speaking to relatively equals portions.
+- An eight minute time limit will be strictly enforced, with additional time for questions.
+
+A suggested organization of this presentation is:
+
+1. __Title__: (1 slide)
+ 
+   A short, creative, and marketable title capturing the key idea. Include team member names and roles.
+ 
+2. __Overall Problem__: (1 slide) 
+
+   Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
+
+3. __First Paper Prototype__: (1 or 2 slides)
+ 
+   Show images of your first paper prototype and describe how you would walk through one of your scenarios.
+ 
+4. __Testing Process and Results__: (1 to 3 slides)
+ 
+   Describe your testing process and what you learned from it.
+ 
+5. __Final Paper Prototype__: (1 or 2 slides) 
+
+	Show images of your final paper prototype, and describe the changes you made to it from the first prototype.
+
+6. __Digital Mockup__: (1 to 3 slides)
+ 
+   Show images of your digital mockup and describe its features.
+ 
+7. __Summary__: (1 slide) 
+
+   Summarize the lessons learned in your design process.
+
+We strongly recommend rehearsing your presentation beforehand. 
+For example, arrange to practice together with another group or two, giving each other feedback on your presentations.
+
+### Submission
+
+Your presentation may be in PPT, PPTX, or PDF format. 
+
+To minimize switching time, we will have all presentations on a single laptop running Microsoft Windows.
+You should optimize your presentation for portability (e.g., ensure any necessary fonts are embedded).
+If we detect any obvious formatting issues on the presentation machine, we may fix them or contact you to fix them.
+But you are ultimately responsible for your presentation.
+
+Submit via Catalyst here: 
+
+{% if page.link_project3g != nil %}<{{ page.link_project3g }}>{% else %}`Catalyst link to be added`{% endif %}
+
+### Grading
+
+The content of this presentation will be graded on a scale of __10 points__:
+
+- Presentation shows appropriate preparation, with visual aids that are effective, properly prepared, and properly employed.
+- Slides are legible, such that people in the back of the room can still see them.
+- Presentation should not have an outline slide. It is short enough to be told as a story of your process.
+- Problem is presented in a manner that is compelling and achievable.
+- First paper prototype effectively demonstrates completion of a scenario.
+- Testing process is appropriate for the design.
+- Testing process is carried out in an appropriate manner.
+- Testing results are illuminating in terms of the design.
+- Final paper prototype has a strong connection to the results of the testing process.
+- Digital mockup effectively implements the final paper prototype.
+- Digical mockup is at the proper fidelity.
+- Presentation covered the required scope within the 8 minute time period.
+
+The delivery of this presentation will be graded on a scale of __4 points__:
+
+- Presenter makes eye contact with the audience.
+- Presenter projects their voice well and is audible throughout the room.
+- Presenter feels casual and engaged with the content, not just reading it.
+- Presentation covered the required scope within the 8 minute time period.
