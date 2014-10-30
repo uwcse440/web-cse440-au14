@@ -197,7 +197,7 @@ Bring your prototype to class. You will need it to conduct Heuristic Evaluation.
 This milestone will be graded on a scale of __9 points__:
 
 1. __Overall Completeness and Appropriateness of Paper Prototype__: (3 points)
-2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points)
+2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points per task)
 
 <a name="heuristic_evaluation"></a>
 
@@ -231,7 +231,7 @@ At the end of the in-class exercise, the course staff will confirm your particip
 
 This milestone will be graded on a scale of __4 points__:
 
-1. __Participation of Each Half-Team__: (2 points)
+1. __Participation of Each Half-Team__: (2 points per half-team)
 
 <a name="usability_testing_checkin"></a>
 
