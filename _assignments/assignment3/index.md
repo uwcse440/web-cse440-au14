@@ -389,8 +389,6 @@ This milestone will be graded on a scale of __12 points__:
 <a name="final_report"></a>
 
 ## 3f: Final Report
-
-`Still being edited`
 	
 Due: Uploaded the night before class Tuesday, November 18, 2014
 
@@ -406,7 +404,7 @@ A short, creative, and marketable title capturing the key idea.
 
 #### 3. Problem and solution overview (1 paragraph)
 	
-A concise statement of the problem you are tackling and a brief synopsis of your proposed solution.
+A concise statement of the problem you are tackling and a brief synopsis of your proposed solution. Consider updating this from your previous report to reflect the scope of your final design.
 	
 #### 4. First paper prototype (1 page)
 	
@@ -449,7 +447,7 @@ The appendix materials and screenshots do not count in your page limit.
 
 No more than eight pages of text in PDF format, following the above outline.
 
-Images do not count against your page limit, and are therefore effectively free. You should embed images throughout your PDF, keeping them near the text that references them. The limit applies to the approximate amount of text you would have if all images were removed.
+Images and your appendix do not count against your page limit, and are therefore effectively free. You should embed images throughout your PDF, keeping them near the text that references them. The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here:
 
@@ -474,8 +472,6 @@ This report will be graded on a scale of __25 points__:
 
 ## Presentation
 
-`Still being edited`
-
 Due: Uploaded the night before class Thursday, November 20, 2014
 
 Prepare a presentation of your process in getting the design right. It should encompass all of your work in assignment 3.
@@ -485,36 +481,38 @@ Prepare a presentation of your process in getting the design right. It should en
 
 A suggested organization of this presentation is:
 
-1. __Title__: (1 slide)
+1. __Title__:
  
    A short, creative, and marketable title capturing the key idea. Include team member names and roles.
  
-2. __Overall Problem__: (1 slide) 
+2. __Overall Problem__: 
 
    Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
 
-3. __First Paper Prototype__: (1 or 2 slides)
+3. __First Paper Prototype__:
  
    Show images of your first paper prototype and describe how you would walk through one of your scenarios.
  
-4. __Testing Process and Results__: (1 to 3 slides)
+4. __Testing Process and Results__:
  
    Describe your testing process and what you learned from it.
  
-5. __Final Paper Prototype__: (1 or 2 slides) 
+5. __Final Paper Prototype__:
 
 	Show images of your final paper prototype, and describe the changes you made to it from the first prototype.
 
-6. __Digital Mockup__: (1 to 3 slides)
+6. __Digital Mockup__:
  
    Show images of your digital mockup and describe its features.
  
-7. __Summary__: (1 slide) 
+7. __Summary__:
 
    Summarize the lessons learned in your design process.
 
 We strongly recommend rehearsing your presentation beforehand. 
 For example, arrange to practice together with another group or two, giving each other feedback on your presentations.
+
+Note that we did not include slide recommendations for this presentation. You can deliver your presentation using as many or as few slides as you want, as long as you think you have successfully addressed the above points and the presentation falls within the eight-minute time restriction.
 
 ### Submission
 
