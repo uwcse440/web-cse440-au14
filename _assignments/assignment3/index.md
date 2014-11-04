@@ -255,9 +255,6 @@ Present your iterative revisions and your plan going forward:
   why you chose this participant and environment, the test protocol, and the roles of each team member who participated in the test. 
   Discuss anything you learned about the testing process itself, or any revisions you decided you need to make to your testing process.
 
-- Present your plan for the remainder of your usability tests. Describe who you will target for participation, what
-  goals you have for the additional tests, planned roles for each team member, and any new approaches you will employ.
-
 - Present a table or list of results from your first usability test. For each critical incident, include:
   - An image of the relevant portion of the prototype.
   - Description of the incident, remembering that these can be either positive or negative. 
@@ -267,6 +264,9 @@ Present your iterative revisions and your plan going forward:
 - Submit detailed images of your current paper prototype, as revised in this process. Include both:
   - An overview image that shows your entire paper prototype.
   - Detailed images showing each component as you walk through your two primary tasks.
+
+- Present your plan for the remainder of your usability tests. Describe who you will target for participation, what
+  goals you have for the additional tests, planned roles for each team member, and any new approaches you will employ.
 
 ### Submission
 
