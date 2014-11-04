@@ -71,6 +71,7 @@ lectures:
     # notes: "Required for Project 3a"
   - date: "2014-11-04"
     name: "Inspection"
+    slides: "slides/lecture/l12-inspection.pdf"
     # notes: "Required for Project 3(X)"
   - date: "2014-11-06"
     name: "Testing,<br>Patterns,<br>and Anti-Patterns"
