@@ -96,6 +96,7 @@ sections:
   - date: "2014-10-24"
     slides: "slides/section/s05-design.pdf"
   - date: "2014-11-07"
+    slides: "slides/section/s07-paper.pdf"
   - date: "2014-11-14"
   - date: "2014-12-05"
 
@@ -218,10 +219,15 @@ assignments:
   - date: "2014-11-18"
     name: "3f - Getting the Design Right"
     link: "assignments/assignment3/#final_report"
+  - date: "2014-11-25"
+    name: "4a - Website & Video Prototype Check-In"
+    link: "assignments/assignment4/#website_video_checkin"
   - date: "2014-12-04"
-    name: "Poster Check-In"
+    name: "4b - Poster Check-In"
+    link: "assignments/assignment4/#poster_elevator"
   - date: "2014-12-05"
-    name: "Poster / Pitch Check-In"
+    name: "4c - Poster / Pitch Check-In"
+    link: "assignments/assignment4/#poster_website_video_pitch_critique"
 
 majors:
   - date: "2014-10-30"
@@ -246,6 +252,7 @@ majors:
   - date: "2014-12-08"
     name: "Poster Session"
     location: "postersession"
+    link: "assignments/assignment4/#final_everything"
 
 aways:
   - date: "2014-10-06"

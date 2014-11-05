@@ -1,63 +1,79 @@
 ---
 layout: default
 title: "Assignment 4: Communicating Your Design"
----
 
-`link milestones to anchors near headers`
+link_project4b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project4d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+---
 
 # Overview
 
 This quarter you have narrowed the problem, selected a good design, and
 iterated on that design. In the remainder of the quarter, you will work on how
-to present that design to others through four means: a video prototype, a
-website, a poster, and an elevator pitch.
+to present that design to others through four means: a __video prototype__, a
+__website__, a __poster__, and an __elevator pitch__.
+
+
+This assignment is worth __15%__ of your overall course grade:
+  
+- __4%__ for [Assignment 4d: Website](#final_report)
+- __5%__ for [Assignment 4d: Video Prototype](#final_report)
+- __4%__ for [Assignment 4d: Poster](#final_report)
+- __2%__ for the milestones 
+  - __0.5%__ for [Assignment 4a: Website and Video Prototype Check-In](#website_video_checkin) 
+  - __1%__ for [Assignment 4b: Poster Critique and Elevator Pitch](#poster_elevator) 
+  - __0.5%__ for [Assignment 4c: Poster / Website / Video / Pitch Critique](#poster_website_video_pitch_critique) 
 
 # Milestones
 
 This is a group assignment, consisting of four milestones.
 
-* [Assignment 4a: Website and video prototype checkin](#website_video_checkin)
+* [Assignment 4a: Website and Video Prototype Check-In](#website_video_checkin)
 
   Due: Uploaded the night before class Tuesday, November 25, 2014
 
-* [Assignment 4b: Poster critique and elevator pitch](#poster_elevator)
+* [Assignment 4b: Poster Critique and Elevator Pitch](#poster_elevator)
 
   Due: Uploaded the night before class Thursday, December 4, 2014
 
-* [Assignment 4c: Poster / website / video / pitch critique](#poster_website_video_pitch_critique)
+* [Assignment 4c: Poster / Website / Video / Pitch Critique](#poster_website_video_pitch_critique)
 
   Due: Completed in section on Friday, December 5, 2014
 
-* [Assignment 4d: Poster session, final video, and final website](#final_everything)
+* [Assignment 4d: Poster Session, Final Video, and Final Website](#final_everything)
 
   Due: Website/video uploaded the night before the final exam block. Attend
   during the final exam block on Monday, December 8, 2014.
 
-# Requirements
+# Project Description
 
-1. __Video prototype__: You will create a video prototype that illustrates your
+In this assignment, you will take a variety of approaches to communicating your design. You will create a video prototype, website, poster, and elevator pitch to describe your work from the entire quarter.
+
+1. You will create a video prototype that illustrates your
    proposed design. Use the storyboards you created in previous assignment as a
    basis for your video prototype. Be sure you both set up the context and show
    the interaction with your design. Refer to the examples provided in lecture
    and videos from prior classes for more information on how to create a video
-   prototype. If your group does not have access to a camera, we can loan you a
-   low cost camera; please email us as soon as possible if you need a camera.
+   prototype.
+
+   A modern smartphone camera can produce high-enough quality video
+   for this assignment. However, if your group does not have access to a camera,
+   we can loan you a low cost camera; please email us as soon as possible if
+   this is the case.
 
    Your videos should not be longer than __2 minutes__.
 
-2. __Website__: You will create a project website that provides an overview of the
-   project, presents your concept video, presents your design prototypes,
+2. You will create a project website that provides an overview of the
+   project, presents your video prototype, presents your design prototypes,
    introduces team members (with pictures) and provides a link to your final
-   write-ups from [assignment 2](../assignment2/) and [assignment 3](../assignment3).
+   write-ups from [assignment 2](../assignment2/) and [assignment 3](../assignment3) and your poster.
 
-3. __Poster__: The goal of the poster is to learn how to present your work in a
+3. You will create a poster that explains your design to a general audience.
+   The goal of the poster is to learn how to present your work in a
    visual form to interested parties from industry and across campus and how to
    quickly convey the most important aspects of your work. The poster must be
-   32"x40" (portrait, vertical). This should not be a difficult project; it
-   should require a few hours.
-
-4. __Elevator Pitch__: You should be able to summarize the problem and your design
-   in __no more than one minute__. This pitch should convince the audience that your
+   32"x40" (portrait, vertical). You should be able to summarize the problem and your design
+   in an elevator pitch __no more than one minute__ in length. This pitch should convince the audience that your
    problem was worth investigating and that your design effectively solves the
    problem.
 
@@ -65,22 +81,29 @@ This is a group assignment, consisting of four milestones.
 
 <a name="website_video_checkin"></a>
 
-## 4a: Website and video prototype checkin
+## 4a: Website and Video Prototype Check-In
 
 Due: Uploaded the night before class Tuesday, November 25, 2014
 
 It is important to summarize your design to convey your ideas to others, which
 you will do through a website and a video prototype. __We are going to use your
-websites and video to advertise the poster session__. While this is a checkin and
+websites and video to advertise the poster session__. While this is a check-in and
 you will receive feedback before your final submission, you should submit
 complete, high-quality versions of your website and video at this point.
 
 #### 4a.1 Website
 
-Create your website in git pages. `We have absolutely no idea what this means or
-how to do it.`
+Create your website in git pages. `Directions on how do to this are coming soon.`
 
-#### 4a.2 Video prototype
+Your website should provide links to all of your previous reports and your video prototype.
+From your website, someone interested should be able to infer the importance of your problem
+and how your design solves this problem. Be sure to include your team names and pictures!
+
+#### 4a.2 Video Prototype
+
+Using your storyboards as a guideline, create a video prototype that illustrates your proposed design.
+Be sure to both set up the context and demonstrate the interaction of your design as part of this video.
+Refer to the videos shown in class and as part of the [video prototyping reading](../readings/#prototypingvideos).
 
 Submit your __2 minute__ video prototype in a portable and playable format. It
 should be playable on a Windows 7/8 laptop and Mac OS X laptop without any
@@ -88,21 +111,21 @@ special codecs installed (H.264 in an mp4 file is a good candidate). It should
 be sufficiently high-resolution for projection, but sufficiently compressed that
 it can be played on a typical laptop. It should be __less than 50 MB__. If you
 submit early drafts of your video, we will test that they play properly.
- 
+
+### Submission
+
+Submit a pull request in github to upload your website and video. `We will provide directions for how to do this.`
+
 You do not need to submit a write-up for this assignment, but be sure to keep
 updating your “running write-up” (started in [assignment 3](../assignment3), updated in
 [assignment 4](#final_everything)) as details of your project evolve.
 
-### Submission
-
-Submit a pull request in github to upload your website and video. `might need instructions for pull requests somewhere`
-
 ### Grading
 
-`This milestone will be graded on a scale of __12 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__Your initial version of your website__: (6 points)`
-2.  `__Your initial version of your video prototype__: (6 points)`
+1.  __Your initial version of your website__: (3 points)
+2.  __Your initial version of your video prototype__: (3 points)
 
 Note that these should be __complete__ and will be evaluated as such. We are simply
 giving you the opportunity to iterate and refine them before the final poster
@@ -110,7 +133,7 @@ session.
 
 <a name="poster_elevator"></a>
 
-## 4b: Poster critique and elevator pitch
+## 4b: Poster Critique and Elevator Pitch
 
 Due: Uploaded the night before class Thursday, December 4, 2014
 
@@ -129,14 +152,14 @@ Your poster should include:
 Your poster should include _screenshots_ and a _small amount of text_, not full
 sentences. There is a 32"x40" PowerPoint Template available [here](posters/sample-poster.ppt).
 
-Feel free to use the design as is, modify it, or not use it at all. There are
+Feel free to use the template as is, modify it, or not use it at all. There are
 additional examples of prior posters [here](posters/).
 
 Your poster may be in PPT, PPTX, or PDF format. We have a color plotter that
 can print posters this size. Your source file is due as stated above. We will
 then coordinate proofreading and printing with you.
 
-#### 4.b2 Elevator pitch
+#### 4.b2 Elevator Pitch
 
 During the final poster session, you will be giving a one-minute ‘elevator
 pitch’ to a small group of judges. This pitch should convey your problem, your
@@ -149,24 +172,24 @@ poster presentation.
 
 ### Submission
 
-Submit a PDF of your poster via Catalyst here: `link to Catalyst`
+Submit your poster via Catalyst here: {% if page.link_project4b != nil %}<{{ page.link_project4b }}>{% else %}`Catalyst link to be added`{% endif %}
 
-Be prepared to give your pitch in class.
+Be prepared to give your elevator pitch in class.
 
 ### Grading
 
-`This milestone will be graded on a scale of __6 points__:`
+This milestone will be graded on a scale of __6 points__:
 
-1.  `__Initial draft of the poster__: (3 points)`
-2.  `__Participation in-class__: (3 points)`
+1.  __Initial draft of the poster__: (3 points)
+2.  __Participation in-class__: (3 points)
 
 <a name="poster_website_video_pitch_critique"></a>
 
-## 4c: Poster / website / video / pitch critique
+## 4c: Poster / Website / Video / Pitch Critique
 
 Due: Completed in section on Friday, December 5, 2014
 
-Friday is a flexible critique day. The purpose of this day is to help you
+This is a flexible critique day. The purpose of this day is to help you
 refine whichever of your remaining deliverables you need feedback on. Be
 prepared to present your poster, website, or video at the critique. This is the
 last opportunity for you to get in-class critical feedback, so use it wisely!
@@ -178,55 +201,83 @@ laptop).
 
 ### Grading
 
-`This milestone will be graded on a scale of __3 points__ for participation in-class.`
+This milestone will be graded on a scale of __3 points__ for participation in-class.
 
 <a name="final_everything"></a>
 
-## 4d: Poster session, final video, and final website
+## 4d: Poster Session, Final Video, and Final Website
 
-Due: Website/video uploaded the night before the final exam block. Attend during the final exam block on Monday, December 8, 2014.
+Due: Website/video/poster uploaded the night before the final exam block. Attend during the final exam block on Monday, December 8, 2014.
 
-You’re almost done! Show up to the final exam block so you can present your
-one-minute pitch and your poster.
+You’re almost done! Attend to the final exam block so you can show off your poster and look
+at your classmate's posters. We will __not be conducting any evaluation__ at the poster
+session itself. Instead, take the opportunity to look at other student's work, chat with judges,
+and reflect on a busy and productive quarter.
 
 ### Submission
 
 Submit a pull request for your final website and video before the poster
-session. A member of the course staff will come around and evaluate your poster
-and pitch.
+session.
+
+Submit your poster via Catalyst here: {% if page.link_project4d != nil %}<{{ page.link_project4d }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
-`Your final poster, video, and website will be graded on a scale of __XX points__:`
+Your final poster, video, and website will each be graded on a scale of __10 points__:
 
-`N.B. re-balance points below so that final poster, video, and website are all worth the same.`
+#### Poster (10 points)
 
-#### Aesthetics  (50 points)
+##### Content (5 points)
 
-* Does the poster have large images that show the key parts of the design?
-* Does it include only key minimal text phrases (not paragraphs or long sentences)?
-* Are the fonts large and legible?
-* Are the colors a pleasing combination and easy to read?
+* The poster includes all of the points listed above.
+* The key features of the interface are clear and labeled where necessary.
+* The poster shows an evolution of the interfaces changes.
 
-#### Content  (50 points)
+##### Asthetics (5 points)
 
-* Does it include all the points listed above?
-* Are the key features of the interface clear and labeled where necessary?
-* Is there a good evolution of the interfaces changes shown?
+* The poster have large images that show the key parts of the design.
+* The poster includes only key minimal text phrases (not paragraphs or long sentences).
+* The poster's fonts are large and legible.
+* The poster's colors are a pleasing combination and easy to read.
+
+#### Video prototype quality (10 points)
+
+##### Content (7 points)
+
+* The video prototype gives a clear idea of what your design is and how it will be used.
+* The video prototype properly shows the context of interaction.
+* The video prototype demonstrates how one would interact with your design.
+
+##### Quality (3 points)
+
+* The video prototype is appropriately edited and paced.
+* The video prototype has a reasonable level of production value.
+
+#### Website (10 points)
+
+##### Content (5 points)
+
+* The website contains your team name, pictures, and a description of the problem.
+* The website provides an overview of how your design solves this problem.
+* The website includes links to your previous reports and your video prototype.
+
+##### Visual Design (5 points)
+
+* The website follows design principles that we have discussed in this course.
+* The website looks professional and is something you would consider including in a design portfolio.
+
+<!--
+As I said in email, I don't think this fits in with your new model of the poster session.
 
 #### Pitch (50 points)
 
 * Is it appropriately timed and prepared? (less than __one minute__)
 * Does it convey the problem and your solution?
 * Does it convey the work you’ve done to refine and validate your solution?
+-->
 
-#### Video prototype quality (4 points)
-
-You will be graded on how well your video illustrates your design. Your video
-should give a clear idea of what your design is and how it will be used. It
-should properly show the context of interaction (present the backstory). It
-should be appropriately edited and paced (neither too slow to keep a viewer’s
-interest nor too fast to follow).
+<!--
+TODO: make this the last required reading, perhaps?
 
 #### Video peer reviews (1 points)
 
@@ -235,7 +286,4 @@ interest nor too fast to follow).
 It is important for video prototypes to be accessible and appeal to a large
 audience. To measure how well your prototype succeeds at this, we will have each
 of you rate the videos as you watch them (including your own teams’ video).
-
-#### Website (2 points)
-
-Your website will be graded on its visual design and the completeness of its content.
+-->
