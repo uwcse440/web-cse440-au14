@@ -36,7 +36,7 @@ Projects are organized around four assignments, each consistent of several miles
 - [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
 - [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
 - [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
-- Assignment 4 - Communicating the Design
+- [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/)
 
 Example project from prior offerings include: 
 
@@ -83,9 +83,10 @@ The overall course grade will be computed as follows:
     - Milestones (__4%__)
     - Final Report (__10%__)
   - Assignment 4, Communicating the Design (__15%__)
-    - Project Website (__5%__)
+    - Milestones (__2%__)
+    - Project Website (__4%__)
     - Video Prototype (__5%__)
-    - Poster (__5%__)
+    - Poster (__4%__)
   - Presentations (__12%__)
     - Getting the Right Design Presentation (__5%__)
     - Getting the Design Right Presentation (__5%__)
