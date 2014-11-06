@@ -75,6 +75,7 @@ lectures:
     # notes: "Required for Project 3(X)"
   - date: "2014-11-06"
     name: "Testing,<br>Patterns,<br>and Anti-Patterns"
+    slides: "slides/lecture/l12-inspection.pdf"
   - date: "2014-11-13"
     name: "Designing for Diverse Needs"
   - date: "2014-11-18"
