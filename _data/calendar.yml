@@ -78,6 +78,7 @@ lectures:
     slides: "slides/lecture/l13-testingandpatterns.pdf"
   - date: "2014-11-13"
     name: "Designing for Diverse Needs"
+    slides: "slides/lecture/l14-designingfordiverseneeds.pdf"
   - date: "2014-11-18"
     name: "Interface Implementation"
   - date: "2014-11-25"
