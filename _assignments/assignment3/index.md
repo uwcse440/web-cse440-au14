@@ -432,8 +432,7 @@ your design supports each of your tasks.
 #### 9. Discussion (1 page)
 
 Reflect upon and discuss your project and your results. What did you learn from
-the process? How did the process shape your design? Is there something you think
-you did _not_ uncover?
+the process of iterative design? How did the process shape your design? Do you think you could have used _fewer_ or _more_ iterations? How have your tasks changed as a result of your usability tests?
 
 #### 10. Appendix
 
