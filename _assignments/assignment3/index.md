@@ -437,9 +437,7 @@ you did _not_ uncover?
 
 #### 10. Appendix
 
-The appendix should include copies of all materials involved in the experiment. This includes your consent form, demo script, and any instructions or task descriptions you handed out or read aloud to your participants.
- 
-Finally, it should include _all_ the raw process data you gathered during the experiment. Clean it up to make it easier to read. Merge the critical incidents logged by the observers and list them.
+The appendix should include copies of all materials involved in the experiment. This includes your any instructions or task descriptions you handed out or read aloud to your participants and the identified critical incidents.
  
 The appendix materials and screenshots do not count in your page limit.
 
