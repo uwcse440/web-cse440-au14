@@ -93,7 +93,32 @@ complete, high-quality versions of your website and video at this point.
 
 #### 4a.1 Website
 
-Create your website in git pages. `Directions on how do to this are coming soon.`
+First, follow the [contributing](../../contributing.html) instructions to set up your local machine.
+The current websites are linked below, and the source files are in the `_projects` folder of the Git repository.
+
+[Aqueous](../../projects/aqueous/)
+
+[Awearness](../../projects/awearness/)
+
+[Band-It](../../projects/bandit/)
+
+[DisTrack](../../projects/distrack/)
+
+[GroupShop](../../projects/groupshop/)
+
+[IE+](../../projects/ieplus/)
+
+[Katching](../../projects/katching/)
+
+[Koala](../../projects/koala/)
+
+[Running With Friends](../../projects/runningwithfriends/)
+
+[SoundScape](../../projects/soundscape/)
+
+Submit a pull request to change your team homepage to be something other than `Test`.
+
+From there, you can decide to build your website however you want. We recommend Jekyll, as that's what the rest of the website is build upon, but feel free to use another system to generate html submit that.
 
 Your website should provide links to all of your previous reports and your video prototype.
 From your website, someone interested should be able to infer the importance of your problem
@@ -114,7 +139,7 @@ submit early drafts of your video, we will test that they play properly.
 
 ### Submission
 
-Submit a pull request in github to upload your website and video. `We will provide directions for how to do this.`
+Submit a pull request in github to upload your website and video. Check the [contributing](../../contributing.html) page for instructions on how to submit a pull request.
 
 You do not need to submit a write-up for this assignment, but be sure to keep
 updating your “running write-up” (started in [assignment 3](../assignment3), updated in
