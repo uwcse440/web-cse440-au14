@@ -4,6 +4,8 @@ baseurl:    /courses/cse440/14au
 collections:
   assignments:
     output: true
+  projects:
+    output: false
 
 exclude:
   - env27
