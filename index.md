@@ -117,3 +117,34 @@ Submissions should be in PDF format (i.e., not plain text, not Word).
 The PDF should be 'printable', containing everything we need to review and grade the assignment (e.g., your name).
 The course staff has a large number of submissions to manage, so format and completeness issues are problematic.
 
+<a name="projects"></a>
+
+# Quarter Projects
+
+The projects for this quarter are available below.
+
+[Aqueous](projects/aqueous/)
+
+[Awearness](projects/awearness/)
+
+[Band-It](projects/bandit/)
+
+[DisTrack](projects/distrack/)
+
+[GroupShop](projects/groupshop/)
+
+[IE+](projects/ieplus/)
+
+[Katching](projects/katching/)
+
+[Koala](projects/koala/)
+
+[Running With Friends](projects/runningwithfriends/)
+
+[SoundScape](projects/soundscape/)
+
+# Contributing
+
+This course website is a [github repository](https://github.com/uwcse440/web-cse440-au14)! You can submit pull requests to update the webpage.
+
+We have provided [instructions](contributing.html) on how to set up your computer to contribute.
