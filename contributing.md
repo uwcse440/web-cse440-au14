@@ -293,6 +293,6 @@ I can then `git commit` my work and add a message. However, this only commits th
 
 After pushing a set of changes, a pull request appears in the parent repository (the [course website repository](https://github.com/uwcse440/web-cse440-au14) in our case). It'll look something like the following:
 
-![pull_request]({{ site.baseurl }}/images/development_general/pull_request)
+![pull_request]({{ site.baseurl }}/images/development_general/pull_request.png)
 
 Push the `pull request` button and send one off to us! We'll take a look, and accept your changes if they don't crash the website.
