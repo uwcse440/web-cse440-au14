@@ -23,6 +23,9 @@ locations:
   officehoursdanielforjames:
     - time: "2:00 - 3:00"
       location: "CSE 218"
+  officehourspresentationworkshop:
+    - time: "3:00 - 5:00"
+      location: "CSE 305"
 
 holidays:
   - date: "2014-11-11"
@@ -140,6 +143,9 @@ officehours:
   - date: "2014-11-18"
     name: "James Office Hour"
     location: officehoursjames
+  - date: "2014-11-19"
+    name: "Presentation Workshop"
+    location: "officehourspresentationworkshop"
   - date: "2014-11-20"
     name: "Daniel Office Hour"
     location: officehoursdaniel
