@@ -536,40 +536,40 @@ This report will be graded on a scale of __25 points__:
 
 Due: Uploaded the night before class Thursday, October 30, 2014
 
-Prepare a presentation of your process in getting the right design. It should encompass all of your work to date.
+Prepare a presentation of your process in getting the right design. It should encompass all of your work in Assignment 2.
 
 - Two members of your team should deliver the presentation, each speaking to relatively equals portions.
 - An eight minute time limit will be strictly enforced, with additional time for questions.
 
 A suggested organization of this presentation is:
 
-1. __Title__: (1 slide)
+1. __Title__: 
  
    A short, creative, and marketable title capturing the key idea. Include team member names and roles.
  
-2. __Overall Problem__: (1 slide) 
+2. __Overall Problem__:  
 
    Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
 
-3. __Contextual Inquiry__: (2 slides)
+3. __Contextual Inquiry__:
  
    Include images that give your audience a feeling for your fieldwork. Convey that you have seen and understand the challenge.
  
-4. __6 Tasks__: (1 or 2 slides)
+4. __6 Tasks__:
  
    At most one sentence per task. Convey the breadth of tasks you have considered.
  
-5. __3 Design Sketches__: (1 to 3 slides) 
+5. __3 Design Sketches__: 
 
    Convey the breadth of designs you considered.
 
-6. __Selected Design Storyboards and Tasks__: (1 to 3 slides)
+6. __Selected Design Storyboards and Tasks__:
  
    Convey your rationale for choosing a design focus.
 
    Present your storyboards, ensuring they effectively illustrate your selected design and tasks.
  
-7. __Summary__: (1 slide) 
+7. __Summary__: 
 
    Summarize the lessons learned in your design process.
 
