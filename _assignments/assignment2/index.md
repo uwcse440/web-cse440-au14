@@ -432,7 +432,7 @@ This milestone will be graded on a scale of __6 points__:
 
 Due: Uploaded the night before class Tuesday, October 28, 2014
 
-Prepare a report documenting your design process.
+Prepare a report documenting your process of getting the right design.
 Your report should follow the outline below, and will be graded using the guidelines that follow.
 The provided page allocations are estimates, intended to help convey how to divide up the space.
 
