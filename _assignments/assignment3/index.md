@@ -392,59 +392,88 @@ This milestone will be graded on a scale of __12 points__:
 	
 Due: Uploaded the night before class Tuesday, November 18, 2014
 
-Prepare a report documenting the process of getting the design right. Your report should follow the outline below, and will be graded using the guidelines that follow. The provided page allocations are estimates, intended to help convey how to divide up the space.
+Prepare a report documenting your design process.
+Your report should follow the outline below, and will be graded using the guidelines that follow.
+The provided page allocations are estimates, intended to help convey how to divide up the space.
 
-If you completed all of your milestones above, you will have much of the content for this report. But it is critical that you revise and update that content. You have received extensive feedback throughout your design process, and evaluation of your report will include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
-	
-#### 1. Title
-	
-A short, creative, and marketable title capturing the key idea.
-	
-#### 2. Each Team Member’s Name and Role
+If you completed all of your milestones above, you will have much of the content for this report.
+But it is critical that you revise and update that content.
+You have received extensive feedback throughout your design process, and evaluation of your report will 
+include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
 
-#### 3. Problem and solution overview (1 paragraph)
+Prepare a report documenting your process of getting the design right. 
+Your report should follow the outline below, and will be graded using the guidelines that follow. 
+The provided page allocations are estimates, intended to help convey how to divide up the space.
+
+If you completed all of your milestones above, you will have much of the content for this report. 
+But it is critical that you revise and update that content. 
+You have received extensive feedback throughout your design process, and evaluation of your report will 
+include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
+
+1.  __Title__ 
+
+    A short, creative, and marketable title capturing the key idea.
+
+2.  __Each Team Member’s Name and Role__
+
+3.  __Problem and Solution Overview__: (1 paragraph)
+
+    A concise statement of the problem you are tackling and a brief synopsis of your proposed solution. 
+    Consider updating this from your previous report to reflect the scope of your final design.
+
+4.  __Initial Paper Prototype__: (1 page)
+
+    Present your original paper prototype, as a baseline against which this report will present your iteration.
+    Convey the critical aspects of your design, including your two primary tasks.
+
+5.  __Testing Process__: (1 page)
 	
-A concise statement of the problem you are tackling and a brief synopsis of your proposed solution. Consider updating this from your previous report to reflect the scope of your final design.
+    Present your testing process, including your method and your participants.
+    This process probably evolved some in the course of your project.
+    For your report, present a retrospective on how you refined your design.
+
+6.  __Testing Results__: (2 pages)
 	
-#### 4. First paper prototype (1 page)
-	
-See [assignment 3a.1](#paper_prototype). You do not need to update your original prototype in this section.
-	
-#### 5. Testing process (1 page)
-	
-See [assignment 3b.2](#user_testing_plan). Include any changes that were made to the experimental setup, participants, etc. from what you anticipated.
-	
-#### 6. Testing results (2 pages)
-	
-Summarize the results of all user tests from your process data: assignments [3b.1](#heuristic_evaluation_user_testing) (heuristic evaluations), [3c.1](#user_testing_results) (user testing and design critiques) and [3c.3](#digital_mockup) (digital mockup critique).
+    Summarize the results of your paper prototype testing and refinement.
+    Present what you learned about each version of your prototype and what changes you made as a result.
+    This will include changes from your heuristic evaluation, usability testing, and design critique.
 
-#### 7. Final paper prototype (1 page)
+7.  __Final Paper Prototype__: (1 page)
 
-Describe the final version of your paper prototype as you did for your first paper prototype above. This section should include information about what changed between these versions, and what spurred these changes (e.g. user tests, heuristic evaluations, or a design critique).
+    Present your final version of your paper prototype, as you did for your initial paper prototype above. 
+    Convey the critical aspects of your design, including your two primary tasks.
 
-#### 8. Digital mockup (1 page)
+8.  __Digital Mockup__: (1 page)
 
-Update the digital prototype submitted in [assignment 3c.2](#digital_mockup), updating it based on recommendations provided in the design critique conducted in [assignment 3c.3](#design_critique).
-Briefly describe the changes made to your digital mockup as a result of this
-design critique. Also include complete descriptions (one paragraph per task) for
-your design supports each of your tasks.
+    Present your digital mockup.
+    Convey the critical aspects of your design, including your two primary tasks.
+    Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. 
+    Briefly discuss any changes you made in response to critique.
+    Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
 
-#### 9. Discussion (1 page)
+9.  __Discussion__: (1 page)
 
-Reflect upon and discuss your project and your results. What did you learn from
-the process of iterative design? How did the process shape your design? Do you think you could have used _fewer_ or _more_ iterations? How have your tasks changed as a result of your usability tests?
+    Reflect upon and discuss your project and your results. For example: 
+   
+    - What did you learn from the process of iterative design? 
+    - How did the process shape your final design? 
+    - How have your tasks changed as a result of your usability tests?
+    - Do you think you could have used more, or fewer, iterations upon your design? 
 
-#### 10. Appendix
+10. __Appendix__:
 
-The appendix should include copies of all materials involved in the experiment. This includes your any instructions or task descriptions you handed out or read aloud to your participants and the identified critical incidents.
- 
-The appendix materials and screenshots do not count in your page limit.
+     Attach copies of all materials involved in your testing. 
+     Includes any instructions or task descriptions you handed out or read aloud to your participants.
+     Include identified critical incidents from your usability testing. 
+     The appendix materials and screenshots do not count in your page limit.
 
 ### Submission
 
 No more than eight pages of text in PDF format, following the above outline.
 
-Images and your appendix do not count against your page limit, and are therefore effectively free. You should embed images throughout your PDF, keeping them near the text that references them. The limit applies to the approximate amount of text you would have if all images were removed.
+Images and your appendix do not count against your page limit, and are therefore effectively free. 
+You should embed images throughout your PDF, keeping them near the text that references them.
+The limit applies to the approximate amount of text you would have if all images were removed.
 
 Submit via Catalyst here:
 
