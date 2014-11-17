@@ -486,7 +486,7 @@ This report will be graded on a scale of __25 points__:
 1.  __Title__: (1 point) 
 2.  __Team Member Names and Roles__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points)
-4.  __First Paper Prototype__: (3 points)
+4.  __Initial Paper Prototype__: (3 points)
 5.  __Testing Process__: (2 points)
 6.  __Testing Results__: (3 points)
 7.  __Final Paper Prototype__: (3 points)
@@ -500,10 +500,12 @@ This report will be graded on a scale of __25 points__:
 
 Due: Uploaded the night before class Thursday, November 20, 2014
 
-Prepare a presentation of your process in getting the design right. It should encompass all of your work in assignment 3.
+Prepare a presentation of your process in getting the design right. It should encompass all of your work in Assignment 3.
 
 - Two members of your team should deliver the presentation, each speaking to relatively equals portions.
 - An eight minute time limit will be strictly enforced, with additional time for questions.
+- Your presenters should be different from your presenters in Assignment 2, such that everybody now presents.
+  If there is some reason this cannot work for your team, be sure you have communicated with us.
 
 A suggested organization of this presentation is:
 
@@ -515,21 +517,27 @@ A suggested organization of this presentation is:
 
    Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
 
-3. __First Paper Prototype__:
+3. __Initial Paper Prototype__:
  
-   Show images of your first paper prototype and describe how you would walk through one of your scenarios.
+   Present your initial paper prototype.
+   Convey the critical aspects of your design, including your two primary tasks.
  
 4. __Testing Process and Results__:
  
-   Describe your testing process and what you learned from it.
+   Describe your testing process, what you learned from it, and how you refined your prototype as a result.
  
 5. __Final Paper Prototype__:
 
-	Show images of your final paper prototype, and describe the changes you made to it from the first prototype.
+   Present your final paper prototype.
+   Convey the critical aspects of your design, including your two primary tasks.
+   This might be shorter than your presentation of the initial paper prototype, 
+   because you already presented changes and are about to present the digital mockup.
+   Keep your presentation appropriately paced instead of getting bogged down here.
 
 6. __Digital Mockup__:
  
-   Show images of your digital mockup and describe its features.
+   Present your digital mockup.
+   Convey the critical aspects of your design, including your two primary tasks.
  
 7. __Summary__:
 
@@ -538,7 +546,9 @@ A suggested organization of this presentation is:
 We strongly recommend rehearsing your presentation beforehand. 
 For example, arrange to practice together with another group or two, giving each other feedback on your presentations.
 
-Note that we did not include slide recommendations for this presentation. You can deliver your presentation using as many or as few slides as you want, as long as you think you have successfully addressed the above points and the presentation falls within the eight-minute time restriction.
+Note that we have not provided recommendations for the number of slides in each section of this presentation. 
+You can deliver your presentation using as many or as few slides as you want, 
+as long as you successfully address the above points and the presentation falls within the eight-minute time restriction.
 
 ### Submission
 
