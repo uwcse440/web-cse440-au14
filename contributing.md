@@ -273,7 +273,7 @@ You can then clone it on your desktop and start editing.
 
 You can also clone it via the desktop application. For example, on Mac:
 
-![cloned]({{ site.baseurl }}/images/development_general/cloning_desktop.png)
+![cloning_desktop]({{ site.baseurl }}/images/development_general/cloning_desktop.png)
     
 ## <a name="branches"></a>Branching Behavior
 
@@ -287,7 +287,7 @@ Which checks out a new branch named `assignment3`. If you ever want to switch br
 
 You might also be able to achieve this via the desktop application. For example, on Mac:
 
-![cloned]({{ site.baseurl }}/images/development_general/branching_desktop.png)
+![branching_desktop]({{ site.baseurl }}/images/development_general/branching_desktop.png)
 
 Congrats! You now have your branch. You can now make whatever changes you need to _within that directory_.
 
