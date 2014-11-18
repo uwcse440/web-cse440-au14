@@ -289,6 +289,8 @@ You might also be able to achieve this via the desktop application. For example,
 
 ![cloned]({{ site.baseurl }}/images/development_general/branching_desktop.png)
 
+Congrats! You now have your branch. You can now make whatever changes you need to _within that directory_.
+
 To commit code, you first need to `add` your files with `git add`. For example, if I edited the `index.html` file, I would type:
 
 	git add index.html
@@ -296,6 +298,8 @@ To commit code, you first need to `add` your files with `git add`. For example, 
 I can then `git commit` my work and add a message. However, this only commits the files _locally_; meaning they will only appear on my computer, but not to the rest of the internet! To resolve this, we `push` our code after committing:
 
 	git push
+
+This is usually pretty apparent via the desktop applications. Files usually are automatically checked to be added by default in the desktop applications.
 
 ## <a name="pull_request"></a> Submitting a Pull Request
 
