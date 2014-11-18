@@ -84,6 +84,7 @@ lectures:
     slides: "slides/lecture/l14-designingfordiverseneeds.pdf"
   - date: "2014-11-18"
     name: "Interface Implementation"
+    slides: "slides/lecture/l15-interfaceimplementation.pdf"
   - date: "2014-11-25"
     name: "Rapid Prototyping"
   - date: "2014-12-04"
