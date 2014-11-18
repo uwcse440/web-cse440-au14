@@ -270,6 +270,10 @@ And then you have a local version!
 You can then clone it on your desktop and start editing.
 
 ![cloned]({{ site.baseurl }}/images/development_general/cloned.png)
+
+You can also clone it via the desktop application. For example, on Mac:
+
+![cloned]({{ site.baseurl }}/images/development_general/cloning_desktop.png)
     
 ## <a name="branches"></a>Branching Behavior
 
@@ -280,6 +284,10 @@ Git operates with an idea called _branches_. These are incredibly useful for kee
 	git checkout -b assignment3
 
 Which checks out a new branch named `assignment3`. If you ever want to switch branches, you can check out a new branch. Such as: `git checkout master`.
+
+You might also be able to achieve this via the desktop application. For example, on Mac:
+
+![cloned]({{ site.baseurl }}/images/development_general/branching_desktop.png)
 
 To commit code, you first need to `add` your files with `git add`. For example, if I edited the `index.html` file, I would type:
 
