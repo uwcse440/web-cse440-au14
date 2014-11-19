@@ -14,7 +14,7 @@ link_project3g: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 # Overview
 
-Now that you have chosen a design, it time to iteratively refine that design.
+Now that you have chosen a design, it is time to iteratively refine that design.
 This group assignment, spanning multiple weeks of the course, tackles the problem
 of getting the design right through __paper prototyping__, __inspection__, and 
 __user testing__. Design refinement culminates in a __digital mockup__.
