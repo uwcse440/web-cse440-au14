@@ -4,46 +4,56 @@ title: "Assignment 4: Communicating Your Design"
 
 link_project4b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+
 ---
 
 # Overview
 
-This quarter you have narrowed the problem, selected a good design, and
-iterated on that design. In the remainder of the quarter, you will work on how
-to present that design to others through four means: a __video prototype__, a
-__website__, a __poster__, and an __elevator pitch__.
-
+Now that you have identified a problem, selected a good design, and
+iterated on that design, it is time to communicate your design.
+This group assignment communicates your design through a __video prototype__, 
+a __website__, a __poster__, and a __pitch__.
 
 This assignment is worth __15%__ of your overall course grade:
-  
-- __4%__ for [Assignment 4d: Website](#final_report)
-- __5%__ for [Assignment 4d: Video Prototype](#final_report)
-- __4%__ for [Assignment 4d: Poster](#final_report)
+
+`links are wrong`
+
+- __5%__ for [Assignment 4e: Final Video Prototype](#final_everything)
+- __4%__ for [Assignment 4e: Final Website](#final_everything)
+- __4%__ for [Assignment 4e: Final Poster](#final_everything)
 - __2%__ for the milestones 
-  - __0.5%__ for [Assignment 4a: Website and Video Prototype Check-In](#website_video_checkin) 
-  - __1%__ for [Assignment 4b: Poster Critique and Elevator Pitch](#poster_elevator) 
-  - __0.5%__ for [Assignment 4c: Poster / Website / Video / Pitch Critique](#poster_website_video_pitch_critique) 
+  - __0.5%__ for [Assignment 4a: Initial Video Prototype](#initial_video_prototype)
+  - __1%__ for [Assignment 4b: Initial Website](#initial_website)
+  - __1%__ for [Assignment 4c: Poster Critique and Pitch](#poster_pitch) 
+  - __0.5%__ for [Assignment 4d: Communication Critique](#communication_critique) 
 
 # Milestones
 
-This is a group assignment, consisting of four milestones.
+This is a group assignment, consisting of six milestones.
 
-* [Assignment 4a: Website and Video Prototype Check-In](#website_video_checkin)
+* [Assignment 4a: Initial Video Prototype](#initial_video_prototype)
 
   Due: Uploaded the night before class Tuesday, November 25, 2014
 
-* [Assignment 4b: Poster Critique and Elevator Pitch](#poster_elevator)
+* [Assignment 4b: Initial Website](#initial_website)
+
+  Due: Uploaded before end of day Wednesday, November 26, 2014
+
+* [Assignment 4c: Poster Critique and Pitch](#poster_pitch)
 
   Due: Uploaded the night before class Thursday, December 4, 2014
 
-* [Assignment 4c: Poster / Website / Video / Pitch Critique](#poster_website_video_pitch_critique)
+* [Assignment 4d: Communication Critique](#communication_critique)
 
   Due: Completed in section on Friday, December 5, 2014
 
-* [Assignment 4d: Poster Session, Final Video, and Final Website](#final_everything)
+* [Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
 
-  Due: Website/video uploaded the night before the final exam block. Attend
-  during the final exam block on Monday, December 8, 2014.
+  Due: Uploaded the night before poster session Monday, December 8, 2014. 
+
+* [Assignment 4f: Poster Session](#poster_session)
+
+  Attend 10:30 to 12:20, Monday, December 8, 2014.
 
 # Project Description
 
