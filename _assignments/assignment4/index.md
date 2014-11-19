@@ -17,8 +17,6 @@ a __website__, a __poster__, and a __pitch__.
 
 This assignment is worth __15%__ of your overall course grade:
 
-`check links work`
-
 - __4%__ for [Assignment 4e: Final Video Prototype](#final_everything)
 - __4%__ for [Assignment 4e: Final Website](#final_everything)
 - __4%__ for [Assignment 4e: Final Poster](#final_everything)
@@ -165,7 +163,7 @@ Simply build your website and submit the set of static files to be served from y
 
 ### Submission
 
-First, follow the [contributing instructions]({{ site.baseurl }}/contributing.html) 
+Follow the [contributing instructions]({{ site.baseurl }}/contributing.html) 
 to submit a pull request containing the content for your project website. 
 Your request should not modify anything outside your project website.
 
@@ -247,92 +245,71 @@ This is the last opportunity for you to get in-class critical feedback, so use i
 
 Bring at least one of your artifacts to class (e.g., be prepared to show them on a laptop).
 
-[Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
-Due: Uploaded the night before poster session Monday, December 8, 2014. 
-[Assignment 4f: Poster Session](#poster_session)
-Attend 10:30 to 12:20, Monday, December 8, 2014.
-
 <a name="final_everything"></a>
 
-## 4d: Poster Session, Final Video, and Final Website
+## 4e: Final Poster, Final Video, Final Website
 
-Due: Website/video/poster uploaded the night before the final exam block. Attend during the final exam block on Monday, December 8, 2014.
+Due: Uploaded the night before poster session Monday, December 8, 2014. 
 
-You’re almost done! Attend to the final exam block so you can show off your poster and look
-at your classmate's posters. We will __not be conducting any evaluation__ at the poster
-session itself. Instead, take the opportunity to look at other student's work, chat with judges,
-and reflect on a busy and productive quarter.
+Course staff will have previously coordinated with you to finalize your poster.
+
+Finalize your video prototype and website in advance of the poster session.
 
 ### Submission
 
-Submit a pull request for your final website and video before the poster
-session.
+Follow the [contributing instructions]({{ site.baseurl }}/contributing.html) 
+to submit a pull request containing your final video and final website. 
 
-Submit your poster via Catalyst here: {% if page.link_project4d != nil %}<{{ page.link_project4d }}>{% else %}`Catalyst link to be added`{% endif %}
+Submit simple pull requests early so that you become familiar with this functionality.
+Do not wait until the final moments to begin to learn how to do this.
 
 ### Grading
 
-Your final poster, video, and website will each be graded on a scale of __10 points__:
+Your final video, final website, and final poster will each be graded on a scale of __10 points__.
 
-#### Poster (10 points)
+#### Poster
 
-##### Content (5 points)
+- __Content__: (5 points)
+  - Includes all of the points listed above.
+  - Key features of the design are clear.
+  - Gives insight into the design process.
+- __Presentation__: (5 points)
+  - Large images that show the key parts of the design.
+  - Only minimal and appropriate use of text
+  - Text is large and legible
+  - Colors and fonts are a pleasing combination and easy to read
 
-* The poster includes all of the points listed above.
-* The key features of the interface are clear and labeled where necessary.
-* The poster shows an evolution of the interfaces changes.
+#### Video Prototype (10 points)
 
-##### Asthetics (5 points)
-
-* The poster have large images that show the key parts of the design.
-* The poster includes only key minimal text phrases (not paragraphs or long sentences).
-* The poster's fonts are large and legible.
-* The poster's colors are a pleasing combination and easy to read.
-
-#### Video prototype quality (10 points)
-
-##### Content (7 points)
-
-* The video prototype gives a clear idea of what your design is and how it will be used.
-* The video prototype properly shows the context of interaction.
-* The video prototype demonstrates how one would interact with your design.
-
-##### Quality (3 points)
-
-* The video prototype is appropriately edited and paced.
-* The video prototype has a reasonable level of production value.
+- __Content__: (7 points)
+  - Conveys the problem addressed by the design
+  - Conveys the design itself
+  - Conveys the context of interaction
+  - Conveys the satisfaction of the design  
+- __Presentation__: (3 points)
+  - Reasonable level of production value
+  - Appropriately edited and paced
 
 #### Website (10 points)
 
-##### Content (5 points)
+- __Content__: (5 points)
+  - Includes all of the points listed above.
+  - Key features of the design are clear.
+  - Gives insight into the design process.
+  - Links to your reports and video prototype.
+- __Presentation__: (5 points)
+  - Looks professional and is something you would consider including in a design portfolio
 
-* The website contains your team name, pictures, and a description of the problem.
-* The website provides an overview of how your design solves this problem.
-* The website includes links to your previous reports and your video prototype.
+<a name="poster_session"></a>
 
-##### Visual Design (5 points)
+## 4f: Poster Session
 
-* The website follows design principles that we have discussed in this course.
-* The website looks professional and is something you would consider including in a design portfolio.
+Attend 10:30 to 12:20, Monday, December 8, 2014.
 
-<!--
-As I said in email, I don't think this fits in with your new model of the poster session.
+Come to the poster session to show off your work and engage with your classmates.
+Present your pitch to a team of judges.
 
-#### Pitch (50 points)
+We will not be conducting any evaluation at the poster session itself. 
+Take the opportunity present your work, chat with judges,
+engage with other students, and reflect on a busy and productive quarter.
 
-* Is it appropriately timed and prepared? (less than __one minute__)
-* Does it convey the problem and your solution?
-* Does it convey the work you’ve done to refine and validate your solution?
--->
-
-<!--
-TODO: make this the last required reading, perhaps?
-
-#### Video peer reviews (1 points)
-
-`decide if we're doing video peer reviews`
-
-It is important for video prototypes to be accessible and appeal to a large
-audience. To measure how well your prototype succeeds at this, we will have each
-of you rate the videos as you watch them (including your own teams’ video).
--->
