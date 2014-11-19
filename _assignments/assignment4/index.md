@@ -232,32 +232,25 @@ This milestone will be graded on a scale of __6 points__:
 1.  __Initial Poster__: (3 points)
 2.  __Initial Pitch__: (3 points)
 
-[Assignment 4d: Communication Critique](#communication_critique)
+<a name="communication_critique"></a>
+
+## 4d: Communication Critique
+
 Due: Completed in section on Friday, December 5, 2014
+
+This is a flexible critique day. 
+The purpose of this day is to help you refine whichever of your remaining deliverables you feel needs feedback. 
+Be prepared to present your video, website, and/or poster at the critique. 
+This is the last opportunity for you to get in-class critical feedback, so use it wisely.
+
+### Submission
+
+Bring at least one of your artifacts to class (e.g., be prepared to show them on a laptop).
+
 [Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
 Due: Uploaded the night before poster session Monday, December 8, 2014. 
 [Assignment 4f: Poster Session](#poster_session)
 Attend 10:30 to 12:20, Monday, December 8, 2014.
-
-<a name="poster_website_video_pitch_critique"></a>
-
-## 4c: Poster / Website / Video / Pitch Critique
-
-Due: Completed in section on Friday, December 5, 2014
-
-This is a flexible critique day. The purpose of this day is to help you
-refine whichever of your remaining deliverables you need feedback on. Be
-prepared to present your poster, website, or video at the critique. This is the
-last opportunity for you to get in-class critical feedback, so use it wisely!
-
-### Submission
-
-Bring one of your artifacts to class (e.g. be prepared to show them on a
-laptop).
-
-### Grading
-
-This milestone will be graded on a scale of __3 points__ for participation in-class.
 
 <a name="final_everything"></a>
 
