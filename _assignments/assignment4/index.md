@@ -2,6 +2,7 @@
 layout: default
 title: "Assignment 4: Communicating Your Design"
 
+link_project4a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
@@ -68,7 +69,8 @@ You will create a video prototype, a website, a poster, and a pitch to present y
    
    - the problem
    - the design
-   - the context and satisfaction
+   - the context 
+   - the satisfaction
    
    Refer to the examples provided in lecture, as well as videos from prior classes, for creating an effective video.
 
@@ -101,82 +103,98 @@ You will create a video prototype, a website, a poster, and a pitch to present y
 
 # Deliverables
 
-<a name="website_video_checkin"></a>
+* [Assignment 4c: Poster Critique and Pitch](#poster_pitch)
+* [Assignment 4d: Communication Critique](#communication_critique)
+* [Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
+* [Assignment 4f: Poster Session](#poster_session)
 
-## 4a: Website and Video Prototype Check-In
+<a name="initial_video_prototype"></a>
+
+## 4a: Initial Video Prototype
 
 Due: Uploaded the night before class Tuesday, November 25, 2014
 
-It is important to summarize your design to convey your ideas to others, which
-you will do through a website and a video prototype. __We are going to use your
-websites and video to advertise the poster session__. While this is a check-in and
-you will receive feedback before your final submission, you should submit
-complete, high-quality versions of your website and video at this point.
+Submit your video prototype in a portable and playable format.
+It should be playable on a Windows 7/8 laptop and Mac OS X laptop without special codecs installed (e.g., H.264 in an mp4 container). 
+It should be sufficiently high-resolution for projection, but sufficiently compressed that it can be played on a typical laptop. 
+It should be less than 50 MB in size. 
 
-#### 4a.1 Website
+Remember it should probably not be more than 2 minutes long.
 
-First, follow the [contributing](../../contributing.html) instructions to set up your local machine.
-The current websites are linked below, and the source files are in the `_projects` folder of the Git repository.
+We recommend encoding your video using open-source tool HandBrake together with its iPad preset.
 
-[Aqueous](../../projects/aqueous/)
-
-[Awearness](../../projects/awearness/)
-
-[Band-It](../../projects/bandit/)
-
-[DisTrack](../../projects/distrack/)
-
-[GroupShop](../../projects/groupshop/)
-
-[IE+](../../projects/ieplus/)
-
-[Katching](../../projects/katching/)
-
-[Koala](../../projects/koala/)
-
-[Running With Friends](../../projects/runningwithfriends/)
-
-[SoundScape](../../projects/soundscape/)
-
-Submit a pull request to change your team homepage to be something other than `Test`.
-
-From there, you can decide to build your website however you want. We recommend Jekyll, as that's what the rest of the website is build upon, but feel free to use another system to generate html submit that.
-
-Your website should provide links to all of your previous reports and your video prototype.
-From your website, someone interested should be able to infer the importance of your problem
-and how your design solves this problem. Be sure to include your team names and pictures!
-
-#### 4a.2 Video Prototype
-
-Using your storyboards as a guideline, create a video prototype that illustrates your proposed design.
-Be sure to both set up the context and demonstrate the interaction of your design as part of this video.
-Refer to the videos shown in class and as part of the [video prototyping reading](../readings/#prototypingvideos).
-
-Submit your __2 minute__ video prototype in a portable and playable format. It
-should be playable on a Windows 7/8 laptop and Mac OS X laptop without any
-special codecs installed (H.264 in an mp4 file is a good candidate). It should
-be sufficiently high-resolution for projection, but sufficiently compressed that
-it can be played on a typical laptop. It should be __less than 50 MB__. If you
-submit early drafts of your video, we will test that they play properly.
+If you contact us regarding early drafts of your video, we will test that they play properly.
 
 ### Submission
 
-Submit a pull request in github to upload your website and video. Check the [contributing](../../contributing.html) page for instructions on how to submit a pull request.
+Submit via Catalyst here: 
 
-You do not need to submit a write-up for this assignment, but be sure to keep
-updating your “running write-up” (started in [assignment 3](../assignment3), updated in
-[assignment 4](#final_everything)) as details of your project evolve.
+{% if page.link_project4a != nil %}<{{ page.link_project4a }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
 This milestone will be graded on a scale of __6 points__:
 
-1.  __Your initial version of your website__: (3 points)
-2.  __Your initial version of your video prototype__: (3 points)
+1.  __Conveys Problem, Design, Context, and Satisfaction__: (3 points)
+2.  __Appropriately Polished and Timed__: (3 points)
 
-Note that these should be __complete__ and will be evaluated as such. We are simply
-giving you the opportunity to iterate and refine them before the final poster
-session.
+Your video prototype should be complete and will be evaluated as such.
+But later critique and refinement will help further improve it before the final poster session.
+
+<a name="initial_website"></a>
+
+## 4b: Initial Website
+
+Due: Uploaded before end of day Wednesday, November 26, 2014
+
+We will use your websites and video to advertise the poster session.
+Although this is in an initial website on which you will get feedback and will be able to update,
+you should submit complete and high-quality versions of your website and video.
+
+Your website will be served from a subdirectory of this course website:
+
+- [Aqueous]({{ site.baseurl }}/projects/aqueous/)
+- [Awearness]({{ site.baseurl }}/projects/awearness/)
+- [Band-It]({{ site.baseurl }}/projects/bandit/)
+- [DisTrack]({{ site.baseurl }}/projects/distrack/)
+- [GroupShop]({{ site.baseurl }}/projects/groupshop/)
+- [IE+]({{ site.baseurl }}/projects/ieplus/)
+- [Katching]({{ site.baseurl }}/projects/katching/)
+- [Koala]({{ site.baseurl }}/projects/koala/)
+- [Running With Friends]({{ site.baseurl }}/projects/runningwithfriends/)
+- [SoundScape]({{ site.baseurl }}/projects/soundscape/)
+
+You can build your website however you like, but everything needed for your site must be in your directory.
+Do not attempt to integrate with the Jekyll functionality used for this course website.
+Simply build your website and submit the set of static files to be served from your directory. 
+
+### Submission
+
+First, follow the [contributing instructions]({{ site.baseurl }}/contributing.html) 
+to submit a pull request containing the content for your project website. 
+Your request should not modify anything outside your project website.
+
+Submit simple pull requests early so that you become familiar with this functionality.
+Do not wait until the final moments to begin to learn how to do this.
+
+If you are absolutely unable to submit a pull request, submit via Catalyst here:
+
+{% if page.link_project4b != nil %}<{{ page.link_project4b }}>{% else %}`Catalyst link to be added`{% endif %}
+
+    You do not need to submit a write-up for this assignment, but be sure to keep
+    updating your “running write-up” (started in [assignment 3](../assignment3), updated in
+    [assignment 4](#final_everything)) as details of your project evolve.
+
+### Grading
+
+This milestone will be graded on a scale of __8 points__:
+
+1.  __Completeness of Content__: (3 points)
+2.  __Appropriately Polished Presentation__: (3 points)
+3.  __Submitted via Pull Request__: (2 points)
+
+Your website should be complete and will be evaluated as such.
+But later critique and refinement will help further improve it before the final poster session.
 
 <a name="poster_elevator"></a>
 
