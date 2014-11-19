@@ -84,8 +84,8 @@ You will create a video prototype, a website, a poster, and a pitch to present y
 2. Create a project website that provides an overview of the project, 
    presents your video prototype, presents your design process,
    and introduces team members. At a minimum, it should include links to your 
-   [assignment 2]({{ site.baseurl }}/assignments/assignment2/) report, 
-   your [assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, and your poster.
+   [Assignment 2]({{ site.baseurl }}/assignments/assignment2/) report, 
+   your [Assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, and your poster.
    Optionally, also include your presentations or other materials.
    
    Be sure you have updated any documents that course staff said needed fixed before posting 
@@ -102,11 +102,6 @@ You will create a video prototype, a website, a poster, and a pitch to present y
    This pitch should convince the audience your problem was worth investigating and that your design effectively addresses it.
 
 # Deliverables
-
-* [Assignment 4c: Poster Critique and Pitch](#poster_pitch)
-* [Assignment 4d: Communication Critique](#communication_critique)
-* [Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
-* [Assignment 4f: Poster Session](#poster_session)
 
 <a name="initial_video_prototype"></a>
 
@@ -181,10 +176,6 @@ If you are absolutely unable to submit a pull request, submit via Catalyst here:
 
 {% if page.link_project4b != nil %}<{{ page.link_project4b }}>{% else %}`Catalyst link to be added`{% endif %}
 
-    You do not need to submit a write-up for this assignment, but be sure to keep
-    updating your “running write-up” (started in [assignment 3](../assignment3), updated in
-    [assignment 4](#final_everything)) as details of your project evolve.
-
 ### Grading
 
 This milestone will be graded on a scale of __8 points__:
@@ -196,48 +187,41 @@ This milestone will be graded on a scale of __8 points__:
 Your website should be complete and will be evaluated as such.
 But later critique and refinement will help further improve it before the final poster session.
 
-<a name="poster_elevator"></a>
+<a name="poster_pitch"></a>
 
-## 4b: Poster Critique and Elevator Pitch
+## 4c Poster Critique and Pitch
 
 Due: Uploaded the night before class Thursday, December 4, 2014
 
-#### 4b.1 Poster
-
 Your poster should include:
 
-* Logo
-* Project Title
-* Value Proposition
-* Basic Problem
-* How You Solve It / Purpose of the Project
-* Key Features
-* Design Iteration
+- Logo
+- Project Title
+- Problem
+- Value Proposition
+- Key Functionality
+- Design Process and Iteration
 
-Your poster should include _screenshots_ and a _small amount of text_, not full
-sentences. There is a 32"x40" PowerPoint Template available [here](posters/sample-poster.ppt).
+Your poster should include images and limited amounts of text.
 
-Feel free to use the template as is, modify it, or not use it at all. There are
-additional examples of prior posters [here](posters/).
+There is a 32"x40" PowerPoint Template available [here](posters/sample-poster.ppt).
+You should significantly modify the template to be unique and represent your project.
+There are additional examples of prior posters [here](posters/).
 
-Your poster may be in PPT, PPTX, or PDF format. We have a color plotter that
-can print posters this size. Your source file is due as stated above. We will
-then coordinate proofreading and printing with you.
+During the final poster session, your team will give a one minute pitch to a small group of judges. 
 
-#### 4.b2 Elevator Pitch
-
-During the final poster session, you will be giving a one-minute ‘elevator
-pitch’ to a small group of judges. This pitch should convey your problem, your
-solution, and the work you did this quarter to refine and validate your
-solution.
-
-__Be prepared to give this pitch in class December 4__, at which point course staff and
-other students will give feedback so you can improve your pitch before the final
-poster presentation.
+Be prepared to give this pitch in class December 4.
+Course staff and other students will give feedback so you can improve before the final poster session.
 
 ### Submission
 
-Submit your poster via Catalyst here: {% if page.link_project4b != nil %}<{{ page.link_project4b }}>{% else %}`Catalyst link to be added`{% endif %}
+Submit your poster via Catalyst here: 
+
+{% if page.link_project4c != nil %}<{{ page.link_project4c }}>{% else %}`Catalyst link to be added`{% endif %}
+
+Your poster may be in PPT, PPTX, or PDF format. 
+We have a color plotter that can print posters this size. 
+Your source file is due as above, we will then coordinate with you for proofreading and printing.
 
 Be prepared to give your elevator pitch in class.
 
@@ -245,8 +229,15 @@ Be prepared to give your elevator pitch in class.
 
 This milestone will be graded on a scale of __6 points__:
 
-1.  __Initial draft of the poster__: (3 points)
-2.  __Participation in-class__: (3 points)
+1.  __Initial Poster__: (3 points)
+2.  __Initial Pitch__: (3 points)
+
+[Assignment 4d: Communication Critique](#communication_critique)
+Due: Completed in section on Friday, December 5, 2014
+[Assignment 4e: Final Poster, Final Video, Final Website](#final_everything)
+Due: Uploaded the night before poster session Monday, December 8, 2014. 
+[Assignment 4f: Poster Session](#poster_session)
+Attend 10:30 to 12:20, Monday, December 8, 2014.
 
 <a name="poster_website_video_pitch_critique"></a>
 
