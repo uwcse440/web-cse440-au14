@@ -16,16 +16,18 @@ a __website__, a __poster__, and a __pitch__.
 
 This assignment is worth __15%__ of your overall course grade:
 
-`links are wrong`
+`check links work`
 
-- __5%__ for [Assignment 4e: Final Video Prototype](#final_everything)
+- __4%__ for [Assignment 4e: Final Video Prototype](#final_everything)
 - __4%__ for [Assignment 4e: Final Website](#final_everything)
 - __4%__ for [Assignment 4e: Final Poster](#final_everything)
-- __2%__ for the milestones 
-  - __0.5%__ for [Assignment 4a: Initial Video Prototype](#initial_video_prototype)
+- __3%__ for the milestones 
+  - __1%__ for [Assignment 4a: Initial Video Prototype](#initial_video_prototype)
   - __1%__ for [Assignment 4b: Initial Website](#initial_website)
   - __1%__ for [Assignment 4c: Poster Critique and Pitch](#poster_pitch) 
-  - __0.5%__ for [Assignment 4d: Communication Critique](#communication_critique) 
+
+Note [Assignment 4d: Communication Critique](#communication_critique) and 
+[Assignment 4f: Poster Session](#poster_session) are intentionally not graded.
 
 # Milestones
 
@@ -57,35 +59,45 @@ This is a group assignment, consisting of six milestones.
 
 # Project Description
 
-In this assignment, you will take a variety of approaches to communicating your design. You will create a video prototype, website, poster, and elevator pitch to describe your work from the entire quarter.
+In this assignment, you communicate your design in several forms.
+You will create a video prototype, a website, a poster, and a pitch to present your work from the entire quarter.
 
-1. You will create a video prototype that illustrates your
-   proposed design. Use the storyboards you created in previous assignment as a
-   basis for your video prototype. Be sure you both set up the context and show
-   the interaction with your design. Refer to the examples provided in lecture
-   and videos from prior classes for more information on how to create a video
-   prototype.
+1. Create a video prototype that illustrates your proposed design. 
+   Use the storyboards you created as a basis for your video prototype. 
+   Be sure you video conveys all of:
+   
+   - the problem
+   - the design
+   - the context and satisfaction
+   
+   Refer to the examples provided in lecture, as well as videos from prior classes, for creating an effective video.
 
-   A modern smartphone camera can produce high-enough quality video
-   for this assignment. However, if your group does not have access to a camera,
-   we can loan you a low cost camera; please email us as soon as possible if
-   this is the case.
+   It is critical that your video be short enough to remain engaging while delivering its content.
+   Your video prototype should probably not be more than 2 minutes long.
 
-   Your videos should not be longer than __2 minutes__.
+   A modern phone can capture video of adequate quality for this assignment. 
+   However, if your group does not have access to a camera, we can loan you a low cost camera.
+   Please contact us immediately if this is a need.
 
-2. You will create a project website that provides an overview of the
-   project, presents your video prototype, presents your design prototypes,
-   introduces team members (with pictures) and provides a link to your final
-   write-ups from [assignment 2](../assignment2/) and [assignment 3](../assignment3) and your poster.
+2. Create a project website that provides an overview of the project, 
+   presents your video prototype, presents your design process,
+   and introduces team members. At a minimum, it should include links to your 
+   [assignment 2]({{ site.baseurl }}/assignments/assignment2/) report, 
+   your [assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, and your poster.
+   Optionally, also include your presentations or other materials.
+   
+   Be sure you have updated any documents that course staff said needed fixed before posting 
+   (e.g., any report that accidentally included participant identifying information). 
 
-3. You will create a poster that explains your design to a general audience.
-   The goal of the poster is to learn how to present your work in a
-   visual form to interested parties from industry and across campus and how to
-   quickly convey the most important aspects of your work. The poster must be
-   32"x40" (portrait, vertical). You should be able to summarize the problem and your design
-   in an elevator pitch __no more than one minute__ in length. This pitch should convince the audience that your
-   problem was worth investigating and that your design effectively solves the
-   problem.
+3. Create a poster that communicates your design and your design process to a general audience.
+   The goal is to present your work in a visual form to interested parties from across campus or from industry. 
+   You need to quickly convey the most important aspects of your work. 
+   The poster must be 32"x40" (portrait, vertical). 
+   
+4. Create a pitch that you can deliver together with your poster.
+   This should summarize the problem and your design.
+   It should be no more than 1 minute long.
+   This pitch should convince the audience your problem was worth investigating and that your design effectively addresses it.
 
 # Deliverables
 
