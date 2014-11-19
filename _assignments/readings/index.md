@@ -5,6 +5,7 @@ title: "Readings"
 link_reading_contextual_inquiry: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_reading_critique: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_reading_prototyping_videos: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_reading_research: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
 
@@ -147,3 +148,23 @@ We will make additional resources available for students to read as interested.
   Submit via Catalyst here:
   
   {% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Catalyst link to be added`{% endif %}
+
+### Reading 5: Research Paper
+<a name="research"></a>
+
+Due: Uploaded by the end of the day Friday, December 5, 2014.
+
+Find and read a research paper related to your project. The paper does not necessarily have to describe an app or device. For example, the research paper may describing the results of surveys or interviews on how people currently track something related to your project. We've discussed a number of research papers in this class from HCI-related conferences such as [CHI](http://chi2015.acm.org/), [UIST](http://www.acm.org/uist/uist2014/), and [UbiComp](http://ubicomp.org/ubicomp2014/), but you might find a research paper in another related field such as psychology or medicine.
+
+Two sites that work well for finding research papers are [Google Scholar](http://scholar.google.com/) and the [ACM Digital Library](http://dl.acm.org/). The search tool for the ACM Digital Library is pretty terrible, but often with the help of a Google search of the Digital Library site you can find what you're looking for. Like [this](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#newwindow=1&q=Personal+Informatics+site:dl.acm.org). These resources are easiest to access while on the UW network, but you can also access them from [off campus](http://www.lib.washington.edu/help/connect.html).
+
+- In one paragraph, summarize the findings of the research paper. What were the main points of this paper? Given the paper, do you believe those main points?
+- In one paragraph, describe how the paper applies to your project. After reading this paper, is there anything you wish you had done differently in your design? Do you think you've designed something that's improved upon what this paper discusses?
+
+If you wish, you can do this assignment in __pairs__ from your project team. Please have only one person submit, and remember to include both of your names in the submission.
+
+No more than one page of text in PDF format. __Please also attach a PDF of the research paper you read!__ It'll make our lives much easier.
+
+Submit via Catalyst here:
+  
+{% if page.link_reading_research != nil %}<{{ page.link_reading_research }}>{% else %}`Catalyst link to be added`{% endif %}
