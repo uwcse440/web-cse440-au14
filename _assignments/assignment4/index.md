@@ -4,7 +4,7 @@ title: "Assignment 4: Communicating Your Design"
 
 link_project4a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
-link_project4d: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project4c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
 
@@ -187,7 +187,7 @@ But later critique and refinement will help further improve it before the final 
 
 <a name="poster_pitch"></a>
 
-## 4c Poster Critique and Pitch
+## 4c: Poster Critique and Pitch
 
 Due: Uploaded the night before class Thursday, December 4, 2014
 
