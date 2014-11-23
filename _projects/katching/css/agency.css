@@ -55,7 +55,9 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+#frame {
+    text-align: center;
+}
 .img-centered {
     margin: 0 auto;
 }
