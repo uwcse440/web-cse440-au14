@@ -86,7 +86,7 @@ lectures:
     name: "Interface Implementation"
     slides: "slides/lecture/l15-interfaceimplementation.pdf"
   - date: "2014-11-25"
-    name: "Rapid Prototyping"
+    name: "Closing Thoughts"
   - date: "2014-12-04"
     name: "Movie Day"
 
@@ -268,6 +268,7 @@ majors:
   - date: "2014-12-02"
     name: "Exam"
     location: "lectures"
+    link: "slides/lecture/l17-combinedexamreview.pdf"
   - date: "2014-12-08"
     name: "Poster Session"
     location: "postersession"
