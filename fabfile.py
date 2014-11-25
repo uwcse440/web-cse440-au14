@@ -38,12 +38,11 @@ def deploy():
     # Push up to the server staging directory
     fabric.api.put('_site/*', '~/fabric_staging/web-cse440-au14/')
 
-    # Get group write permissions
-    fabric.api.run('chmod -R g+w ~/fabric_staging/web-cse440-au14/')
-
     # And sync into the deployment directory
     fabric.api.run('rsync -r -c --delete ~/fabric_staging/web-cse440-au14/ /cse/web/courses/cse440/14au/')
 
+    # Set group write permissions
+    fabric.api.run('chmod -R g+w /cse/web/courses/cse440/14au/')
 
 def serve():
     fabric.api.local('jekyll serve --config _config.yml,_config-dev.yml --watch --force_polling')
