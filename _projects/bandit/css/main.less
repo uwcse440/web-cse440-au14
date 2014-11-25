@@ -15,16 +15,31 @@ body {
 			padding-left: 2em;
 
 			li {
-				width: 100%;
-				border: 1px solid black;
-				border-bottom: none;
-				border-radius: 0;
-				&:last-child {
-					border-bottom: 1px solid black;
+				width: 90%;
+				padding: 0;
+				list-style-type: none;
+
+				a {
+					display: inline-block;
+					margin: 0;
+					padding: 5px 0;
+					width: 100%;
+					border: 1px solid black;
+					border-bottom: none;
+					border-radius: 0;
+					color: white;
+					font-size: 140%;
+
+					&:last-child {
+						border-bottom: 1px solid black;
+					}
+					background-color: @classic-black;
+
+					&:hover, &:focus {
+						color: @classic-red;
+						text-decoration: none;
+					}
 				}
-				background-color: @classic-black;
-				color: white;
-				font-size: 120%;
 			}
 		}
 
