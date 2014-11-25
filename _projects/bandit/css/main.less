@@ -10,6 +10,13 @@ body {
 		padding-top: 42px;
 		text-align: right;
 	}
+	h1, h2 {
+		color: @classic-black;
+	}
+	h3, h4 {
+		margin-top: 0;
+		color: @classic-red;
+	}
 
 	#sidebar {
 
@@ -17,7 +24,7 @@ body {
 			padding-left: 2em;
 
 			li {
-				width: 90%;
+				width: 65%;
 				padding: 0;
 				list-style-type: none;
 
@@ -52,10 +59,22 @@ body {
 		#sidebar {
 			top: 12em;
 		}
+		#sidebar, #header div:first-child {
+			padding-left: 0;
+		}
 	}
 
 	div.chunkspace {
 		height: 4em;
+	}
+
+	.snippet {
+		font-size: 160%;
+		strong {
+			color: @classic-red;
+			font-size: 120%;
+		}
+		margin: 20px 5px;
 	}
 }
 
