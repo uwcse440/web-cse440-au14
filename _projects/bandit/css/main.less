@@ -53,7 +53,7 @@ body {
 		}
 	}
 	@media (min-width: 987px){
-		#sidebar, #header {
+		#sidebar, #header div:first-child {
 			position: fixed;
 		}
 		#sidebar {
@@ -75,6 +75,16 @@ body {
 			font-size: 120%;
 		}
 		margin: 20px 5px;
+	}
+
+	#team {
+		p {
+			display: inline-block;
+
+			&.col2 {
+				margin-left: 50px;
+			}
+		}
 	}
 }
 
