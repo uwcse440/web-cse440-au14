@@ -19,7 +19,7 @@ body {
 	}
 
 	#sidebar {
-
+		z-index: 9;
 		ul {
 			padding-left: 2em;
 
@@ -76,13 +76,38 @@ body {
 		}
 		margin: 20px 5px;
 	}
+	.bump-up img {
+		position: relative;
+		top: -4em;
+	}
+	.align-right {
+		text-align: right;
+	}
+	.white {
+		color: white;
+	}
 
 	#team {
 		p {
 			display: inline-block;
+		}
 
-			&.col2 {
-				margin-left: 50px;
+		.snippet {
+			margin: 0;
+		}
+
+		.bump-up {
+			position: relative;
+			top: -4em;
+			img {
+				position: static;
+			}
+
+			&.more {
+				top: -6em;
+			}
+			&.less {
+				top: -2em;
 			}
 		}
 	}
