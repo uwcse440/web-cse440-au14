@@ -6,7 +6,12 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,cursive;
+}
+.roundrect {
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
 }
 
 .text-muted {
