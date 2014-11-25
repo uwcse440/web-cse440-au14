@@ -26,6 +26,9 @@ locations:
   officehourspresentationworkshop:
     - time: "3:00 - 5:00"
       location: "CSE 305"
+  officehoursexamreview:
+    - time: "12:00 - 1:00"
+      location: "CSE 305"
 
 holidays:
   - date: "2014-11-11"
@@ -147,13 +150,16 @@ officehours:
     location: officehoursjames
   - date: "2014-11-19"
     name: "Presentation Workshop"
-    location: "officehourspresentationworkshop"
+    location: officehourspresentationworkshop
   - date: "2014-11-20"
     name: "Daniel Office Hour"
     location: officehoursdaniel
   - date: "2014-11-25"
     name: "James Office Hour"
     location: officehoursjames
+  - date: "2014-12-01"
+    name: "Exam Q&A"
+    location: officehoursexamreview
   - date: "2014-12-02"
     name: "James Office Hour"
     location: officehoursjames
