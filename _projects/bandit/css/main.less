@@ -3,6 +3,7 @@
 
 body {
 	font-family: Calibri, Arial, sans-serif !important;
+	background: url(../images/band.jpg) center 7em no-repeat;
 
 	h1 {
 		font-size: 30px;
@@ -11,6 +12,7 @@ body {
 	}
 
 	#sidebar {
+
 		ul {
 			padding-left: 2em;
 
@@ -42,7 +44,18 @@ body {
 				}
 			}
 		}
+	}
+	@media (min-width: 987px){
+		#sidebar, #header {
+			position: fixed;
+		}
+		#sidebar {
+			top: 12em;
+		}
+	}
 
+	div.chunkspace {
+		height: 4em;
 	}
 }
 
