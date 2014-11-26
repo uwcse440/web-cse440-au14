@@ -12,11 +12,15 @@ body {
        -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
        box-sizing: border-box;
-       font-family: 'Source Sans Pro', sans-serif;
+       font-family: 'Lato', sans-serif;
 }
 
 .caps {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+
+a {
+	font-family: 'Oswald', sans-serif;
 }
 
 .l-box {
