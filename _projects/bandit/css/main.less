@@ -10,12 +10,19 @@ body {
 		padding-top: 42px;
 		text-align: right;
 	}
-	h1, h2 {
+	h1, h2, h4 {
 		color: @classic-black;
 	}
-	h3, h4 {
+	h3 {
 		margin-top: 0;
 		color: @classic-red;
+	}
+	h4 {
+		font-weight: bold;
+		text-align: center;
+	}
+	hr {
+		border: solid 1px @classic-black;
 	}
 
 	#sidebar {
@@ -109,6 +116,12 @@ body {
 			&.less {
 				top: -2em;
 			}
+		}
+	}
+
+	#reports {
+		img {
+			margin: 0 6em;
 		}
 	}
 }
