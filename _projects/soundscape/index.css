@@ -1,0 +1,180 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Avro', sans-serif;
+    font-size: 15pt;
+}
+
+#banner
+{
+    background-color: #CCE8F4;
+    background-position: center;
+    text-align: center;
+}
+
+#banner > img {
+    width: 550px;
+    height: 210px;
+}
+
+nav ul li a {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 15pt;
+    color: #E8E8E8;
+    transition: all 0.2s ease;
+}
+
+nav ul li a:hover{
+     color: white;
+     border-bottom: 2px solid white;
+ }
+
+nav ul li {
+    display: inline-block;
+    margin: 0 2em;
+}
+
+a.active{
+    border-bottom: 2px solid #E8E8E8;
+}
+
+nav ul {
+    padding: 20px;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    position:absolute
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    /*background: rgba(172, 188, 230, 0.90);*/
+    background: rgba(255, 72, 80, 0.96);
+}
+
+nav.stick {
+    position: fixed;
+    top: 0;
+}
+
+#video_sec {
+    text-align: center;
+}
+
+h2 {
+    color:#008AE6;
+    font-family: corbel, sans-serif;
+    font-weight: bold;
+    font-size: 30pt;
+    padding: 15px;
+    box-shadow: inset 0 -12px 12px -13px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+
+.sections {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+section.active {}
+
+section {
+    margin-bottom: 3em;
+}
+
+#overview > p {
+    text-indent: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.picture {
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    color:#008AE6;
+    font-family: corbel;
+    font-weight: bold;
+    font-size: 22pt;
+}
+
+footer {
+    height: 700px;
+    background: #f7f7f7;
+}
+
+#docs li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+#docs {
+    clear: both;
+    text-align: center;
+}
+
+.team {
+    display: inline-block;
+    float: left;
+    margin: 0 1em;
+}
+
+.break {
+    clear: left;
+}
+
+#docs li {
+    padding: 10px;
+    background-color: #CCE8F4;
+    border-radius: 6px;
+}
+
+.group_pic {
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.team {
+    width: 40%;
+}
+
+#overview li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.team h3 {
+    text-align: center;
+}
+
+.design_pic {
+    width: 263px;
+    height: 600px;
+    margin-left: 30px;
+}
+
+#design_pics {
+    text-align: center;
+}
+
+#team {
+    overflow: hidden;
+}
