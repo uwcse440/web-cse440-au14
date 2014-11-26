@@ -4,6 +4,10 @@
 body {
 	font-family: Calibri, Arial, sans-serif !important;
 	background: url(../images/band.jpg) center 7em no-repeat;
+	width: 100%;
+	&.mockup {
+		background-image: none;
+	}
 
 	h1 {
 		font-size: 30px;
@@ -23,6 +27,9 @@ body {
 	}
 	hr {
 		border: solid 1px @classic-black;
+	}
+	a.logo{
+		float: right;
 	}
 
 	#sidebar {
@@ -73,7 +80,7 @@ body {
 
 	div.chunkspace {
 		height: 4em;
-		
+
 	}
 
 	.snippet {
@@ -123,6 +130,16 @@ body {
 	#reports {
 		img {
 			margin: 0 6em;
+		}
+	}
+
+	#tasks {
+		position: relative;
+		top: 15em;
+		left: 15em;
+
+		p {
+			font-size: 110%;
 		}
 	}
 }
