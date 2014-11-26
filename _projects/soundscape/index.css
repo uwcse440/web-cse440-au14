@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'Avro', sans-serif;
+    font-family: corbel, sans-serif;
     font-size: 15pt;
 }
 
@@ -66,6 +66,10 @@ nav.stick {
     text-align: center;
 }
 
+iframe {
+    width: 100%;
+}
+
 h2 {
     color:#008AE6;
     font-family: corbel, sans-serif;
@@ -87,6 +91,7 @@ section.active {}
 
 section {
     margin-bottom: 3em;
+    width:100%;
 }
 
 #overview > p {
@@ -150,10 +155,21 @@ footer {
     width: 150px;
     height: 150px;
     float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
 }
 
 .team {
-    width: 40%;
+    width: 350px;
+    background: #CCE8F4;
+    border-radius: 10pt;
+    margin-bottom: 20pt;
+}
+
+.team p {
+    margin: 0;
 }
 
 #overview li {
@@ -162,13 +178,16 @@ footer {
 }
 
 .team h3 {
+    /*margin-right: 5px;*/
+    margin-top: 0;
+    margin-bottom: 0;
     text-align: center;
 }
 
 .design_pic {
-    width: 263px;
-    height: 600px;
-    margin-left: 30px;
+    width: 22%;
+    /*height: 600px;*/
+    margin-left: 20px;
 }
 
 #design_pics {
@@ -177,4 +196,32 @@ footer {
 
 #team {
     overflow: hidden;
+}
+
+#game {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+#problem {
+    clear: left;
+}
+
+#pic_note {
+    font-size: 12pt;
+    text-align: center;
+    color: #606060;
+}
+
+#members {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    overflow: hidden;
+    font-family: #606060;
+}
+
+#members li {
+    width: 45%;
 }
