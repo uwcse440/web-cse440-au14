@@ -1,0 +1,129 @@
+body {
+  font-family: Calibri, Arial, sans-serif !important;
+  background: url(../images/band.jpg) center 7em no-repeat;
+  width: 100%;
+}
+body.mockup {
+  background-image: none;
+}
+body h1 {
+  font-size: 30px;
+  padding-top: 42px;
+  text-align: right;
+}
+body h1,
+body h2,
+body h4 {
+  color: #333333;
+}
+body h3 {
+  margin-top: 0;
+  color: #ec432d;
+}
+body h4 {
+  font-weight: bold;
+  text-align: center;
+}
+body hr {
+  border: solid 1px #333333;
+}
+body a.logo {
+  float: right;
+}
+body #sidebar {
+  z-index: 9;
+}
+body #sidebar ul {
+  padding-left: 2em;
+}
+body #sidebar ul li {
+  width: 65%;
+  padding: 0;
+  list-style-type: none;
+}
+body #sidebar ul li a {
+  display: inline-block;
+  margin: 0;
+  padding: 5px 0;
+  width: 100%;
+  border: 1px solid black;
+  border-bottom: none;
+  border-radius: 0;
+  color: white;
+  font-size: 140%;
+  background-color: #333333;
+}
+body #sidebar ul li a:last-child {
+  border-bottom: 1px solid black;
+}
+body #sidebar ul li a:hover,
+body #sidebar ul li a:focus {
+  color: #ec432d;
+  text-decoration: none;
+}
+@media (min-width: 987px) {
+  body #sidebar,
+  body #header div:first-child {
+    position: fixed;
+  }
+  body #sidebar {
+    top: 12em;
+  }
+  body #sidebar,
+  body #header div:first-child {
+    padding-left: 0;
+  }
+}
+body div.chunkspace {
+  height: 4em;
+}
+body .snippet {
+  font-size: 160%;
+  margin: 20px 5px;
+}
+body .snippet strong {
+  color: #ec432d;
+  font-size: 120%;
+}
+body .bump-up img {
+  position: relative;
+  top: -4em;
+}
+body .align-right {
+  text-align: right;
+}
+body .white {
+  color: white;
+}
+body #team p {
+  display: inline-block;
+}
+body #team .snippet {
+  margin: 0;
+}
+body #team .bump-up {
+  position: relative;
+  top: -4em;
+}
+body #team .bump-up img {
+  position: static;
+}
+body #team .bump-up.more {
+  top: -6em;
+}
+body #team .bump-up.less {
+  top: -2em;
+}
+body #reports img {
+  margin: 0 6em;
+}
+body #tasks {
+  position: relative;
+  top: 15em;
+  left: 15em;
+}
+body #tasks p {
+  font-size: 110%;
+}
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
