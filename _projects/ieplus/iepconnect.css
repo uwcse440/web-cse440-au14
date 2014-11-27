@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{ color:white;
+background-image:url(images/iepbuttongray.png);
+height:120px;
+padding-top:1px;
+}
+
+h1{ padding:1px;
+padding-left:20px;
+font-size:60px;
+margin-top:6px;
+margin-bottom:0px;
+padding-bottom:0px;
+}
+
+h2{ color:#1c94c4;
+margin-top:0px;
+padding-top:0px;
+padding-left:20px;
+font-size:22px;
+}
+
+h3{ color:#eb8f00;
+}
+
+table,tr,td { 
+text-align:left;vertical-align:top;}
+
+body{
+background-image:url(images/ui-bg_gloss-wave_35_f6a828_500x100.png);
+}
+
+#tabs {
+height:10%; 
+width:100%; 
+background-color:#DFDFDF; 
+position: fixed; 
+left:0px; 
+top:0px;
+}
+
+.tab{
+text-align:center;
+vertical-align:center;
+height:90%;
+width:16%; 
+background-color:#F2F2F2; 
+float:left; 
+margin: 3px;
+font-size: 18pt;
+border: 1px solid;
+border-radius: 15px;
+box-shadow: 5px 5px 5px #7F7F7F;
+
+
+}
+
+.screens{
+ height:100%;
+ width:100%;
+ padding-left:0px;
+}
+#screen1{
+ background-color:#DFDFDF;
+}
+
+#screen2{
+ background-color:#CCCCCC;
+}
+
+#screen3{
+ background-color:B4B4B4;
+ }
+ 
+ #screen4{
+background-color:#DFDFDF;
+ }
+ 
+ #screen5{
+background-color:#CCCCCC;
+ }
+ 
+ #screen6{
+background-color:B4B4B4;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}

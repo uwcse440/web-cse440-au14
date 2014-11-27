@@ -1,4 +1,122 @@
+<!doctype html>
 <html>
-<h1>IEP-Connect</h1>
-<p>Creating applications that support the educational success of students with special needs</p>
+<head>
+  <meta charset="utf-8">
+  <title>Untitled Document</title>
+  <link rel="stylesheet" type="text/css" href="iepconnect.css">
+  <link href="jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+  <link href="jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+  <link href="jQueryAssets/jquery.ui.tabs.min.css" rel="stylesheet" type="text/css">
+  <script src="jQueryAssets/jquery-1.11.1.min.js" type="text/javascript"></script>
+  <script src="jQueryAssets/jquery.ui-1.10.4.tabs.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <header>
+    <h1>IEP-CONNECT</h1>
+    <h2>Individual Education Tracking for IEP's</h2>
+  </header>
+  
+<div id="Tabs1">
+    <ul>
+      <li><a href="#tabs-1">Overview</a></li>
+      <li><a href="#tabs-2">Design</a></li>
+      <li><a href="#tabs-3">Video</a></li>
+      <li><a href="#tabs-4">Demo Classroom</a></li>
+      <li><a href="#tabs-5">Demo Parent View</a></li>
+      <li><a href="#tabs-6">About Us</a></li>
+    </ul>
+    <div id="tabs-1">
+      <h3> Problem and Solution Overview </h3>
+      <table width="100%" border="0" cellpadding="10">
+    <tbody>
+      <tr>
+        <td><img src="images/20141012_211337.jpg" width="326" height="244" alt=""/></td>
+        <td><p>Individualized Education Programs (IEPs) were created in an effort to 	ensure special education students received appropriate accommodations and measurable goals to work towards during their educational careers. The potential for IEPs to be helpful and instructive documents collaborated on by parents, teachers, and students, is more often than not lost in the difficulty of tracking goal progress and miscommunication between stakeholders. To address this critical needs area in education we propose an IEP data collection app for teachers to be synced with a parent/teacher web portal to create clear channels for purposeful and accurate communication. 
+  </p></td>
+      </tr>
+    </tbody>
+  </table>
+ </div>
+ 
+  <div id="tabs-2">
+    <h3> Design Process </h3>
+    
+    <table width="100%" border="0" cellpadding="10">
+    <tbody>
+      <tr>
+        <td><img src="images/usability testing.jpg" width="326" height="244" alt=""/></td>
+        <td>  <p>
+      <ul>
+        <li><a href="documents/2dIEPContextualInquiryReview.pdf" title="IEP Connect Contextual Inquiry" target="new">Contextual Inquiry</a></li>
+        
+        <li><a href="documents/2dIEPContextualInquiryReview.pdf" title="IEP Connect Task analysis and sketches" target="new">Task analysis and sketches</a></li>
+       
+        <li><a href="documents/2dIEPContextualInquiryReview.pdf" title="IEP Connect Low fidelity prototype and user testing" target="new">Low fidelity prototype and user testing</a></li>
+        
+        <li><a href="documents/2dIEPContextualInquiryReview.pdf" title="Digital Mock-ups" target="new">Digital Mock-ups</a></li>
+    </ul>
+  </p></td>
+      </tr>
+    </tbody>
+  </table>
+ 
+  </div>
+  
+  <div id="tabs-3">
+    <h3> IEP-Connect Video </h3>
+      <video width="640" height="480" controls>
+    <source src="iepconnectmovie.mp4" type="video/mp4">
+  </video>
+    </div>
+    
+    
+  <div id="tabs-4">
+    <h3> IEP-Connect Classroom Demo </h3>
+    <table width="100%" border="0" cellpadding="10">
+    <tbody>
+      <tr>
+        <td id="democr"><iframe src="democlass_homescreen.html" name="classroomdemo" width="425" height="550"></iframe></td>
+        
+        <td><p>IEP-Connect: App Tracker
+Focus: Timely data collection aide for teachers
+Teachers with tablet access are able to track IEP goals in a systematic way using IEP-Connect. With this app teachers don’t need to worry about remembering on which piece of paper they wrote down an incident of goal progress, they can simply click to the student profile and quickly record this information in real time. With regular app usage, the growth of information to share and analyze between parents and teachers concerning IEP progress is guaranteed to  increase</p>
+</td>
+      </tr>
+    </tbody>
+  </table>    
+    </div>
+    <div id="tabs-5">
+      <h3>IEP-Connect: Parent Portal </h3>
+      <p>With the IEP-Connect web portal, parents no longer have to track-down teachers in order to receive updates on their child’s progress. The parent view of the web portal syncs directly with the IEP-Connect Classroom Tracker providing real time updates to parents. Parents can see recent scores and provided accommodations in the context of the child’s progress history. Additionally, the data is provided at varying levels of granularity from progress symbols to percentage of goal completed to the specific scores of a recent assessment. The web portal also fosters open communication between all members of the IEP group by providing an interface to converse with the IEP team. The conversations are tagged with their topic allowing the conversations to be filtered by category allowing quick updates on IEP topics, and ensuring valuable information in conversations can be found later. </p>
+      
+      <iframe src="demoparentportal_homescreen.html" name="demo" width="1080" height="800"></iframe>
+  </div>
+     <div id="tabs-6">
+      <h3>Meet the IEP-Connect Team</h3>
+      <table width="100%" border="0" cellpadding="10">
+  <tbody>
+          <tr>
+            <td><img src="images/lane.jpg" width="132" height="171" alt=""/></td>
+            <td><img src="images/kristen.png" width="132" height="171" alt=""/></td>
+            <td><img src="images/jessica.jpg" width="132" height="171" alt=""/></td>
+            <td><img src="images/monique.jpg" width="132" height="171" alt=""/></td>
+          </tr>
+          <tr>
+            <td><h3>Lane</h3></td>
+            <td><h3>Kristen</h3></td>
+            <td><h3>Jessica</h3></td>
+            <td><h3>Monique</h3></td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+<script type="text/javascript">
+  $(function() {
+      $( "#Tabs1" ).tabs(); 
+  });
+  </script>
+</body>
 </html>
