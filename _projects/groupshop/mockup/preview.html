@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fluid UI Preview: iPhone, Android and Tablet mockups</title>
+<meta name="Description" content="Fluid UI: Rapidly prototype Android and iPhone apps right now">
+<meta name="Keywords" content="mockups, wireframe, prototype, android, iPhone, tablet, mobile, rapid, app, apps">
+
+<style>
+html,body{margin:0px;padding:0px;overflow:hidden;}
+body{
+	width:99%;
+	background:#f8f8f8;
+	font-family: helvetica;
+} 
+.title{padding-left:20px;padding-top:20px;font:bold 14px/20px helvetica;color:#999;width:99%;background:#f8f8f8;}
+.previewlogo{position:absolute;bottom:20px;right:20px;width:111px;height:49px;background:url(data/img/FluidUI-logo-trans-BW.png) 0px 0px;}
+
+#previewPage {
+	border:10px solid #333;
+	border-radius:8px;
+	background-color:#fff;
+	box-shadow: 0px 0px 8px #000;
+
+	overflow:hidden;
+
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+
+	transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+}
+
+#previewFrameParent {
+	/* fixed position solves problem of the preview jumping
+	 * when changing orientation in certain cases on Chrome */
+	position: fixed;
+	transition: left 0.3s, top 0.3s;
+}
+
+#previewFrameParent.to-landscape {
+	-webkit-animation-name: to-landscape;
+	-webkit-animation-duration: 0.5s;
+
+	animation-name: to-landscape;
+	animation-duration: 0.5s;
+}
+
+#previewFrameParent.to-portrait {
+	-webkit-animation-name: to-portrait;
+	-webkit-animation-duration: 0.5s;
+
+	animation-name: to-portrait;
+	animation-duration: 0.5s;
+}
+
+@-webkit-keyframes to-landscape {
+	from { -webkit-transform: rotate( 90deg); }
+	to   { -webkit-transform: rotate(  0deg); }
+}
+
+@-webkit-keyframes to-portrait {
+	from { -webkit-transform: rotate(-90deg); }
+	to   { -webkit-transform: rotate(  0deg); }
+}
+
+@keyframes to-landscape {
+	from { transform: rotate( 90deg); }
+	to   { transform: rotate(  0deg); }
+}
+
+@keyframes to-portrait {
+	from { transform: rotate(-90deg); }
+	to   { transform: rotate(  0deg); }
+}
+
+.icon{width:56px;height:56px;border:2px solid #4C4C4C;border-radius:5px;box-shadow:0px 0px 4px #333;position:absolute;top:4px;left:6px;}
+.icon,.icon2{opacity:1;}
+.icon:hover,.icon2:hover{cursor:pointer;-webkit-transform:translateY(1px) !important;}
+
+#qrCode{
+	top:20px;
+	right:20px;
+	position:absolute;
+	height:60px;
+	width:60px;
+}
+#qrCodeButton{
+	background:url(img/spritesheet-payments.png) -214px 93px;
+}
+
+#qrHolder{
+    top: 87px;
+    right: 20px;
+    position: absolute;
+    display: none;
+    z-index: 10;
+    cursor: none;
+}
+
+#qrHolder img {
+	background-color: #fff;
+    border: solid 5px;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0);
+    transition: all 0.30s ease-in-out;
+}
+
+#qrHolder img:hover {
+    border-color: #19A3FF;
+    transition: all 0.30s ease-in-out;
+}
+
+</style>
+
+<script src="data/js/concat-0preview.5994fed06966c0b00578fcecaaa179f7.compact.js"></script>
+<script>
+
+$(function() {
+	$(window).resize(function() {
+		preview.setAvailableRect();
+        preview.scaleFrame(true, true);
+        //preview.locateMenu();
+    });
+
+	browserDetect.init();
+	if(browserDetect.browser == 'Explorer' || /Trident/.test(navigator.userAgent)  || browserDetect.browser == 'Opera')
+	{
+		$('#previewPage').show().css({display: 'block', visibility: 'visible', margin: '20px 0', left: 100});
+	}
+
+	preview.initExported();
+	//2013-05-14 BD: removed the call - preview.locateMenu was empty
+    //fluidEvent.bindPreview("changeOrientation", preview.locateMenu);
+});
+
+</script>
+
+<script src="data/js/jquery-ui-custom.c9f67bdda8fa75c64b62dc14f4a122c3.compact.js"></script>
+</head>
+<body>
+
+
+	<div id="previewFrameParent">
+	    <iframe id="previewPage" src="data/preview_content.html"></iframe>
+	</div>
+
+	
+</body>
+
+<script>
+</script>
+</html>
