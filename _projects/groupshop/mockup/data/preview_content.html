@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html> <!--  manifest="cache.php" -->
+<head>
+<meta charset="UTF-8">
+<title>Fluid UI - Mobile app prototyping for iPhone, iPad, Android and Windows 8</title>
+<meta name="Description" content="Fluid UI is the fastest mobile app prototyping tool available. Design and test low and high fidelity app mockups on a mobile device with ease. Simple and UX oriented, this UI tool helps unlock creativity and will save your team time and money while gathering app requirements.">
+<meta name="Keywords" content="mobile, prototyping, mockup, iphone, android, iPad, windows 8">
+<meta name="google-site-verification" content="DoJIkzlOQiUCNp7zMwHDHGeitlt855fHAjtzshA8vB8" />
+
+
+	
+
+
+<link rel="stylesheet" href="./css/preview.6f9b5ebc6ae6bb7eb402225061d4b27b.compact.css" type="text/css" media="all">
+<link rel="stylesheet" href="./css/fonts.7cae05ecd28a479113392771ded8f16b.compact.css" type="text/css" media="all">
+<link rel="stylesheet" href="./css/jquery.mobile-1.2.0.min.253bb7c12e4ebc870b85098478c67ea4.compact.css" type="text/css" media="all">
+<meta id="metaViewport" name="viewport"	content="width=device-width, height=device-height, minimum-scale=1, maximum-scale=1, initial-scale=1, user-scalable=0">
+	
+
+<!-- target-densitydpi=device-dpi,  -->
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+<!--<script id="default-branding-links" type="x-jquery-temp">-->
+<script id="default-branding-links" type="text/x-jquery-tmpl">
+	<!-- iPad (Retina) -->
+	<link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-144.png" />
+	<!-- iPad --> 
+	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-144.png" />
+	<!-- iPhone (Retina) --> 
+	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114.png" />
+	<!-- Older iPhones --> 
+	<link rel="apple-touch-icon" href="img/apple-touch-icon-114.png" />
+
+	<!-- iPhone -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading320x460.png"
+		media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)">
+	<!-- iPhone (Retina) -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading640x920.png"
+		media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)">
+	<!-- iPhone 5 -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading640x1096.png"
+		media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)">
+	<!-- iPad (portrait) -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading768x1004.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)">
+	<!-- iPad (landscape) -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading1024x748.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)">
+	<!-- iPad (Retina, portrait) -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading1536x2008.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+	<!-- iPad (Retina, landscape) -->
+	<link rel="apple-touch-startup-image" href="img/fluidLoading2048x1496.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+</script>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	
+
+
+	
+
+<script id="tmplWidget2" type="text/x-jquery-tmpl">
+<div id="{{if isLibaryWidget}}${id}{{else isHelperWidget}}helper-${id}{{/if}}" class="pageWidget{{if isRootwidget}} rootWidget{{/if}}{{if wg}} replacableWidget{{/if}}{{if isBackgroundWidget}} backgroundWidget{{/if}}{{if dm}} hotspotWidget{{/if}}" 
+	data-lockto="${lockTo}" {{if segment}}data-segment="${segment}"{{/if}} 
+	//{{if isStatic}}data-position="fixed"{{/if}} 
+	style="top:${absTLWH[0]}px;left:${absTLWH[1]}px;width:${absTLWH[2]}px;height:${absTLWH[3]}px;">
+	{{if includeCanvasOrImage}}
+		{{if useCanvas}}<canvas width="100%" height="100%" style="width:100%;height:100%"></canvas>
+		{{else}}<img width="100%" height="100%" style="width:100%;height:100%;">{{/if}}
+	{{/if}}
+	{{if isText}}<div class="widgetText" style="${ts}{{if addWH}};width:100%;height:100%;white-space:pre-wrap;{{/if}}">${tc}</div>{{/if}}
+</div> 
+</script>
+
+		
+
+	<!--  style="width:${width}px;height:${height}px" -->
+	<script id="tmplPreviewPage" type="text/x-jquery-tmpl">
+		<div data-role="page" id="${pageId}" class="page previewPage" style="background-color:${bgColor}; height: 100%;">
+			<!--div data-role="header" data-position="fixed" class="fixedWidgetHolderBack"></div-->
+			<div data-role="content" class="widgetHolder" style="width:${width}px;height:${height}px;{{if top}}top:${top}px;{{/if}}{{if left}}left:${left}px;{{/if}}">
+				<div class="flowText" style="width:${width}px;height:${height}px"><!-- Manages the w/h of the scroller.--></div>
+						
+			</div>
+			<div data-role="header" data-position="fixed" class="fixedWidgetHolderFront"></div>
+		</div>
+	</script>
+
+	<!-- PREVIEW LINK VERSION: error screen seen when accessing the main editor page -->	
+	<script id="tmplInvalid" type="text/x-jquery-tmpl" >
+	<div style="width:350px;height:220px;position:absolute;left:35%;top:10%;">
+		<img title="Fluid UI Logo" alt="Fluid UI Logo" src="img/FluidUI-logo-larger.png" width="197" height="91" /><br><br>
+		<span style="color:#02a2c9;font:bold 14px/18px helvetica;">Your browser is not currently supported</span><br>
+		<span style="color:#999;font:12px/14px helvetica;">Sorry, we&apos;re just too little to support this browser at this time but we will as soon as we can. In the meantime, you can try Fluid UI with another browser.</span><br><br><br>
+
+		<a href="http://www.google.com/chrome" title="Download Google Chrome" alt="Download Google Chrome" target="_blank" style="color:#999;font:12px/12px helvetica;">
+			<img alt="Chrome" src="img/CHROME.png" width="200" height="53" />
+			<br>
+			http://www.google.com/chrome
+		</a>
+
+		<br><br>
+
+		<a href="http://www.firefox.com" title="Download Mozilla Firefox" alt="Download Mozilla Firefox" target="_blank" style="color:#999;font:12px/12px helvetica;">
+			<img alt="Firefox" src="img/firefox.png" width="151" height="145" />
+			<br>
+			http://www.firefox.com
+		</a>
+
+		<br><br>
+
+		<a href="http://www.apple.com/safari" title="Download Apple Safari" alt="Download Apple Safari" target="_blank" style="color:#999;font:12px/12px helvetica;">
+			<img src="img/SAFARI.png" alt="Safari" width="50" height="50" />
+			<br>
+			http://www.apple.com/safari</a>
+		</a>
+		<br>
+	</div>
+	</script>
+
+	<script id="projectInactive" type="text/x-jquery-tmpl" >
+	<div class="sleeper">
+		<span class="sleeper-z sleeper-z-1">Z</span>
+		<span class="sleeper-z sleeper-z-2">Z</span>
+		<span class="sleeper-z sleeper-z-3">Z</span>
+		<img src="img/inactive-project.svg">
+		 <div class="sleeper-div">
+		 This project is not active now.
+		 </div>
+		 <div class="sleeper-div">
+		 Please contact the owner.
+		 </div>
+	</div>
+	</script>
+
+
+
+
+<script type='text/javascript'>
+		window.Muscula = { settings:{
+        logId:"1726b8bd-29fc-4de7-98ce-ccacf22e1b68", suppressErrors: false
+		}};
+		(function () {
+			var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
+			m.src = (window.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//musculahq.appspot.com/Muscula7.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+			window.Muscula.run=function(){var a;eval(arguments[0]);window.Muscula.run=function(){};};
+			window.Muscula.errors=[];window.onerror=function(){window.Muscula.errors.push(arguments);
+			return window.Muscula.settings.suppressErrors===undefined;}
+		})();
+</script>
+
+<!---->
+<script src="js/jquery-1.7.2.b8d64d0bc142b3f670cc0611b0aebcae.compact.js"></script>
+<script src="js/browserdetect.62fc9068085a0d3d732629172a73843f.compact.js"></script>
+<script src="js/jquery.tmpl.4365f3ae91839feac4dd913062cd3b74.compact.js"></script>
+<script src="js/concat-1common.f9681f5b5a2354ea94a6d43c71b3ff14.compact.js"></script>
+
+
+<!-- <script src="js/class-widgetSegments.835e3ef1b692a3256b7d9701ea2638e9.compact.js"></script> -->
+
+
+
+
+
+<script src="js/concat-2common.ddd6249fe3440f78b98dcc6f0dc4c0c2.compact.js"></script>
+<script src="js/concat-3common.a6ac5a2c323e12392e85a1eebe3b64da.compact.js"></script>
+
+
+
+
+
+
+
+<script src="js/fluid/models/customWidgets.65f5bcf646a089eaf11411339d2933e4.compact.js"></script>
+
+<script src="js/fluid/modules/upload.ab9915b3becff2d6021f52f55b19cc6f.compact.js"></script>
+
+
+
+
+<script>
+	var g_imgExport = false;
+</script>
+
+
+	<script>
+		if(window.location.hash)
+		{
+			var url = window.location.href;
+			var hash = window.location.hash;
+			var index_of_hash = url.indexOf(hash) || url.length;
+			var hashless_url = url.substr(0, index_of_hash);	
+			window.location = hashless_url;
+		}
+		
+		var g_preview = 'p_yO3gvonssQ4GXKtkyIRC7npC4HLMr0G4';
+		var g_previewMode = true;
+		var g_homepage = null;
+		var g_window_print = null;
+		var g_embedded = false;
+		$(document).keyup(preview.navigateWithKeys);
+
+
+	</script>	
+	<script src="js/concat-3preview.4945c2c1e79666acde32a862a9b5b42a.compact.js"></script>
+	<script src="js/jquery.swipeupdown.8f78793e5549a2faf64e25ee2ad1c264.compact.js"></script>
+	<script src="js/StackBlur.84ff73cdf4e32f5f5bd41a22a014587f.compact.js"></script>
+		<script src="js/class-branding.43ffbd1f52dbf8198c9b2f7f12211d09.compact.js"></script>
+
+
+	
+<script src="js/exported.js"></script><script src="js/init.js"></script>
+</head>
+
+
+
+
+<body>
+
+
+    <div id="font-preloader" style="position: relative;">
+        <span style="font-family: Droid Sans; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Roboto; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Kaushan Script; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Quicksand; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Walkway; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Journal; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Permanent Marker; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+        <span style="font-family: Raster Gothic; position: absolute; top: -9000px; left: -9000px;">aaa</span>
+    </div>
+	<!--	<div style="width: 2px; height: 800px; background: red; position: absolute;"></div>-->
+    <div id="home" data-role="page" data-transition="none">
+        <div id="homePage" data-role="content" class="pageList"></div>
+    </div>
+    <div id="blankPage" data-role="page" data-transition="none" style="display:none; z-index: 999;">
+        <div data-role="content" class="pageList" style="overflow: hidden; width: 100%; text-align: center;">
+            <div class="blankPageContainer">
+                <div class="blankPageText">Empty page</div>
+                <div class="pageWidget widgetLink blankPageBackButton" >Go back</div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+</body>
+</html>
