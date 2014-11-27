@@ -1,0 +1,1 @@
+if(!fluid.models){fluid.models={}}(function(a){fluid.models.CustomWidgets=fluid.Model.extend({attrBlackList:[],initialize:function(b,c){}});fluid.CustomWidgets=fluid.Collection.extend({model:fluid.models.CustomWidgets,initialize:function(c,b){this.accountModel=b.accountModel}})})(fluid.util._);
