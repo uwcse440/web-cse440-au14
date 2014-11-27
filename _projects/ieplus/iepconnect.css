@@ -2,7 +2,7 @@
 /* CSS Document */
 
 header{ color:white;
-background-image:url(images/iepbuttongray.png);
+/*background-image:url(images/iepbuttongray.png);*/
 height:120px;
 padding-top:1px;
 }
@@ -25,11 +25,61 @@ font-size:22px;
 h3{ color:#eb8f00;
 }
 
-table,tr,td { 
-text-align:left;vertical-align:top;}
+tr { 
+align-content:center;
+text-align:left;
+vertical-align:top;
+background-image:url(images/iepbutton.png);
+}
+buttonset2{
+	float:right:
+}
+td{
+background-image:url(images/iepbuttonblue.png);
+}
+
+td.firstcolumn { 
+align-content:center;
+background-image:url(images/iepbutton.png);
+width:320px;
+height:240px;
+padding:20px;
+}
+
+tr.toprow td { 
+align-content:center;
+background-image:url(images/iepbutton.png);
+}
+
+tr.bottomrow td h3{
+background-image:url(images/iepbuttonblue.png);
+}
+
+p { 
+margin-top:0;
+padding:50px;
+font-weight:bold;
+font-stretch:semi-expanded;
+color:gray;
+background-color:white;
+border-radius:10px;
+}
+
+ul.secondcolumn { 
+margin-top:0;
+padding:50px;
+font-weight:bold;
+font-stretch:semi-expanded;
+color:gray;
+background-color:white;
+border-radius:10px;
+width:87%;
+height:120px;
+}
 
 body{
-background-image:url(images/ui-bg_gloss-wave_35_f6a828_500x100.png);
+background-image:url(images/iepbuttongray.png);
+/*url(images/ui-bg_gloss-wave_35_f6a828_500x100.png);*/
 }
 
 #tabs {
@@ -86,22 +136,4 @@ background-color:#CCCCCC;
 background-color:B4B4B4;
 }
 
-/* unvisited link */
-a:link {
-    color: #FF0000;
-}
 
-/* visited link */
-a:visited {
-    color: #00FF00;
-}
-
-/* mouse over link */
-a:hover {
-    color: #FF00FF;
-}
-
-/* selected link */
-a:active {
-    color: #0000FF;
-}
