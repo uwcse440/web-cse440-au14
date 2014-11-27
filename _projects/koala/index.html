@@ -1,3 +1,216 @@
 <html>
-<h1>Test</h1>
+	<head>
+		<title>Koala</title>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+		<link rel="shortcut icon" href="http://www.clipartlord.com/wp-content/uploads/2012/11/koala.png">
+	 	<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	 	<!-- <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">	 -->
+	 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Handlee">
+
+		<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="koala.js"></script>
+	</head>
+	
+	<body>
+		<div style="width: 100%;">
+			<center class="tintedBack">
+				<img style="margin-bottom:1px;z-index:997;" width="75%;" src="images/mainImage.png">
+			</center>
+			<br><br> 
+			<div id="menu">
+				<h2>
+					<a href="index.html"><img class="logo" src="images/logo.png"></a>
+					<a href="#overview" >Overview</a>
+					&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#video" >Video</a>
+					&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#prototype" >Prototype</a>
+					&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#documents" >Documents</a>
+					&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#aboutus" >About Us</a>
+				</h2>
+			</div>
+		</div>
+		
+		<div id="overview" >
+			<br><br>  			
+			<div class="header">
+				<h1>Overview</h1>	
+			</div>
+
+			<div class="content tintedBack">
+				<img src="images/subs.png" class="taskPICs" style="height: 150px">
+				<img src="http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-hi.png" class="taskPICs" style="height: 75px; padding: 20px;">
+				<img src="images/Prototype/MAIN.png" class="taskPICs">
+				<div class="task">
+					<h3>MANAGE</h3>
+					<p>Be able to view, add, delete, and update all of your subscriptions from one application. Koala is integrated with subscription services to allow one-click sign-up and unsubscribing is now easier than ever.</p>
+
+				</div>
+				
+				
+				<br><br><br>
+
+				<img src="images/todoList.png" class="taskPICs" style="padding-left: 120px;">
+				<img src="http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-hi.png" class="taskPICs" style="height: 75px; padding: 20px;"><img src="images/Prototype/USAGE_1.png" class="taskPICs">
+				<div class="task">
+					<h3 >GAIN INSIGHT</h3>
+					<p>Visualize data about your usage to discover what services are worth more to you and how you can be saving money. Pay only for what you utilize.</p>
+				</div>
+
+							
+				
+			</div>
+			
+		</div>
+		
+		<div id="video" >
+			<br><br>
+			<div class="header alternate" >
+				<h1>Video</h1>	
+			</div>
+			<div class="content">
+				<iframe width="780" height="430" src="http://www.youtube.com/embed/VUglQ91mml8" frameborder="0" allowfullscreen>
+				</iframe>
+			</div>
+			
+		</div>
+		
+		<div id="prototype">
+			<br><br><br>
+			<div class="header">
+				<h1>Prototype</h1>	
+			</div>
+			<div class="content tintedBack" >
+				<h2 class="proto_header">Task 1 - Making an Informed Decision</h2> 
+				<h4 class="proto_blurb">Determine if your Netflix subscription has been worthwhile to you.  
+					<br>If you find that your usage of Netflix is not worth the cost of the subscription, please use Koala to unsubscribe from Netflix.</h4>
+				
+				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+					<img src="images/Prototype/MAIN.png" class="proto_img"/>
+					<img src="images/Prototype/DETAILED_year.png" class="proto_img"/>
+					<img src="images/Prototype/DETAILED_month.png" class="proto_img"/>
+					<img src="images/Prototype/DETAILED_popup.png" class="proto_img"/>
+					<img src="images/Prototype/MAIN_alertNoNetflix.png" class="proto_img"/>
+				</div>
+
+				<br><br>
+				<h2 class="proto_header">Task 2 - Managing your Subscriptions</h2>
+				<h4 class="proto_blurb"> You just received a new debit card, exactly the same as your old debit card except it has a new security code &ldquo;xxx&rdquo; and a new expiration date &ldquo;xx/xxxx&rdquo;. <br>Please use Koala to update your billing information so that your recurring payments will now be charged to the updated card</h4>
+				
+				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+					<img src="images/Prototype/MAIN_paymentError.png" class="proto_img"/>
+					<img src="images/Prototype/Account_Expired.png" class="proto_img"/>
+					<img src="images/Prototype/Account_Expired_Expanded.png" class="proto_img"/>
+					<img src="images/Prototype/BILLING_error.png" class="proto_img"/>
+					<img src="images/Prototype/BILLING_success.png" class="proto_img"/>
+					<img src="images/Prototype/Account_Success.png" class="proto_img"/>
+					<img src="images/Prototype/MAIN_paymentSuccess.png" class="proto_img"/>
+				</div>
+
+				<br><br>
+				<h2 class="proto_header">Bonus: Usage Data Charts</h2>
+				<h4 class="proto_blurb">You have the option of viewing additional data visualization charts based on their usage data.  <br>You can select specific services to compare or compare all of their services together</h4>
+				
+				
+				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+					<img src="images/Prototype/USAGE_1.png" class="proto_img"/>
+					<img src="images/Prototype/USAGE_2_dropdown.png" class="proto_img"/>
+					<img src="images/Prototype/USAGE_3_uncheck.png" class="proto_img"/>
+					<img src="images/Prototype/USAGE_4_updated.png" class="proto_img"/>
+
+				</div>
+			</div>
+			
+		</div>
+		
+		<div id="documents">
+			<br><br>
+			<div class="header alternate">
+				<h1 style="padding-bottom: 0;">Documents</h1>	
+			</div>
+			<div class="content">
+				<h4 style="font-style: italic; margin-top: 0; padding-bottom: 5px;">Feel free to peruse our final reports <img src="images/report.png" class="minis"/> and presentation slide decks <img src="images/prezo.png" class="minis"/>. </h4>
+				<h2> Part 1: Contextual Inquiry, Task Analysis &amp; Storyboards</h2>
+				<a href="FinalReport.pdf" target="_blank">
+					<img src="images/report.png" class="docImgs" title="ASSIGN 2 Final Report"/></a>
+
+				<a href="Subscription_Koala_FirstPresentation.pdf" target="_blank">
+					<img src="images/prezo.png" class="docImgs" title="ASSIGN 2 Presentation"/></a>
+
+				<h2 >Part 2: Paper Prototype, Usability Testing &amp; Digital Mockups</h2>
+				<a href="KoalaFinalReport.pdf" target="_blank">
+					<img src="images/report.png" class="docImgs" title="ASSIGN 3 Final Report"/></a>
+
+				<a href="FinalPresentation.pdf" target="_blank">
+					<img src="images/prezo.png" class="docImgs" title="ASSIGN 3 Presentation"/></a>
+				
+			</div>
+		</div>
+		
+		<div >
+			<br>
+			<div id="aboutus" class="header">
+				<h1>About Us</h1>	
+				<p style="text-align: center; font-style:italic; margin:0;"> <img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Favorite Subscription</p>
+			</div>
+			
+			<div class="content tintedBack" style="heigh:100%;">
+				<div class="profile">
+					<div class="grouping" id="JK">
+						<img src="images/K_Jen.jpg" class="profilePic">
+						<p class="blurb">
+							<span style="font-weight: 600;">Jen Kang</span> 
+							&diams; 
+							<span class="role"> Designer, Web Developer</span>
+							<!-- <br/> Undergraduate Senior -->
+							<br/> Computer Engineering &amp; Informatics
+							<br/> 
+							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
+						</p>
+					</div>
+
+					<div class="grouping">
+						<img src="images/K_Brendan.jpg" class="profilePic">
+						<p class="blurb">
+							<span style="font-weight: 600;">Brendan Lee</span> 
+							&diams; 
+							<span class="role">Project Manager</span>
+							<!-- <br/> Graduate 5th Year Masters -->
+							<br/> Computer Science
+							<br/> 
+							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Spotify
+						</p>
+					</div>
+
+					<div class="grouping">
+						<img src="images/K_Vivian.jpg" class="profilePic">
+						<p class="blurb"> 
+							<span style="font-weight: 600;">Vivian Yu</span> 
+							&diams; 
+							<span class="role">Documentation</span>
+							<!-- <br/> Undergraduate 5th Year Senior -->
+							<br/> Computer Science &amp; Entrepreneurship
+							<br/> 
+							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
+						</p>
+					</div>
+
+					<div class="grouping">
+						<img src="images/K_CJ.jpg" class="profilePic">
+						<p class="blurb">
+							<span style="font-weight: 600;">Si Liu</span>
+							&diams; 
+							<span class="role">Web Developer</span>
+							<!-- <br/> Undergraduate Senior -->
+							<br/> Computer Science
+							<br/>
+							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = 24 Hr. Fitness &amp; Amazon Prime
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>

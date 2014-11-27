@@ -1,0 +1,283 @@
+/*Koala CSS file for webpage - November 26, 2014*/
+
+
+body {
+    margin: auto auto;
+    font-size:18px;
+    font-family: 'Open Sans',Helvetica, sans-serif;
+    font-weight: 100;
+    overflow-x:hidden;
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/yellow_green_blur_background_210053.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #505050;
+	font-weight: 100;
+	vertical-align: middle;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+
+img.logo {
+	width:110px;
+	vertical-align: -25%;
+	padding-right: 7px;
+}
+
+img.doc {
+	width:80px;
+	margin:80px 40px;
+	float:left;
+}
+
+.content {
+	margin-right: auto;
+	margin-left: auto;
+	width: 85%;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 35px;
+
+}
+
+#menu {
+	width:100%;
+	margin-top: 0px;
+	padding-bottom:5px;
+	margin-right: auto;
+	margin-left:auto;
+
+
+}
+
+.stickTop {
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index:998;
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/yellow_green_blur_background_210053.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    
+}
+
+.header{
+	padding-top: 5px;
+	background:rgba(255, 255, 255, .85);
+	padding-bottom: 20px;
+
+
+}
+
+.alternate{
+	background:transparent;
+	padding-bottom:10px;
+}
+
+
+h1{
+	vertical-align:text-bottom;
+    overflow-x:hidden;
+    text-align:center;
+    font-weight: 400;
+    color: #505050;
+    margin: 0px;
+    font-size: 32pt;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+	
+	width: 85%;
+	margin-right: auto;
+	margin-left: auto;
+	
+	font-family: 'Lato', 'Open Sans',Helvetica, sans-serif;
+
+    
+
+
+}
+
+
+h2, h3{
+	overflow-x:hidden;
+    text-align:center;
+    font-weight: 100;
+    margin: 7.5px;
+    color: #505050;
+
+}
+
+h4{
+	font-weight: 300;
+}
+
+
+
+
+div{
+	width: 100%;
+}
+
+.tintedBack{
+	background:rgba(255, 255, 255, .85);
+	width: 100%;
+	margin-right:0;
+}
+
+
+
+
+
+/********* OVERVIEW ***********/
+
+h3{
+	text-align: left;
+	padding: 0px;
+	margin: 0px;
+	font-weight: 700;
+	font-size: 28pt;
+	font-style: italic;
+	padding-top: 4px;
+	color: #629632;
+}
+
+.taskPICs{
+	height:225px;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: right;
+}
+
+.task{
+	width: 450px;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding: 10px;
+}
+
+#task2{
+
+	text-align:right;
+}
+
+.task >p, .task>h3{
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+
+
+
+/********* PROTOTYPE ***********/
+.proto_img{
+	width: 350px;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+.proto_header{
+	margin-top:0;
+}
+
+.proto_blurb{
+	width:85%; 
+	margin-left:auto; 
+	margin-right: auto;
+	font-style: italic; 
+	margin-top: 0;
+
+}
+
+
+
+/********* DOCUMENTS ***********/
+.docImgs{
+	height: 100px;
+	padding: 20px;
+	vertical-align: middle;
+}
+
+.docImgs:hover{
+	-webkit-filter: invert(100%)
+}
+
+.minis{
+	height: 25px;
+	vertical-align: middle;
+}
+
+.content > p{
+color: #505050;
+
+}
+
+
+
+
+/********* ABOUT US ***********/
+
+.profilePic{
+	/*width: 85%;*/
+	width: 160px;
+	padding-right: 15px;
+	padding-left: 5px;
+	border-radius:100%;
+	padding-bottom: 5px;
+	display:inline-block;
+	vertical-align: middle;
+	
+
+}
+
+.profile{
+	text-align: center;
+	/*padding-top: 20px;*/
+	padding-bottom: 10px;
+	padding-left: 15%;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+
+}
+
+.blurb{
+	/*display: inline-block;*/
+	/*width: 350px;*/
+	width: 65%;
+	vertical-align: middle;
+	text-align: left;
+	/*margin-right: auto;*/
+	/*margin-left: auto;*/
+	margin-top: 5px;
+	display:inline-block;
+	margin-bottom: 5px;
+}
+
+.grouping{
+	text-align: center;
+	width:50%;
+	display:inline-block;
+	float: left;
+	vertical-align: middle;
+	padding-bottom: 30px;
+
+}
+
+.role{
+	font-weight: 200;
+	font-style: italic;
+	font-size: 20px;
+}
+
