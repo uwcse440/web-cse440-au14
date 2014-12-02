@@ -157,7 +157,7 @@ footer {
     float: left;
     margin-left: 10px;
     margin-bottom: 10px;
-    margin-right: 20px;
+    margin-right: 10px;
     border-radius: 5px;
 }
 
@@ -220,6 +220,7 @@ footer {
     width: 100%;
     overflow: hidden;
     font-family: #606060;
+    font-size: 13pt;
 }
 
 #members li {
