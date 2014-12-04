@@ -83,9 +83,9 @@ The overall course grade will be computed as follows:
     - Milestones (__4%__)
     - Final Report (__10%__)
   - Assignment 4, Communicating the Design (__15%__)
-    - Milestones (__2%__)
+    - Milestones (__3%__)
     - Project Website (__4%__)
-    - Video Prototype (__5%__)
+    - Video Prototype (__4%__)
     - Poster (__4%__)
   - Presentations (__12%__)
     - Getting the Right Design Presentation (__5%__)
@@ -133,9 +133,9 @@ The projects for this quarter are available below.
 
 [GroupShop](projects/groupshop/)
 
-[IE+](projects/ieplus/)
+[IEP Connect](projects/iepconnect/)
 
-[Katching](projects/katching/)
+[Ka-ching](projects/kaching/)
 
 [Koala](projects/koala/)
 

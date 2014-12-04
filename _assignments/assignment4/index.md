@@ -5,6 +5,7 @@ title: "Assignment 4: Communicating Your Design"
 link_project4a: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4b: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 link_project4c: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
+link_project4e: https://catalyst.uw.edu/collectit/dropbox/jaf1978/32994
 
 ---
 
@@ -151,8 +152,8 @@ Your website will be served from a subdirectory of this course website:
 - [Band-It]({{ site.baseurl }}/projects/bandit/)
 - [DisTrack]({{ site.baseurl }}/projects/distrack/)
 - [GroupShop]({{ site.baseurl }}/projects/groupshop/)
-- [IE+]({{ site.baseurl }}/projects/ieplus/)
-- [Katching]({{ site.baseurl }}/projects/katching/)
+- [IEP Connect]({{ site.baseurl }}/projects/iepconnect/)
+- [Ka-ching]({{ site.baseurl }}/projects/kaching/)
 - [Koala]({{ site.baseurl }}/projects/koala/)
 - [Running With Friends]({{ site.baseurl }}/projects/runningwithfriends/)
 - [SoundScape]({{ site.baseurl }}/projects/soundscape/)
@@ -262,6 +263,12 @@ to submit a pull request containing your final video and final website.
 
 Submit simple pull requests early so that you become familiar with this functionality.
 Do not wait until the final moments to begin to learn how to do this.
+
+Depending on how you embed your video in your website, it may or may not be part of the pull request.
+For example, embedding a YouTube or Vimeo player does not give us your video.
+We therefore ask that final videos also be submitted via Catalyst here: 
+
+{% if page.link_project4e != nil %}<{{ page.link_project4e }}>{% else %}`Catalyst link to be added`{% endif %}
 
 ### Grading
 
