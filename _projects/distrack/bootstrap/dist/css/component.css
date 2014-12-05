@@ -49,42 +49,44 @@ html, body,
 }
 
 .no-touch .cbp-fbscroller section {
-    background-size: contain;
+    background-size: 80% auto;
 	background-attachment: fixed;
 }
 
-#fbsection1, #fbsection10 {
-	background-image: url(../img/1.png);
-}
+@media (min-width : 1224px) {
+    #fbsection1 {
+	   background-image: url(../img/1.png);
+    }
 
-#fbsection2 {
-	background-image: url(../img/2.png);
-}
+    #fbsection2 {
+	   background-image: url(../img/2.png);
+    }
 
-#fbsection3 {
-	background-image: url(../img/3.png);
-}
+    #fbsection3 {
+	   background-image: url(../img/3.png);
+    } 
 
-#fbsection4 {
-	background-image: url(../img/4.png);
-}
+    #fbsection4 {
+	   background-image: url(../img/4.png);
+    }
 
-#fbsection5 {
-	background-image: url(../img/5.png);
-}
+    #fbsection5 {
+	   background-image: url(../img/5.png);
+    }
 
-#fbsection6 {
-	background-image: url(../img/6.png);
-}
+    #fbsection6 {
+	   background-image: url(../img/6.png);
+    }
 
-#fbsection7 {
-	background-image: url(../img/7.png);
-}
+    #fbsection7 {
+	   background-image: url(../img/7.png);
+    }
 
-#fbsection8 {
-	background-image: url(../img/8.png);
-}
+    #fbsection8 {
+	   background-image: url(../img/8.png);
+    }
 
-#fbsection9 {
-	background-image: url(../img/9.png);
+    #fbsection9 {
+	   background-image: url(../img/9.png);
+    }
 }

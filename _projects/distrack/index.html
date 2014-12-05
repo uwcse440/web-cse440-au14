@@ -2,15 +2,20 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <title>DisTrack - Refocus Yourself</title>
 
+
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 
+    <!-- Scrolling Layout -->
+    <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/component.css" />
+    
     <!-- Custom styles for this template -->
     <link href="bootstrap/dist/css/main.css" rel="stylesheet">
     <!-- Fonts -->
@@ -21,9 +26,7 @@
     <script src="bootstrap/dist/js/jquery.min.js"></script>
     <script src="bootstrap/dist/js/smoothscroll.js"></script>
     
-    <!-- Scrolling Layout -->
-    <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/default.css" />
-    <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/component.css" />
+    
     <script src="bootstrap/dist/js/modernizr.custom.js"></script>
     
     <!-- Shaking effect -->
@@ -50,6 +53,7 @@
 	            <li><a href="#video" class="smothscroll">Video</a></li>
 	            <li><a href="#desktop" class="smothscroll">Desktop Features</a></li>
 	            <li><a href="#watch" class="smothscroll">Watch Features</a></li>
+              <li><a href="#design-process" class="smothscroll">Design Process</a></li>
 	            <li><a href="#team" class="smothscroll">Team</a></li>
 	          </ul>
 	        </div><!--/.nav-collapse -->
@@ -60,13 +64,13 @@
 	<section id="home" name="home">
 	    <div class="container">
 	    	<div class="row centered">
-	    		<div class="col-sm-8">
-	    			<img id="postercover" class="img-responsive" src="bootstrap/dist/img/laptop.png" alt="" style="position: absolute; top:0; left:0;">
-                    <img id="watchcover" class="img-responsive" src="bootstrap/dist/img/watch.png" alt="" style="position:absolute; top:0;left:0;">
+	    		<div class="col-sm-8 col-xs-12">
+	    			<img id="postercover" class="img-responsive" src="bootstrap/dist/img/cover.png" alt="">
+                    <!--<img id="watchcover" class="img-responsive" src="bootstrap/dist/img/watch.png" alt="" style="position:absolute; top:0;left:0;">-->
 	    		</div>
-                <div class="col-sm-4" style="text-align:left;">
+                <div id="coverinfo" class="col-sm-4 col-xs-12" style="text-align:left;">
                     <h1>Beat Distractions, <strong>Refocus Yourself</strong></h1>
-                    <p class="big-spaced">
+                    <p class="big-spaced hidden-xs hidden-sm">
                     	With so many distractions out there today, it's nearly impossible to stay focused while working or studying.
                     </p>
                     <p class="big-spaced">
@@ -80,7 +84,6 @@
 	    	</div>
 	    </div> <!--/ .container -->
 	</section> <!--/ #home -->
-
 
   <section id="video" name="video" class="background-dark">
 		<div class="container centered">
@@ -107,6 +110,7 @@
                         <div class="col-sm-4 feature">
                             <h3 class="red">Reflect on Daily Activities</h3>
                             <p>See how you spent your while you studied or worked broken down by activity and distraction category. You can see your performance for the whole day, or for the specific sessions you worked in that day. Try to maximize productive time!</p>
+                            <img src="bootstrap/dist/img/6%20copy.png" style="position:relative; width: 100%;" class="feature-mobile-pic visible-xs visible-sm "/>
                         </div>
                         <div class="col-sm-8"></div>
                     </section>
@@ -114,6 +118,7 @@
                         <div class="col-sm-4 feature">
                             <h3 class="blue">View Trends</h3>
                             <p>View your performance on weekly or monthly time spans to see how you're improving over time!</p>
+                            <img src="bootstrap/dist/img/7%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm feature-mobile-pic"/>
                         </div>
                         <div class="col-sm-8"></div>
                     </section>
@@ -121,6 +126,7 @@
               <div class="col-sm-4 feature">
                   <h3 class="red">Fight Distractions with Tools</h3>
                   <p>Set up tools to use in <strong>Work Mode</strong> that will help you stay focused. Some tools will help you by blocking distractions or notifing you when you get distracted, while others will help you by reminding you to take breaks or engage in good habits.</p>
+                  <img src="bootstrap/dist/img/8%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm feature-mobile-pic"/>
               </div>
               <div class="col-sm-8"></div>
           </section>
@@ -128,6 +134,7 @@
               <div class="col-sm-4 feature">
                   <h3 class="blue">Helpful Tool Recommendations</h3>
                   <p>We'll recommend helpful tools to you based upon the activities that distract you.</p>
+                  <img src="bootstrap/dist/img/9%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm feature-mobile-pic"/>
               </div>
               <div class="col-sm-8"></div>
           </section>
@@ -149,6 +156,7 @@
               <div class="col-sm-6 feature">
                   <h3 class="red">Easy Work Mode Toggling</h3>
                   <p>You can easily activate work mode on your watch to enable your tools and to start getting real time feedback on your performance.</p>
+                  <img src="bootstrap/dist/img/1%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm centered"/>
               </div>
           </section>
           <section id="fbsection2" class="row">
@@ -156,6 +164,7 @@
               <div class="col-sm-6 feature">
                   <h3 class="blue">Real-Time Performance Feedback</h3>
                   <p>The hand of your watch traces in color to indicate if you were being distracted or productive in real time as you work. This gives you some immediate feedback into how well you are doing during a work session.</p>
+                  <img src="bootstrap/dist/img/2%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm centered"/>
               </div>
           </section>
           <section id="fbsection3" class="row">
@@ -163,6 +172,7 @@
               <div class="col-sm-6 feature">
                   <h3 class="red">Distraction Notifications</h3>
                   <p>Your watch is an ideal place to use many of the tools we provide. Distraction notications will notify you when you get off task to remind you to stay focused.</p>
+                  <img src="bootstrap/dist/img/3%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm centered"/>
               </div>
           </section>
           <section id="fbsection4" class="row">
@@ -170,98 +180,123 @@
               <div class="col-sm-6 feature">
                   <h3 class="blue">Break Reminders</h3>
                   <p>Taking breaks is an effective way to stay focused for long periods of work. The break reminder tool can tell you when and for how long to take breaks through the watch or the desktop.</p>
+                  <img src="bootstrap/dist/img/4%20copy.png" style="position:relative; width: 100%;"  class="visible-xs visible-sm centered"/>
               </div>
           </section>
 				</div>
 			</div>
 		</div><!--/ .container -->
   </section>
+
+
 	<section id="team" name="team" class="background-dark">
 	 	<div class="container">
 		 	<h1 class="centered">Meet The Team</h1>
       <br>
 		 	<div class="row">
-			 	<div class="col-sm-4 team-member centered">
+			 	<div class="col-sm-4 col-xs-12 team-member centered">
           <img src="bootstrap/dist/img/graeme.jpg" class="img-circle" alt="Graeme Britz headshot">
  					<br />
  					<h3 class="name">Graeme Britz</h3>
 	 				<p class="details">
 	 					Project Manager
 	 					<br>
+            Computer Science &amp; Engineering
+            <br>
 	 					grbritz@uw.edu
 	 				</p>
 			 	</div> <!-- /.team-member -->
-			 	<div class="col-sm-4 team-member centered">
+			 	<div class="col-sm-4 col-xs-12 team-member centered">
  					<img src="bootstrap/dist/img/jackie.jpg" class="img-circle" alt="Jackie Chui headshot">
  					<br />
  					<h3 class="name">Jackie Chui</h3>
 	 				<p class="details">
 	 					Designer &amp; Videographer
 	 					<br>
+            Human-Computer Interaction + Design
+            <br>
 	 					jackie2009hk@gmail.com
 	 				</p>
 			 	</div> <!-- /.team-member -->
 			 	
-			 	<div class="col-sm-4 team-member centered">
+			 	<div class="col-sm-4 col-xs-12 team-member centered">
  					<img src="bootstrap/dist/img/max.jpg" class="img-circle" alt="Max-Ferdinand Suffel headshot">
  					<br />
  					<h3 class="name">Max-Ferdinand Suffel</h3>
 	 				<p class="details">
 	 					User Researcher
 	 					<br>
+            Computer Science &amp; Engineering
+            <br>
 	 					msuffel@uw.edu
 	 				</p>
 			 	</div> <!-- /.team-member -->
 		 	</div>
 		 	<br>
 	 		<div class="row">
-	 			<div class="col-sm-4 team-member centered">
+	 			<div class="col-sm-4 col-xs-12 team-member centered">
 	 					<img src="bootstrap/dist/img/angel.jpg" class="img-circle" alt="Maria Suhardi headshot">
 	 					<br />
 	 					<h3 class="name">Maria Angela Suhardi</h3>
 		 				<p class="details">
 		 					Designer
 		 					<br>
+              Computer Science &amp; Engineering
+              <br>
 		 					maria.suhardi@gmail.com
 		 				</p>
 			 	</div> <!-- /.team-member -->
-			 	<div class="col-sm-4 team-member centered">
+			 	<div class="col-sm-4 col-xs-12 team-member centered">
 	 					<img src="bootstrap/dist/img/bryan.jpg" class="img-circle" alt="Bryan Djunaedi headshot">
 	 					<br />
 	 					<h3 class="name">Bryan Djunaedi</h3>
 		 				<p class="details">
 		 					Designer &amp; Editor
 		 					<br>
-		 					b.dju90@gmail.com
+              Computer Science &amp; Engineering
+              <br>
+		 					dju90@uw.edu
 		 				</p>
 			 	</div> <!-- /.team-member -->
 	 		</div>
 		</div>
 	</section> <!-- #/team -->
+    <section id="design-process" name="design-process">
+    <div class="container">
+      <h1 class="centered">Design Process &amp; Documentation</h1>
+      <p>We went through two major phases of development as we designed DisTrack. The first, called <a href="#getting-the-right-design">Getting the Right Design</a>, was about defining the core tasks in our problem space, researching our target users, and brainstorming different high-level design solutions. The second, called <a href="#getting-the-design-right">Getting the Design Right</a>, was about refining our design idea through usability testing and inspection based methods. We used rapid prototyping methods to develop our final design mockups for the <a href="#desktop">desktop</a> and <a href="#watch">watch</a> and to create our <a href="#video">video prototype</a>.</p>
+      <div class="row">
+        <div class="col-sm-6">
+          <h2 id="getting-the-right-design" class="">Getting the Right Design</h2>
+            <a href="getting-the-right-design-report.pdf">
+            <img src="bootstrap/dist/img/report-icon.png" style="height:55px;width:45px;" class="documentation-icon report" alt="report"/> Report</a>
+            <br><br>
+            <a href="getting-the-right-design-presentation.pdf">
+            <img src="bootstrap/dist/img/presentation-icon.png" style="height:60px;width:60px;" class="documentation-icon" alt="presentation" /> Presentation</a>
+        </div>
+        <div class="col-sm-6">
+          <h2 id="getting-the-design-right" class="">Getting the Design Right</h2>
+            <a href="getting-the-design-right-report.pdf"><img src="bootstrap/dist/img/report-icon.png" style="height:55px;width:45px;" class="documentation-icon report" alt="report" /> Report</a>
+            <br><br>
+            <a href="getting-the-design-right-presentation.pdf"><img src="bootstrap/dist/img/presentation-icon.png" style="height:60px;width:60px;" class="documentation-icon" alt="presentation" /> Presentation</a>
+        </div>
+      </div>
+    </div>
+  </section> <!-- #/design-process -->
 	<div id="footerwrap">
 		<div class="container">
-    	<div class="row centered">
-    		<div class="col-sm-4">
-    			<ul class="list-unstyled">
-    				<li><a href="#about">About</a></li>
-    				<li><a href="#video">Video</a></li>
-    				<li><a href="#desktop">Desktop Features</a></li>
-    				<li><a href="#watch">Watch Features</a></li>
-    				<li><a href="#team">Team</a></li>
-    			</ul>
-    		</div>
-    		<div class="col-sm-4">
-    			<ul class="list-unstyled">
-    				<li><a href="getting-the-right-design.pdf">Getting the Right Design</a></li>
-    				<li><a href="getting-the-design-right.pdf">Getting the Design Right</a></li>
-    			</ul>
-    		</div>
-    		<div class="col-sm-4">
-    			Copyright &copy; 2014 DisTrack
-    			<br>
-    			All Rights Reserved
-    		</div>
-    	</div>
+    	   <div class="row centered">
+    		    <div class="col-sm-6">
+                    Report icon designed by <a href="http://www.thenounproject.com/joaomaribeiro">João Marcelo Ribeiro</a><br>
+                    Presentation icon designed by <a href="http://www.thenounproject.com/jorishoogendoorn">Joris Hoogendoorn</a>
+                </div>
+               <br class="visible-xs">
+                <div class="col-sm-6">
+    			     Copyright &copy; 2014 DisTrack
+    			     <br>
+    			     All Rights Reserved
+                </div>
+    	   </div>
 		</div>
 	</div>
     <!-- Bootstrap core JavaScript
