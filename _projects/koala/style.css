@@ -1,13 +1,30 @@
 /*Koala CSS file for webpage - November 26, 2014*/
 
+@font-face{
+
+	font-family:Open_Sans_Font;
+	src:url(fonts/OpenSans-Light.ttf);
+}
+
+@font-face{
+
+	font-family:Open_Sans_ITALIC_Font;
+	src:url(fonts/OpenSans-LightItalic.ttf);
+}
+
+@font-face{
+
+	font-family:Lato_Font;
+	src:url(fonts/Lato-Regular.ttf);
+}
 
 body {
     margin: auto auto;
     font-size:18px;
-    font-family: 'Open Sans',Helvetica, sans-serif;
+    font-family: Open_Sans_Font,Helvetica, sans-serif;
     font-weight: 100;
     overflow-x:hidden;
-    background-image: url("http://images.all-free-download.com/images/graphiclarge/yellow_green_blur_background_210053.jpg");
+    background-image: url("images/YellowGreen_Background.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -28,7 +45,7 @@ a:hover {
 img.logo {
 	width:110px;
 	vertical-align: -25%;
-	padding-right: 7px;
+	padding-right: 12px;
 }
 
 img.doc {
@@ -62,7 +79,7 @@ img.doc {
     top:0px;
     left:0px;
     z-index:998;
-    background-image: url("http://images.all-free-download.com/images/graphiclarge/yellow_green_blur_background_210053.jpg");
+    background-image: url("images/YellowGreen_Background.jpg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     
@@ -98,7 +115,7 @@ h1{
 	margin-right: auto;
 	margin-left: auto;
 	
-	font-family: 'Lato', 'Open Sans',Helvetica, sans-serif;
+	font-family: Lato_Font,Open_Sans_Font,Helvetica, sans-serif;
 
     
 
@@ -195,6 +212,8 @@ h3{
 	margin-left:auto; 
 	margin-right: auto;
 	font-style: italic; 
+	/*font-family:Open_Sans_ITALIC_Font;*/
+	font-size: 16;
 	margin-top: 0;
 
 }
@@ -222,6 +241,17 @@ color: #505050;
 
 }
 
+.carousel{
+	overflow-x: scroll; 
+	overflow-y: hidden; 
+	width: 87%;
+	height: 500px; 
+	white-space: nowrap; 
+	margin-left: auto; 
+	margin-right: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
 
 
 
@@ -244,7 +274,7 @@ color: #505050;
 	text-align: center;
 	/*padding-top: 20px;*/
 	padding-bottom: 10px;
-	padding-left: 15%;
+	padding-left: 10%;
 	width: 85%;
 	margin-left: auto;
 	margin-right: auto;
@@ -277,7 +307,8 @@ color: #505050;
 
 .role{
 	font-weight: 200;
-	font-style: italic;
+	/*font-style: italic;*/
+	font-family: Open_Sans_ITALIC_Font;
 	font-size: 20px;
 }
 

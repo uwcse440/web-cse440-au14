@@ -2,12 +2,9 @@
 	<head>
 		<title>Koala</title>
 		<link href="style.css" type="text/css" rel="stylesheet" />
-		<link rel="shortcut icon" href="http://www.clipartlord.com/wp-content/uploads/2012/11/koala.png">
-	 	<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	 	<!-- <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">	 -->
-	 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Handlee">
-
-		<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+		<link rel="shortcut icon" href="images/koala.png">
+	 	
+		<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 		<script type="text/javascript" src="koala.js"></script>
 	</head>
 	
@@ -20,14 +17,10 @@
 			<div id="menu">
 				<h2>
 					<a href="index.html"><img class="logo" src="images/logo.png"></a>
-					<a href="#overview" >Overview</a>
-					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="#video" >Video</a>
-					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="#prototype" >Prototype</a>
-					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="#documents" >Documents</a>
-					&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#overview" >Overview</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#video" >Video</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#prototype" >Prototype</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="#documents" >Documents</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="#aboutus" >About Us</a>
 				</h2>
 			</div>
@@ -41,7 +34,7 @@
 
 			<div class="content tintedBack">
 				<img src="images/subs.png" class="taskPICs" style="height: 150px">
-				<img src="http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-hi.png" class="taskPICs" style="height: 75px; padding: 20px;">
+				<img src="images/greyArrow.png" class="taskPICs" style="height: 75px; padding: 20px;">
 				<img src="images/Prototype/MAIN.png" class="taskPICs">
 				<div class="task">
 					<h3>MANAGE</h3>
@@ -53,7 +46,8 @@
 				<br><br><br>
 
 				<img src="images/todoList.png" class="taskPICs" style="padding-left: 120px;">
-				<img src="http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-hi.png" class="taskPICs" style="height: 75px; padding: 20px;"><img src="images/Prototype/USAGE_1.png" class="taskPICs">
+				<img src="images/greyArrow.png" class="taskPICs" style="height: 75px; padding: 20px;">
+				<img src="images/Prototype/USAGE_1.png" class="taskPICs">
 				<div class="task">
 					<h3 >GAIN INSIGHT</h3>
 					<p>Visualize data about your usage to discover what services are worth more to you and how you can be saving money. Pay only for what you utilize.</p>
@@ -71,7 +65,7 @@
 				<h1>Video</h1>	
 			</div>
 			<div class="content">
-				<iframe width="780" height="430" src="http://www.youtube.com/embed/VUglQ91mml8" frameborder="0" allowfullscreen>
+				<iframe width="780" height="430" src="http://www.youtube.com/embed/hkQ311hcPfk" frameborder="0" allowfullscreen>
 				</iframe>
 			</div>
 			
@@ -87,7 +81,7 @@
 				<h4 class="proto_blurb">Determine if your Netflix subscription has been worthwhile to you.  
 					<br>If you find that your usage of Netflix is not worth the cost of the subscription, please use Koala to unsubscribe from Netflix.</h4>
 				
-				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+				<div class="carousel">
 					<img src="images/Prototype/MAIN.png" class="proto_img"/>
 					<img src="images/Prototype/DETAILED_year.png" class="proto_img"/>
 					<img src="images/Prototype/DETAILED_month.png" class="proto_img"/>
@@ -99,7 +93,7 @@
 				<h2 class="proto_header">Task 2 - Managing your Subscriptions</h2>
 				<h4 class="proto_blurb"> You just received a new debit card, exactly the same as your old debit card except it has a new security code &ldquo;xxx&rdquo; and a new expiration date &ldquo;xx/xxxx&rdquo;. <br>Please use Koala to update your billing information so that your recurring payments will now be charged to the updated card</h4>
 				
-				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+				<div class="carousel">
 					<img src="images/Prototype/MAIN_paymentError.png" class="proto_img"/>
 					<img src="images/Prototype/Account_Expired.png" class="proto_img"/>
 					<img src="images/Prototype/Account_Expired_Expanded.png" class="proto_img"/>
@@ -114,7 +108,7 @@
 				<h4 class="proto_blurb">You have the option of viewing additional data visualization charts based on their usage data.  <br>You can select specific services to compare or compare all of their services together</h4>
 				
 				
-				<div style="overflow-x: scroll; overflow-y: hidden; width: 87%;height: 500px; white-space: nowrap; margin-left: auto; margin-right: auto; ">
+				<div class="carousel">
 					<img src="images/Prototype/USAGE_1.png" class="proto_img"/>
 					<img src="images/Prototype/USAGE_2_dropdown.png" class="proto_img"/>
 					<img src="images/Prototype/USAGE_3_uncheck.png" class="proto_img"/>
@@ -153,7 +147,7 @@
 			<br>
 			<div id="aboutus" class="header">
 				<h1>About Us</h1>	
-				<p style="text-align: center; font-style:italic; margin:0;"> <img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Favorite Subscription</p>
+				<p style="text-align: center; font-style:italic; margin:0;"> <img src="images/heart.png" style="width: 20px;vertical-align: middle;"/> = Favorite Subscription</p>
 			</div>
 			
 			<div class="content tintedBack" style="heigh:100%;">
@@ -167,7 +161,7 @@
 							<!-- <br/> Undergraduate Senior -->
 							<br/> Computer Engineering &amp; Informatics
 							<br/> 
-							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
+							<img src="images/heart.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
 						</p>
 					</div>
 
@@ -180,7 +174,7 @@
 							<!-- <br/> Graduate 5th Year Masters -->
 							<br/> Computer Science
 							<br/> 
-							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Spotify
+							<img src="images/heart.png" style="width: 20px;vertical-align: middle;"/> = Spotify
 						</p>
 					</div>
 
@@ -193,7 +187,7 @@
 							<!-- <br/> Undergraduate 5th Year Senior -->
 							<br/> Computer Science &amp; Entrepreneurship
 							<br/> 
-							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
+							<img src="images/heart.png" style="width: 20px;vertical-align: middle;"/> = Amazon Prime
 						</p>
 					</div>
 
@@ -206,7 +200,7 @@
 							<!-- <br/> Undergraduate Senior -->
 							<br/> Computer Science
 							<br/>
-							<img src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/512/heart-icon.png" style="width: 20px;vertical-align: middle;"/> = 24 Hr. Fitness &amp; Amazon Prime
+							<img src="images/heart.png" style="width: 20px;vertical-align: middle;"/> = 24 Hr. Fitness &amp; Amazon Prime
 						</p>
 					</div>
 				</div>

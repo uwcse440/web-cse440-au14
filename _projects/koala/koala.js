@@ -2,7 +2,7 @@ $(document).ready(function(e) {
 	var menuTop1pos = $('#menu').offset().top;
 	var stickToTop = function(){
         var winScrollTop = $(window).scrollTop();
-        if (winScrollTop >= menuTop1pos) {
+        if (winScrollTop > (menuTop1pos - 2) ){
             $('#menu').addClass('stickTop');
         } else {
             $('#menu').removeClass('stickTop');  
