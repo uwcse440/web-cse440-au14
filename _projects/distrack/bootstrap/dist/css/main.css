@@ -34,32 +34,6 @@ p.big-spaced {
 }
 
 /* Links */
-/*a {
-    color: #3bc492;
-    word-wrap: break-word;
-
-    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
-    transition: color 0.1s ease-in, background 0.1s ease-in;
-}
-
-a:hover,
-a:focus {
-    color: #c0392b;
-    text-decoration: none;
-    outline: 0;
-}
-
-a:before,
-a:after {
-    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
-    transition: color 0.1s ease-in, background 0.1s ease-in;
-}*/
 
 a {
     color: #337ab7;
@@ -123,6 +97,7 @@ section {
 
 section#home {
     background-image: url('../img/blurred.jpg');
+    background-size: cover;
     color: #fff;
     font-weight:400;
     margin-top:50px;
@@ -130,7 +105,7 @@ section#home {
 
 section#home h1 {
     margin-top: 30px;
-    font-size: 40px;
+    font-size: 2.2em;
 }
 
 section#home h3 {
@@ -144,6 +119,17 @@ section#home h5 {
 
 section#home p {
 	text-align: left;
+}
+
+.poster-info {
+    text-decoration: underline;
+    font-size: .9em;
+}
+
+@media (min-width: 768px) {
+    .poster-info {
+        font-size: 1em;    
+    }
 }
 
 @media only screen 
@@ -251,6 +237,10 @@ Features
         padding-top:50px;
         padding-bottom:50px;
     }
+}
+
+.no-touch .cbp-fbscroller section {
+    background-size: inherit;
 }
 
 
