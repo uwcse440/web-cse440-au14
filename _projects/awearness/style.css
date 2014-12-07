@@ -34,6 +34,7 @@ body {
 .pure-menu {
 	position: fixed;
 	max-width: 62.5em;
+      border-bottom: 12px solid #4F215D !important;
 }
 
 #content {
