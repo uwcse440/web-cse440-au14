@@ -45,7 +45,7 @@ body #sidebar ul li a {
   display: inline-block;
   margin: 0;
   padding: 5px 0;
-  width: 100%;
+  width: 200px;
   border: 1px solid black;
   border-bottom: none;
   border-radius: 0;
@@ -125,5 +125,3 @@ body #tasks {
 body #tasks p {
   font-size: 110%;
 }
-
-/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
