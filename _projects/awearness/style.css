@@ -23,6 +23,7 @@ body {
 	font-family: 'apercuregular', sans-serif;
 }
 
+
 .l-box {
    padding: 1.5em;
 }
@@ -87,4 +88,14 @@ p {
 
 section {
   padding: 0.5em;
+}
+
+footer {
+  background-color: #6D6C6C;
+  color: white;
+  padding: 1em;
+}
+
+footer a {
+  color: #A7A9AB;
 }
