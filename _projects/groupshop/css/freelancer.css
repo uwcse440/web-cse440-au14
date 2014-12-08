@@ -187,6 +187,69 @@ hr.star-light5:after {
 }
 
 
+hr.star-light6,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light6:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light6 {
+    border-color: #000;
+}
+
+hr.star-light6:after {
+    color: #000;
+    background-color: #DDDDDD;
+}
+
+hr.star-light7,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+
+
+hr.star-light7:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+#video{
+    background-color: #F7F7F7
+}
+hr.star-light7 {
+    border-color: #000;
+}
+
+hr.star-light7:after {
+    color: #000;
+    background-color: #fff;
+}
+
 
 hr.star-primary {
     border-color: #000;
@@ -212,10 +275,6 @@ header {
     background: #5CD65C;
 }
 
-#contact{
-        background-color: #5CD65C;
-
-}
 
 header .container {
     padding-top: 100px;
@@ -282,6 +341,10 @@ header .intro-text .skills {
     }
 }
 
+.success1{
+    background-color: #5CD65C
+}
+
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -333,8 +396,51 @@ section.success {
     background: #000000;
 }
 
+section.success4 {
+    color: #fff;
+    background: #000000;
+}
+
+section.success1 {
+    color: #000;
+    background: #DDDDDD;
+}
+
 section.bg-light-gray {
     background-color: #F7F7F7;
+}
+
+.row1 .span4{
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+}
+
+.fluid-img {
+    margin: 10px auto;
+
+}
+
+.fluid-img1 {
+    margin: 20px auto;
+
+}
+
+.fluid-img2 {
+    margin: 15px auto;
+
+}
+
+@media( min-width: 768px ){
+        .fluid-img {
+            max-width: 768px;
+        }
+}
+@media screen and (min-width: 768px) {
+        .fluid-img {
+            padding-left: 0;
+            padding-right: 0;
+        }
 }
 
 #text-muted{
@@ -686,8 +792,15 @@ ul.social-buttons li a:active {
     text-align: center;
 }
 
+
 iframe{
-    display:block;vertical-align:baseline;background-color:#fff;padding:2px;margin:2px
+overflow:hidden;
+display:block;vertical-align:baseline;background-color:#fff;padding:2px;
+
+margin:10px
+
 auto 10px auto;border:1px
 solid #afb9cb
 }
+
+
