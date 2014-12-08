@@ -14,14 +14,15 @@ html, body {
 
 #banner > img {
     width: 550px;
-    height: 210px;
+    height: 160px;
+    margin: 20px;
 }
 
 nav ul li a {
     font-family: 'Lato', sans-serif;
     font-weight: 900;
     font-size: 15pt;
-    color: #E8E8E8;
+    color: white;
     transition: all 0.2s ease;
 }
 
@@ -84,13 +85,13 @@ h2 {
 .sections {
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 80%;
 }
 
 section.active {}
 
 section {
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     width:100%;
 }
 
@@ -120,19 +121,22 @@ h3{
     font-size: 22pt;
 }
 
-footer {
-    height: 700px;
-    background: #f7f7f7;
-}
-
 #docs li {
     display: inline-block;
-    margin: 0 5px;
+    margin-right: 10px;
+}
+
+#docs ul {
+    margin-left: -50px;
 }
 
 #docs {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
     clear: both;
     text-align: center;
+    margin-bottom: 60px;
 }
 
 .team {
@@ -184,34 +188,38 @@ footer {
     text-align: center;
 }
 
-.design_pic {
-    width: 22%;
-    /*height: 600px;*/
-    margin-left: 20px;
+.design_pic{
+    height: 485px;
 }
-
 #design_pics {
     text-align: center;
 }
 
-#team {
-    overflow: hidden;
+.mid {
+    margin-left: 60px;
+    margin-right: 0px;
 }
 
-#game {
+#team {
+    overflow: hidden;
     width: 100%;
-    height: auto;
-    float: left;
+}
+
+.game {
+    width:400px;
+}
+
+.food {
+    margin-left: 80px;
+    margin-top: 20px;
+    width:40%;
+    height: 40%;
+    display: inline-block;
+    float: right;
 }
 
 #problem {
-    clear: left;
-}
-
-#pic_note {
-    font-size: 12pt;
-    text-align: center;
-    color: #606060;
+    clear: both;
 }
 
 #members {
@@ -225,4 +233,71 @@ footer {
 
 #members li {
     width: 45%;
+}
+
+.desc {
+    font-weight: bold;
+}
+
+#pic_note {
+    font-size: 16pt;
+    text-align: center;
+    color: #606060;
+    margin-bottom: 0;
+}
+
+.design_sec {
+    display: inline-block;
+}
+
+q, #source {
+    font-size: 18pt;
+    color: #484848;
+    text-align: center;
+}
+
+#source {
+    margin-top: 0;
+    float: right;
+}
+
+.big {
+    clear: both;
+    font-size: 20pt;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+#quote {
+    padding: 40px;
+    border: rgba(255, 72, 80, 0.96) 5px solid;
+}
+
+#game {
+    margin-top: 20px;
+    width: 80%;
+    height: auto;
+}
+
+#game_sec {
+    overflow: hidden;
+    text-align: center;
+}
+
+
+
+#design_pic_big {
+    text-align: center;
+}
+
+#design_pic_big img {
+    width: 75%;
+}
+
+.red {
+    font-size: 18pt;
+    color: red;
 }

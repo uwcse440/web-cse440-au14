@@ -5,7 +5,6 @@ $(document).ready(function () {
 
     $(window).on('scroll', function () {
         var window_top = $(window).scrollTop();
-//        var div_top = $('#sticky-anchor').offset().top;
         if (window_top > 160) {
             nav.addClass('stick');
         } else {
@@ -18,7 +17,8 @@ $(document).ready(function () {
             var top = $(this).offset().top - nav_height,
                 bottom = top + $(this).outerHeight();
 
-            if (cur_pos >= top - 20 && cur_pos <= bottom) {
+            if (cur_pos >= top && cur_pos <= bottom) {
+
                 nav.find('a').removeClass('active');
                 sections.removeClass('active');
                 $(this).addClass('active');
@@ -29,7 +29,7 @@ $(document).ready(function () {
 
     nav.find('a').on('click', function () {
         var $el = $(this)
-            , id = $el.attr('href');
+            ,id = $el.attr('href');
 
         $('html, body').animate({
             scrollTop: $(id).offset().top - nav_height
