@@ -3,7 +3,7 @@ body {
 }
 
 #container {
-	max-width: 68em;
+	max-width: 70em;
 	margin: 0 auto;
 	background-color: white;
 }
@@ -12,15 +12,15 @@ body {
        -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
        box-sizing: border-box;
-       font-family: 'Lato', sans-serif;
+       font-family: 'apercuregular', sans-serif;
 }
 
 .caps {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'apercubold', sans-serif;
 }
 
 .pure-menu a {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'apercuregular', sans-serif;
 }
 
 .l-box {
@@ -31,9 +31,13 @@ body {
 	padding: 3em;
 }
 
+.pure-img {
+  padding: 0.5em;
+}
+
 .pure-menu {
 	position: fixed;
-	max-width: 68em;
+	max-width: 70em;
       border-bottom: 12px solid #4F215D !important;
 }
 
