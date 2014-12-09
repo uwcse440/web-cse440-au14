@@ -17,3 +17,6 @@ env34
 
 # Temp/backup files
 *~
+
+#pesky OSX finder file
+*.DS_Store
