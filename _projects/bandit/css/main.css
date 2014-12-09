@@ -45,7 +45,7 @@ body #sidebar ul li a {
   display: inline-block;
   margin: 0;
   padding: 5px 0;
-  width: 100%;
+  width: 200px;
   border: 1px solid black;
   border-bottom: none;
   border-radius: 0;
@@ -74,14 +74,19 @@ body #sidebar ul li a:focus {
     padding-left: 0;
   }
 }
+body #overview p {
+  font-size: 160%;
+}
 body div.chunkspace {
   height: 4em;
 }
-body .snippet {
+body p.snippet,
+body div.snippet {
   font-size: 160%;
   margin: 20px 5px;
 }
-body .snippet strong {
+body p.snippet strong,
+body div.snippet strong {
   color: #ec432d;
   font-size: 120%;
 }
@@ -100,6 +105,9 @@ body #team p {
 }
 body #team .snippet {
   margin: 0;
+}
+body #team .snippet img {
+  width: 200px;
 }
 body #team .bump-up {
   position: relative;
@@ -125,5 +133,3 @@ body #tasks {
 body #tasks p {
   font-size: 110%;
 }
-
-/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
